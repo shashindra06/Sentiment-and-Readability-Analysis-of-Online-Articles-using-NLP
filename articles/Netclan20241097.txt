@@ -1,0 +1,560 @@
+Title: An agent-based model of a Virtual Power Plant (VPP) | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  An agent-based model of a Virtual Power Plant (VPP)
+
+
+
+
+
+Our Success StoriesEnergy
+
+An agent-based model of a Virtual Power Plant (VPP)
+
+By Ajay Bidyarthy -   September 15, 2022  8861 
+
+
+
+
+
+Client BackgroundClient: A Leading Energy Firm in the USAIndustry Type: EnergyServices: Power, Energy, DistributionOrganization Size: 5000+Project ObjectiveTo create an agent based model of a virtual power plant in Netlogo. To see the function of multiple such power plants that worked simultaneously. These power plants created and supplied energy based on a demand parameter that can be controlled by the observerProject DescriptionThe client defined specific requirements as to how he wanted the model to be. The requirements were divided into 4 parts. Each successive part increased in complexity and required the model to be adjusted or configured to fit that part into itThe entire model when completed contained all the four parts defined by the client in the Statement of work. Our SolutionCreated the model according to requirements. The clustering of multiple agents and their position is decided mathematically based on the total number of agents and the sum of their energies. The agents form a cluster based on the condition that the sum of their power is a figure that is above a certain threshold amount, the threshold amount is also decided by the observer.Project Deliverableshttps://github.com/AjayBidyarthy/Shingi-Samudzi-Build-Netlogo-ABM-for-simulating-Virtual-Power-Grid-economicsAbove is the github link to every state of the model that was delivered to the client. The uploads start from a basic model with only clustering of the agentsThe final upload is a model that contains the full representation of a VPP for simulation. Tools used-Netlogo– python Language/techniques usedNetlogo uses a specific language that resembles the logo language but has it’s unique syntax and variations in the way variables are stored and how a list is parsed Models usedClusteringSkills usedNetlogo programming What are the technical Challenges Faced during Project ExecutionThe major challenge was controlling the behavior of each agent in the model. The lack of understanding of the language and the available resources about it made it challenging to figure out the actual behavior of the agents and the overall model. The decision to decide where exactly each agent will cluster on the grid was difficult primarily because each agent spawned on a random patch of the screen. This meant that each agent would have to be given a spot to land on and form a cluster with other agents. The next challenge was deciding the condition on which the agents will cluster as their relative distance to each other couldn’t be used as a parameter as it wasn’t relevant to the model’s purpose. How the Technical Challenges were SolvedThe technical challenges were solved by extensive research and referring to several forums over the span of 2 months. Project SnapshotsProject Videohttps://www.youtube.com/watch?v=1fzCUzZ0q0Q&ab_channel=Blackcoffer 
+
+ 
+
+  
+Previous articleTransform API into SDK library and widgetNext articleETL and MLOps Infrastructure for Blockchain Analytics Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  An agent-based model of a Virtual Power Plant (VPP)
+
+
+
+
+
+Our Success StoriesEnergy
+
+An agent-based model of a Virtual Power Plant (VPP)
+
+By Ajay Bidyarthy -   September 15, 2022  8861 
+
+
+
+
+
+Client BackgroundClient: A Leading Energy Firm in the USAIndustry Type: EnergyServices: Power, Energy, DistributionOrganization Size: 5000+Project ObjectiveTo create an agent based model of a virtual power plant in Netlogo. To see the function of multiple such power plants that worked simultaneously. These power plants created and supplied energy based on a demand parameter that can be controlled by the observerProject DescriptionThe client defined specific requirements as to how he wanted the model to be. The requirements were divided into 4 parts. Each successive part increased in complexity and required the model to be adjusted or configured to fit that part into itThe entire model when completed contained all the four parts defined by the client in the Statement of work. Our SolutionCreated the model according to requirements. The clustering of multiple agents and their position is decided mathematically based on the total number of agents and the sum of their energies. The agents form a cluster based on the condition that the sum of their power is a figure that is above a certain threshold amount, the threshold amount is also decided by the observer.Project Deliverableshttps://github.com/AjayBidyarthy/Shingi-Samudzi-Build-Netlogo-ABM-for-simulating-Virtual-Power-Grid-economicsAbove is the github link to every state of the model that was delivered to the client. The uploads start from a basic model with only clustering of the agentsThe final upload is a model that contains the full representation of a VPP for simulation. Tools used-Netlogo– python Language/techniques usedNetlogo uses a specific language that resembles the logo language but has it’s unique syntax and variations in the way variables are stored and how a list is parsed Models usedClusteringSkills usedNetlogo programming What are the technical Challenges Faced during Project ExecutionThe major challenge was controlling the behavior of each agent in the model. The lack of understanding of the language and the available resources about it made it challenging to figure out the actual behavior of the agents and the overall model. The decision to decide where exactly each agent will cluster on the grid was difficult primarily because each agent spawned on a random patch of the screen. This meant that each agent would have to be given a spot to land on and form a cluster with other agents. The next challenge was deciding the condition on which the agents will cluster as their relative distance to each other couldn’t be used as a parameter as it wasn’t relevant to the model’s purpose. How the Technical Challenges were SolvedThe technical challenges were solved by extensive research and referring to several forums over the span of 2 months. Project SnapshotsProject Videohttps://www.youtube.com/watch?v=1fzCUzZ0q0Q&ab_channel=Blackcoffer 
+
+ 
+
+  
+Previous articleTransform API into SDK library and widgetNext articleETL and MLOps Infrastructure for Blockchain Analytics Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesEnergy
+
+An agent-based model of a Virtual Power Plant (VPP)
+
+By Ajay Bidyarthy -   September 15, 2022  8861 
+
+
+
+
+
+Client BackgroundClient: A Leading Energy Firm in the USAIndustry Type: EnergyServices: Power, Energy, DistributionOrganization Size: 5000+Project ObjectiveTo create an agent based model of a virtual power plant in Netlogo. To see the function of multiple such power plants that worked simultaneously. These power plants created and supplied energy based on a demand parameter that can be controlled by the observerProject DescriptionThe client defined specific requirements as to how he wanted the model to be. The requirements were divided into 4 parts. Each successive part increased in complexity and required the model to be adjusted or configured to fit that part into itThe entire model when completed contained all the four parts defined by the client in the Statement of work. Our SolutionCreated the model according to requirements. The clustering of multiple agents and their position is decided mathematically based on the total number of agents and the sum of their energies. The agents form a cluster based on the condition that the sum of their power is a figure that is above a certain threshold amount, the threshold amount is also decided by the observer.Project Deliverableshttps://github.com/AjayBidyarthy/Shingi-Samudzi-Build-Netlogo-ABM-for-simulating-Virtual-Power-Grid-economicsAbove is the github link to every state of the model that was delivered to the client. The uploads start from a basic model with only clustering of the agentsThe final upload is a model that contains the full representation of a VPP for simulation. Tools used-Netlogo– python Language/techniques usedNetlogo uses a specific language that resembles the logo language but has it’s unique syntax and variations in the way variables are stored and how a list is parsed Models usedClusteringSkills usedNetlogo programming What are the technical Challenges Faced during Project ExecutionThe major challenge was controlling the behavior of each agent in the model. The lack of understanding of the language and the available resources about it made it challenging to figure out the actual behavior of the agents and the overall model. The decision to decide where exactly each agent will cluster on the grid was difficult primarily because each agent spawned on a random patch of the screen. This meant that each agent would have to be given a spot to land on and form a cluster with other agents. The next challenge was deciding the condition on which the agents will cluster as their relative distance to each other couldn’t be used as a parameter as it wasn’t relevant to the model’s purpose. How the Technical Challenges were SolvedThe technical challenges were solved by extensive research and referring to several forums over the span of 2 months. Project SnapshotsProject Videohttps://www.youtube.com/watch?v=1fzCUzZ0q0Q&ab_channel=Blackcoffer 
+
+ 
+
+  
+Previous articleTransform API into SDK library and widgetNext articleETL and MLOps Infrastructure for Blockchain Analytics Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesEnergy
+
+An agent-based model of a Virtual Power Plant (VPP)
+
+By Ajay Bidyarthy -   September 15, 2022  8861 
+
+
+
+
+
+Client BackgroundClient: A Leading Energy Firm in the USAIndustry Type: EnergyServices: Power, Energy, DistributionOrganization Size: 5000+Project ObjectiveTo create an agent based model of a virtual power plant in Netlogo. To see the function of multiple such power plants that worked simultaneously. These power plants created and supplied energy based on a demand parameter that can be controlled by the observerProject DescriptionThe client defined specific requirements as to how he wanted the model to be. The requirements were divided into 4 parts. Each successive part increased in complexity and required the model to be adjusted or configured to fit that part into itThe entire model when completed contained all the four parts defined by the client in the Statement of work. Our SolutionCreated the model according to requirements. The clustering of multiple agents and their position is decided mathematically based on the total number of agents and the sum of their energies. The agents form a cluster based on the condition that the sum of their power is a figure that is above a certain threshold amount, the threshold amount is also decided by the observer.Project Deliverableshttps://github.com/AjayBidyarthy/Shingi-Samudzi-Build-Netlogo-ABM-for-simulating-Virtual-Power-Grid-economicsAbove is the github link to every state of the model that was delivered to the client. The uploads start from a basic model with only clustering of the agentsThe final upload is a model that contains the full representation of a VPP for simulation. Tools used-Netlogo– python Language/techniques usedNetlogo uses a specific language that resembles the logo language but has it’s unique syntax and variations in the way variables are stored and how a list is parsed Models usedClusteringSkills usedNetlogo programming What are the technical Challenges Faced during Project ExecutionThe major challenge was controlling the behavior of each agent in the model. The lack of understanding of the language and the available resources about it made it challenging to figure out the actual behavior of the agents and the overall model. The decision to decide where exactly each agent will cluster on the grid was difficult primarily because each agent spawned on a random patch of the screen. This meant that each agent would have to be given a spot to land on and form a cluster with other agents. The next challenge was deciding the condition on which the agents will cluster as their relative distance to each other couldn’t be used as a parameter as it wasn’t relevant to the model’s purpose. How the Technical Challenges were SolvedThe technical challenges were solved by extensive research and referring to several forums over the span of 2 months. Project SnapshotsProject Videohttps://www.youtube.com/watch?v=1fzCUzZ0q0Q&ab_channel=Blackcoffer 
+
+ 
+
+  
+Previous articleTransform API into SDK library and widgetNext articleETL and MLOps Infrastructure for Blockchain Analytics Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesEnergy
+
+An agent-based model of a Virtual Power Plant (VPP)
+
+By Ajay Bidyarthy -   September 15, 2022  8861 
+
+
+
+
+
+Client BackgroundClient: A Leading Energy Firm in the USAIndustry Type: EnergyServices: Power, Energy, DistributionOrganization Size: 5000+Project ObjectiveTo create an agent based model of a virtual power plant in Netlogo. To see the function of multiple such power plants that worked simultaneously. These power plants created and supplied energy based on a demand parameter that can be controlled by the observerProject DescriptionThe client defined specific requirements as to how he wanted the model to be. The requirements were divided into 4 parts. Each successive part increased in complexity and required the model to be adjusted or configured to fit that part into itThe entire model when completed contained all the four parts defined by the client in the Statement of work. Our SolutionCreated the model according to requirements. The clustering of multiple agents and their position is decided mathematically based on the total number of agents and the sum of their energies. The agents form a cluster based on the condition that the sum of their power is a figure that is above a certain threshold amount, the threshold amount is also decided by the observer.Project Deliverableshttps://github.com/AjayBidyarthy/Shingi-Samudzi-Build-Netlogo-ABM-for-simulating-Virtual-Power-Grid-economicsAbove is the github link to every state of the model that was delivered to the client. The uploads start from a basic model with only clustering of the agentsThe final upload is a model that contains the full representation of a VPP for simulation. Tools used-Netlogo– python Language/techniques usedNetlogo uses a specific language that resembles the logo language but has it’s unique syntax and variations in the way variables are stored and how a list is parsed Models usedClusteringSkills usedNetlogo programming What are the technical Challenges Faced during Project ExecutionThe major challenge was controlling the behavior of each agent in the model. The lack of understanding of the language and the available resources about it made it challenging to figure out the actual behavior of the agents and the overall model. The decision to decide where exactly each agent will cluster on the grid was difficult primarily because each agent spawned on a random patch of the screen. This meant that each agent would have to be given a spot to land on and form a cluster with other agents. The next challenge was deciding the condition on which the agents will cluster as their relative distance to each other couldn’t be used as a parameter as it wasn’t relevant to the model’s purpose. How the Technical Challenges were SolvedThe technical challenges were solved by extensive research and referring to several forums over the span of 2 months. Project SnapshotsProject Videohttps://www.youtube.com/watch?v=1fzCUzZ0q0Q&ab_channel=Blackcoffer 
+
+ 
+
+  
+Previous articleTransform API into SDK library and widgetNext articleETL and MLOps Infrastructure for Blockchain Analytics Ajay Bidyarthy  
+
+
+Our Success StoriesEnergy
+
+An agent-based model of a Virtual Power Plant (VPP)
+
+By Ajay Bidyarthy -   September 15, 2022  8861 
+
+
+By Ajay Bidyarthy -  
+8861
+
+
+
+Client BackgroundClient: A Leading Energy Firm in the USAIndustry Type: EnergyServices: Power, Energy, DistributionOrganization Size: 5000+Project ObjectiveTo create an agent based model of a virtual power plant in Netlogo. To see the function of multiple such power plants that worked simultaneously. These power plants created and supplied energy based on a demand parameter that can be controlled by the observerProject DescriptionThe client defined specific requirements as to how he wanted the model to be. The requirements were divided into 4 parts. Each successive part increased in complexity and required the model to be adjusted or configured to fit that part into itThe entire model when completed contained all the four parts defined by the client in the Statement of work. Our SolutionCreated the model according to requirements. The clustering of multiple agents and their position is decided mathematically based on the total number of agents and the sum of their energies. The agents form a cluster based on the condition that the sum of their power is a figure that is above a certain threshold amount, the threshold amount is also decided by the observer.Project Deliverableshttps://github.com/AjayBidyarthy/Shingi-Samudzi-Build-Netlogo-ABM-for-simulating-Virtual-Power-Grid-economicsAbove is the github link to every state of the model that was delivered to the client. The uploads start from a basic model with only clustering of the agentsThe final upload is a model that contains the full representation of a VPP for simulation. Tools used-Netlogo– python Language/techniques usedNetlogo uses a specific language that resembles the logo language but has it’s unique syntax and variations in the way variables are stored and how a list is parsed Models usedClusteringSkills usedNetlogo programming What are the technical Challenges Faced during Project ExecutionThe major challenge was controlling the behavior of each agent in the model. The lack of understanding of the language and the available resources about it made it challenging to figure out the actual behavior of the agents and the overall model. The decision to decide where exactly each agent will cluster on the grid was difficult primarily because each agent spawned on a random patch of the screen. This meant that each agent would have to be given a spot to land on and form a cluster with other agents. The next challenge was deciding the condition on which the agents will cluster as their relative distance to each other couldn’t be used as a parameter as it wasn’t relevant to the model’s purpose. How the Technical Challenges were SolvedThe technical challenges were solved by extensive research and referring to several forums over the span of 2 months. Project SnapshotsProject Videohttps://www.youtube.com/watch?v=1fzCUzZ0q0Q&ab_channel=Blackcoffer 
+
+
+  
+Previous articleTransform API into SDK library and widgetNext articleETL and MLOps Infrastructure for Blockchain Analytics
+Previous articleTransform API into SDK library and widget
+Previous articleTransform API into SDK library and widget
+Next articleETL and MLOps Infrastructure for Blockchain Analytics
+Next articleETL and MLOps Infrastructure for Blockchain Analytics
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

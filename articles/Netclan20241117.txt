@@ -1,0 +1,572 @@
+Title: Power BI dashboard to drive insights from complex data to generate business insights | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Power BI dashboard to drive insights from complex data to generate business...
+
+
+
+
+
+Our Success StoriesIT
+
+Power BI dashboard to drive insights from complex data to generate business insights
+
+By Ajay Bidyarthy -   February 26, 2022  8935 
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  Market ResearchServices: Marketing, ConsultancyOrganization Size: 100+Project DescriptionPhase – 1: In this project first of all we have made heatmap between two columns named Author and Data Source. Then after two combining two tables named NY_data and nodeid_views made the report of all of the data.Phase – 2: Success of story was given by if pageviews is more than 35000, if pageviews lies between 3500-35000 the story was labelled as needs improvement and if it was below 3500 the story was labelled as failure. Phase – 3: The powerbi report was made to find different insights in the data like different tables were drawn between different attributes of data like pie chart, time series chart, comparison charts. The data is updated every week and the report is generated automatically.Our SolutionWe provided them Phase 1 in the powerbi sql editor by combining two tables using sql queries. For phase 2 we just used the power bi program tool and written a script in Python to calculate the success of story. For Phase 3 we used the internal features of Power BI to find insights of the data.Project DeliverablesWe have provided a PowerBI report file as deliverable for the project.Tools usedPython, PowerBI, Google ChromeLanguage/techniques usedPython Programming and SQL queries editor.Models usedWaterfall model used in this project.Skills usedData cleaning, Data Pre-processing, Data Visualisation are used in this project.Databases usedWe have used the traditional file systems as database storage.What are the technical Challenges Faced during Project ExecutionDrawing heatmap in the PowerBI.Combining two tables on the basis of the pageviews.Converting the time series to data to 5 minute format.How the Technical Challenges were SolvedWe installed a new add on in the PowerBI to draw heatmap for the project and used the SQL editor to combine the tables on the basis of page views. We used python programming to convert the time series data to 5 minute time gap format.Project Snapshots Project Video
+
+ 
+
+ 
+
+  
+Previous articleReal-time dashboard to monitor infrastructure activity and MachinesNext articleDatabase Normalization & Segmentation with Google Data Studio Dashboard Insights Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Power BI dashboard to drive insights from complex data to generate business...
+
+
+
+
+
+Our Success StoriesIT
+
+Power BI dashboard to drive insights from complex data to generate business insights
+
+By Ajay Bidyarthy -   February 26, 2022  8935 
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  Market ResearchServices: Marketing, ConsultancyOrganization Size: 100+Project DescriptionPhase – 1: In this project first of all we have made heatmap between two columns named Author and Data Source. Then after two combining two tables named NY_data and nodeid_views made the report of all of the data.Phase – 2: Success of story was given by if pageviews is more than 35000, if pageviews lies between 3500-35000 the story was labelled as needs improvement and if it was below 3500 the story was labelled as failure. Phase – 3: The powerbi report was made to find different insights in the data like different tables were drawn between different attributes of data like pie chart, time series chart, comparison charts. The data is updated every week and the report is generated automatically.Our SolutionWe provided them Phase 1 in the powerbi sql editor by combining two tables using sql queries. For phase 2 we just used the power bi program tool and written a script in Python to calculate the success of story. For Phase 3 we used the internal features of Power BI to find insights of the data.Project DeliverablesWe have provided a PowerBI report file as deliverable for the project.Tools usedPython, PowerBI, Google ChromeLanguage/techniques usedPython Programming and SQL queries editor.Models usedWaterfall model used in this project.Skills usedData cleaning, Data Pre-processing, Data Visualisation are used in this project.Databases usedWe have used the traditional file systems as database storage.What are the technical Challenges Faced during Project ExecutionDrawing heatmap in the PowerBI.Combining two tables on the basis of the pageviews.Converting the time series to data to 5 minute format.How the Technical Challenges were SolvedWe installed a new add on in the PowerBI to draw heatmap for the project and used the SQL editor to combine the tables on the basis of page views. We used python programming to convert the time series data to 5 minute time gap format.Project Snapshots Project Video
+
+ 
+
+ 
+
+  
+Previous articleReal-time dashboard to monitor infrastructure activity and MachinesNext articleDatabase Normalization & Segmentation with Google Data Studio Dashboard Insights Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Power BI dashboard to drive insights from complex data to generate business insights
+
+By Ajay Bidyarthy -   February 26, 2022  8935 
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  Market ResearchServices: Marketing, ConsultancyOrganization Size: 100+Project DescriptionPhase – 1: In this project first of all we have made heatmap between two columns named Author and Data Source. Then after two combining two tables named NY_data and nodeid_views made the report of all of the data.Phase – 2: Success of story was given by if pageviews is more than 35000, if pageviews lies between 3500-35000 the story was labelled as needs improvement and if it was below 3500 the story was labelled as failure. Phase – 3: The powerbi report was made to find different insights in the data like different tables were drawn between different attributes of data like pie chart, time series chart, comparison charts. The data is updated every week and the report is generated automatically.Our SolutionWe provided them Phase 1 in the powerbi sql editor by combining two tables using sql queries. For phase 2 we just used the power bi program tool and written a script in Python to calculate the success of story. For Phase 3 we used the internal features of Power BI to find insights of the data.Project DeliverablesWe have provided a PowerBI report file as deliverable for the project.Tools usedPython, PowerBI, Google ChromeLanguage/techniques usedPython Programming and SQL queries editor.Models usedWaterfall model used in this project.Skills usedData cleaning, Data Pre-processing, Data Visualisation are used in this project.Databases usedWe have used the traditional file systems as database storage.What are the technical Challenges Faced during Project ExecutionDrawing heatmap in the PowerBI.Combining two tables on the basis of the pageviews.Converting the time series to data to 5 minute format.How the Technical Challenges were SolvedWe installed a new add on in the PowerBI to draw heatmap for the project and used the SQL editor to combine the tables on the basis of page views. We used python programming to convert the time series data to 5 minute time gap format.Project Snapshots Project Video
+
+ 
+
+ 
+
+  
+Previous articleReal-time dashboard to monitor infrastructure activity and MachinesNext articleDatabase Normalization & Segmentation with Google Data Studio Dashboard Insights Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Power BI dashboard to drive insights from complex data to generate business insights
+
+By Ajay Bidyarthy -   February 26, 2022  8935 
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  Market ResearchServices: Marketing, ConsultancyOrganization Size: 100+Project DescriptionPhase – 1: In this project first of all we have made heatmap between two columns named Author and Data Source. Then after two combining two tables named NY_data and nodeid_views made the report of all of the data.Phase – 2: Success of story was given by if pageviews is more than 35000, if pageviews lies between 3500-35000 the story was labelled as needs improvement and if it was below 3500 the story was labelled as failure. Phase – 3: The powerbi report was made to find different insights in the data like different tables were drawn between different attributes of data like pie chart, time series chart, comparison charts. The data is updated every week and the report is generated automatically.Our SolutionWe provided them Phase 1 in the powerbi sql editor by combining two tables using sql queries. For phase 2 we just used the power bi program tool and written a script in Python to calculate the success of story. For Phase 3 we used the internal features of Power BI to find insights of the data.Project DeliverablesWe have provided a PowerBI report file as deliverable for the project.Tools usedPython, PowerBI, Google ChromeLanguage/techniques usedPython Programming and SQL queries editor.Models usedWaterfall model used in this project.Skills usedData cleaning, Data Pre-processing, Data Visualisation are used in this project.Databases usedWe have used the traditional file systems as database storage.What are the technical Challenges Faced during Project ExecutionDrawing heatmap in the PowerBI.Combining two tables on the basis of the pageviews.Converting the time series to data to 5 minute format.How the Technical Challenges were SolvedWe installed a new add on in the PowerBI to draw heatmap for the project and used the SQL editor to combine the tables on the basis of page views. We used python programming to convert the time series data to 5 minute time gap format.Project Snapshots Project Video
+
+ 
+
+ 
+
+  
+Previous articleReal-time dashboard to monitor infrastructure activity and MachinesNext articleDatabase Normalization & Segmentation with Google Data Studio Dashboard Insights Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesIT
+
+Power BI dashboard to drive insights from complex data to generate business insights
+
+By Ajay Bidyarthy -   February 26, 2022  8935 
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  Market ResearchServices: Marketing, ConsultancyOrganization Size: 100+Project DescriptionPhase – 1: In this project first of all we have made heatmap between two columns named Author and Data Source. Then after two combining two tables named NY_data and nodeid_views made the report of all of the data.Phase – 2: Success of story was given by if pageviews is more than 35000, if pageviews lies between 3500-35000 the story was labelled as needs improvement and if it was below 3500 the story was labelled as failure. Phase – 3: The powerbi report was made to find different insights in the data like different tables were drawn between different attributes of data like pie chart, time series chart, comparison charts. The data is updated every week and the report is generated automatically.Our SolutionWe provided them Phase 1 in the powerbi sql editor by combining two tables using sql queries. For phase 2 we just used the power bi program tool and written a script in Python to calculate the success of story. For Phase 3 we used the internal features of Power BI to find insights of the data.Project DeliverablesWe have provided a PowerBI report file as deliverable for the project.Tools usedPython, PowerBI, Google ChromeLanguage/techniques usedPython Programming and SQL queries editor.Models usedWaterfall model used in this project.Skills usedData cleaning, Data Pre-processing, Data Visualisation are used in this project.Databases usedWe have used the traditional file systems as database storage.What are the technical Challenges Faced during Project ExecutionDrawing heatmap in the PowerBI.Combining two tables on the basis of the pageviews.Converting the time series to data to 5 minute format.How the Technical Challenges were SolvedWe installed a new add on in the PowerBI to draw heatmap for the project and used the SQL editor to combine the tables on the basis of page views. We used python programming to convert the time series data to 5 minute time gap format.Project Snapshots Project Video
+
+ 
+
+ 
+
+  
+Previous articleReal-time dashboard to monitor infrastructure activity and MachinesNext articleDatabase Normalization & Segmentation with Google Data Studio Dashboard Insights Ajay Bidyarthy  
+
+
+Our Success StoriesIT
+
+Power BI dashboard to drive insights from complex data to generate business insights
+
+By Ajay Bidyarthy -   February 26, 2022  8935 
+
+
+By Ajay Bidyarthy -  
+8935
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  Market ResearchServices: Marketing, ConsultancyOrganization Size: 100+Project DescriptionPhase – 1: In this project first of all we have made heatmap between two columns named Author and Data Source. Then after two combining two tables named NY_data and nodeid_views made the report of all of the data.Phase – 2: Success of story was given by if pageviews is more than 35000, if pageviews lies between 3500-35000 the story was labelled as needs improvement and if it was below 3500 the story was labelled as failure. Phase – 3: The powerbi report was made to find different insights in the data like different tables were drawn between different attributes of data like pie chart, time series chart, comparison charts. The data is updated every week and the report is generated automatically.Our SolutionWe provided them Phase 1 in the powerbi sql editor by combining two tables using sql queries. For phase 2 we just used the power bi program tool and written a script in Python to calculate the success of story. For Phase 3 we used the internal features of Power BI to find insights of the data.Project DeliverablesWe have provided a PowerBI report file as deliverable for the project.Tools usedPython, PowerBI, Google ChromeLanguage/techniques usedPython Programming and SQL queries editor.Models usedWaterfall model used in this project.Skills usedData cleaning, Data Pre-processing, Data Visualisation are used in this project.Databases usedWe have used the traditional file systems as database storage.What are the technical Challenges Faced during Project ExecutionDrawing heatmap in the PowerBI.Combining two tables on the basis of the pageviews.Converting the time series to data to 5 minute format.How the Technical Challenges were SolvedWe installed a new add on in the PowerBI to draw heatmap for the project and used the SQL editor to combine the tables on the basis of page views. We used python programming to convert the time series data to 5 minute time gap format.Project Snapshots Project Video
+
+ 
+
+
+  
+Previous articleReal-time dashboard to monitor infrastructure activity and MachinesNext articleDatabase Normalization & Segmentation with Google Data Studio Dashboard Insights
+Previous articleReal-time dashboard to monitor infrastructure activity and Machines
+Previous articleReal-time dashboard to monitor infrastructure activity and Machines
+Next articleDatabase Normalization & Segmentation with Google Data Studio Dashboard Insights
+Next articleDatabase Normalization & Segmentation with Google Data Studio Dashboard Insights
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

@@ -1,0 +1,578 @@
+Title: Using Graph Technology to Create Single Customer View. | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Using Graph Technology to Create Single Customer View.
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsRetail & Supply Chain
+
+Using Graph Technology to Create Single Customer View.
+
+By Ajay Bidyarthy -   July 21, 2023  8677 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in NewzealandIndustry Type:  RetailServices: Retail businessOrganization Size: 100+The ProblemCompanies face issue of having a Single customer under various rows with slightly different information in the same database. This causes unwanted duplication and inaccurate statistics. It also results in inaccurate ad targeting and financial loss.Our SolutionWe leverage graph technology to create a single customer view by using Complex cypher queries  and Graph Algorithms. Solution ArchitectureWe have an Azure VM on which we have installed the Neo4j Database. Deployment architecture is a single Instance because of using the Community version of the software.DeliverablesPopulated Neo4j Database. 
+Required Cypher Queries.Tools usedNeo4j
+GraphlyticsLanguage/techniques usedJava
+Cypher QueryModels usedNode-Relationship modelSkills usedData AnalyticsData EngineeringData ScienceDatabases usedNeo4jWeb Cloud Servers usedAZUREWhat are the technical Challenges Faced during Project ExecutionOnly 1 Difficulty was faced in this Project and that was to migrate data from Elasticsearch to Neo4j.How the Technical Challenges were SolvedResearch and Experimentation.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleCar Detection in Satellite ImagesNext articleAdvanced AI for Handgun Detection Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Using Graph Technology to Create Single Customer View.
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsRetail & Supply Chain
+
+Using Graph Technology to Create Single Customer View.
+
+By Ajay Bidyarthy -   July 21, 2023  8677 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in NewzealandIndustry Type:  RetailServices: Retail businessOrganization Size: 100+The ProblemCompanies face issue of having a Single customer under various rows with slightly different information in the same database. This causes unwanted duplication and inaccurate statistics. It also results in inaccurate ad targeting and financial loss.Our SolutionWe leverage graph technology to create a single customer view by using Complex cypher queries  and Graph Algorithms. Solution ArchitectureWe have an Azure VM on which we have installed the Neo4j Database. Deployment architecture is a single Instance because of using the Community version of the software.DeliverablesPopulated Neo4j Database. 
+Required Cypher Queries.Tools usedNeo4j
+GraphlyticsLanguage/techniques usedJava
+Cypher QueryModels usedNode-Relationship modelSkills usedData AnalyticsData EngineeringData ScienceDatabases usedNeo4jWeb Cloud Servers usedAZUREWhat are the technical Challenges Faced during Project ExecutionOnly 1 Difficulty was faced in this Project and that was to migrate data from Elasticsearch to Neo4j.How the Technical Challenges were SolvedResearch and Experimentation.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleCar Detection in Satellite ImagesNext articleAdvanced AI for Handgun Detection Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsRetail & Supply Chain
+
+Using Graph Technology to Create Single Customer View.
+
+By Ajay Bidyarthy -   July 21, 2023  8677 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in NewzealandIndustry Type:  RetailServices: Retail businessOrganization Size: 100+The ProblemCompanies face issue of having a Single customer under various rows with slightly different information in the same database. This causes unwanted duplication and inaccurate statistics. It also results in inaccurate ad targeting and financial loss.Our SolutionWe leverage graph technology to create a single customer view by using Complex cypher queries  and Graph Algorithms. Solution ArchitectureWe have an Azure VM on which we have installed the Neo4j Database. Deployment architecture is a single Instance because of using the Community version of the software.DeliverablesPopulated Neo4j Database. 
+Required Cypher Queries.Tools usedNeo4j
+GraphlyticsLanguage/techniques usedJava
+Cypher QueryModels usedNode-Relationship modelSkills usedData AnalyticsData EngineeringData ScienceDatabases usedNeo4jWeb Cloud Servers usedAZUREWhat are the technical Challenges Faced during Project ExecutionOnly 1 Difficulty was faced in this Project and that was to migrate data from Elasticsearch to Neo4j.How the Technical Challenges were SolvedResearch and Experimentation.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleCar Detection in Satellite ImagesNext articleAdvanced AI for Handgun Detection Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsRetail & Supply Chain
+
+Using Graph Technology to Create Single Customer View.
+
+By Ajay Bidyarthy -   July 21, 2023  8677 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in NewzealandIndustry Type:  RetailServices: Retail businessOrganization Size: 100+The ProblemCompanies face issue of having a Single customer under various rows with slightly different information in the same database. This causes unwanted duplication and inaccurate statistics. It also results in inaccurate ad targeting and financial loss.Our SolutionWe leverage graph technology to create a single customer view by using Complex cypher queries  and Graph Algorithms. Solution ArchitectureWe have an Azure VM on which we have installed the Neo4j Database. Deployment architecture is a single Instance because of using the Community version of the software.DeliverablesPopulated Neo4j Database. 
+Required Cypher Queries.Tools usedNeo4j
+GraphlyticsLanguage/techniques usedJava
+Cypher QueryModels usedNode-Relationship modelSkills usedData AnalyticsData EngineeringData ScienceDatabases usedNeo4jWeb Cloud Servers usedAZUREWhat are the technical Challenges Faced during Project ExecutionOnly 1 Difficulty was faced in this Project and that was to migrate data from Elasticsearch to Neo4j.How the Technical Challenges were SolvedResearch and Experimentation.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleCar Detection in Satellite ImagesNext articleAdvanced AI for Handgun Detection Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesFast Moving Consumer GoodsRetail & Supply Chain
+
+Using Graph Technology to Create Single Customer View.
+
+By Ajay Bidyarthy -   July 21, 2023  8677 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in NewzealandIndustry Type:  RetailServices: Retail businessOrganization Size: 100+The ProblemCompanies face issue of having a Single customer under various rows with slightly different information in the same database. This causes unwanted duplication and inaccurate statistics. It also results in inaccurate ad targeting and financial loss.Our SolutionWe leverage graph technology to create a single customer view by using Complex cypher queries  and Graph Algorithms. Solution ArchitectureWe have an Azure VM on which we have installed the Neo4j Database. Deployment architecture is a single Instance because of using the Community version of the software.DeliverablesPopulated Neo4j Database. 
+Required Cypher Queries.Tools usedNeo4j
+GraphlyticsLanguage/techniques usedJava
+Cypher QueryModels usedNode-Relationship modelSkills usedData AnalyticsData EngineeringData ScienceDatabases usedNeo4jWeb Cloud Servers usedAZUREWhat are the technical Challenges Faced during Project ExecutionOnly 1 Difficulty was faced in this Project and that was to migrate data from Elasticsearch to Neo4j.How the Technical Challenges were SolvedResearch and Experimentation.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleCar Detection in Satellite ImagesNext articleAdvanced AI for Handgun Detection Ajay Bidyarthy  
+
+
+Our Success StoriesFast Moving Consumer GoodsRetail & Supply Chain
+
+Using Graph Technology to Create Single Customer View.
+
+By Ajay Bidyarthy -   July 21, 2023  8677 
+
+
+By Ajay Bidyarthy -  
+8677
+
+
+
+Client BackgroundClient: A leading retail firm in NewzealandIndustry Type:  RetailServices: Retail businessOrganization Size: 100+The ProblemCompanies face issue of having a Single customer under various rows with slightly different information in the same database. This causes unwanted duplication and inaccurate statistics. It also results in inaccurate ad targeting and financial loss.Our SolutionWe leverage graph technology to create a single customer view by using Complex cypher queries  and Graph Algorithms. Solution ArchitectureWe have an Azure VM on which we have installed the Neo4j Database. Deployment architecture is a single Instance because of using the Community version of the software.DeliverablesPopulated Neo4j Database. 
+Required Cypher Queries.Tools usedNeo4j
+GraphlyticsLanguage/techniques usedJava
+Cypher QueryModels usedNode-Relationship modelSkills usedData AnalyticsData EngineeringData ScienceDatabases usedNeo4jWeb Cloud Servers usedAZUREWhat are the technical Challenges Faced during Project ExecutionOnly 1 Difficulty was faced in this Project and that was to migrate data from Elasticsearch to Neo4j.How the Technical Challenges were SolvedResearch and Experimentation.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+  
+Previous articleCar Detection in Satellite ImagesNext articleAdvanced AI for Handgun Detection
+Previous articleCar Detection in Satellite Images
+Previous articleCar Detection in Satellite Images
+Next articleAdvanced AI for Handgun Detection
+Next articleAdvanced AI for Handgun Detection
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

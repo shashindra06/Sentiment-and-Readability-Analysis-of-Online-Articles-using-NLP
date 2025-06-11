@@ -1,0 +1,560 @@
+Title: Medical Classification | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Medical Classification
+
+
+
+
+
+Our Success StoriesHealthcare
+
+Medical Classification
+
+By Ajay Bidyarthy -   September 16, 2022  8886 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveClassify the medical research paper into 0 if the medical research paper cannot be used in future medical research and 1 if the medical research paper can be used in research based on some research-related phrases.Train an ML/DL model on classified data.Project Description We have given an excel sheet of medical research paper text and provided some phrases to identify research papers that can be used for future medical research. If the phrase is not present in a research paper then it will not be used for research. After annotation, we need to find the best ML/DL model to train research data and evaluate the model on test data.Our SolutionWe have created a python script that can compare all medical research paper text to research phrases and annot 0 if research phrases are not present in a medical research paper and 1 if research phrases present in medical research paper. After annotation we have trained different machine learning and deep learning models like Bert base uncased using Tensorflow, bert large, XGBoost Classifier, Random Forest Classifier and Logistic Regression. Among these models we have chosen the best accuracy  parameters model. In our case the bert-base model performed good and gave 95% test accuracy. Project DeliverablesML/DL model which is trained on medical research classification data to classify other medical research papers.Tools usedGoogle Colab notebooks, Tensorflow, PyTorch, Transformers, MS ExcelLanguage/techniques usedPython, Machine learning, Deep learning, Data Science, Natural Language Processing (NLP).Models usedTensorflow-Bert model, PyTorch LSTM model, Random Forest Classifier, XGBoost Classifier, Logistic Regression.  Skills usedMachine Learning, Deep learning, NLP, Python programming. Databases usedused ms excel dataWhat are the technical Challenges Faced during Project ExecutionThere are various technical challenges faced during project execution:The research paper has a huge amount of text data so the model was giving space errors in colab notebooks.Find the best threshold value which gives best test accuracy. How the Technical Challenges were SolvedTo solve space error we have trained the model with lower batch size so this solved the error.To find the best threshold value we created the ROC AUC curve and Precision  Recall curve and checked best points where accuracy will be higher. 
+
+ 
+
+  
+Previous articleDesign & Develop BERT Question Answering model explanations with visualizationNext articlePlaystore & Appstore to Google Analytics (GA) or Firebase to Google Data Studio Mobile App KPI Dashboard Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Medical Classification
+
+
+
+
+
+Our Success StoriesHealthcare
+
+Medical Classification
+
+By Ajay Bidyarthy -   September 16, 2022  8886 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveClassify the medical research paper into 0 if the medical research paper cannot be used in future medical research and 1 if the medical research paper can be used in research based on some research-related phrases.Train an ML/DL model on classified data.Project Description We have given an excel sheet of medical research paper text and provided some phrases to identify research papers that can be used for future medical research. If the phrase is not present in a research paper then it will not be used for research. After annotation, we need to find the best ML/DL model to train research data and evaluate the model on test data.Our SolutionWe have created a python script that can compare all medical research paper text to research phrases and annot 0 if research phrases are not present in a medical research paper and 1 if research phrases present in medical research paper. After annotation we have trained different machine learning and deep learning models like Bert base uncased using Tensorflow, bert large, XGBoost Classifier, Random Forest Classifier and Logistic Regression. Among these models we have chosen the best accuracy  parameters model. In our case the bert-base model performed good and gave 95% test accuracy. Project DeliverablesML/DL model which is trained on medical research classification data to classify other medical research papers.Tools usedGoogle Colab notebooks, Tensorflow, PyTorch, Transformers, MS ExcelLanguage/techniques usedPython, Machine learning, Deep learning, Data Science, Natural Language Processing (NLP).Models usedTensorflow-Bert model, PyTorch LSTM model, Random Forest Classifier, XGBoost Classifier, Logistic Regression.  Skills usedMachine Learning, Deep learning, NLP, Python programming. Databases usedused ms excel dataWhat are the technical Challenges Faced during Project ExecutionThere are various technical challenges faced during project execution:The research paper has a huge amount of text data so the model was giving space errors in colab notebooks.Find the best threshold value which gives best test accuracy. How the Technical Challenges were SolvedTo solve space error we have trained the model with lower batch size so this solved the error.To find the best threshold value we created the ROC AUC curve and Precision  Recall curve and checked best points where accuracy will be higher. 
+
+ 
+
+  
+Previous articleDesign & Develop BERT Question Answering model explanations with visualizationNext articlePlaystore & Appstore to Google Analytics (GA) or Firebase to Google Data Studio Mobile App KPI Dashboard Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesHealthcare
+
+Medical Classification
+
+By Ajay Bidyarthy -   September 16, 2022  8886 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveClassify the medical research paper into 0 if the medical research paper cannot be used in future medical research and 1 if the medical research paper can be used in research based on some research-related phrases.Train an ML/DL model on classified data.Project Description We have given an excel sheet of medical research paper text and provided some phrases to identify research papers that can be used for future medical research. If the phrase is not present in a research paper then it will not be used for research. After annotation, we need to find the best ML/DL model to train research data and evaluate the model on test data.Our SolutionWe have created a python script that can compare all medical research paper text to research phrases and annot 0 if research phrases are not present in a medical research paper and 1 if research phrases present in medical research paper. After annotation we have trained different machine learning and deep learning models like Bert base uncased using Tensorflow, bert large, XGBoost Classifier, Random Forest Classifier and Logistic Regression. Among these models we have chosen the best accuracy  parameters model. In our case the bert-base model performed good and gave 95% test accuracy. Project DeliverablesML/DL model which is trained on medical research classification data to classify other medical research papers.Tools usedGoogle Colab notebooks, Tensorflow, PyTorch, Transformers, MS ExcelLanguage/techniques usedPython, Machine learning, Deep learning, Data Science, Natural Language Processing (NLP).Models usedTensorflow-Bert model, PyTorch LSTM model, Random Forest Classifier, XGBoost Classifier, Logistic Regression.  Skills usedMachine Learning, Deep learning, NLP, Python programming. Databases usedused ms excel dataWhat are the technical Challenges Faced during Project ExecutionThere are various technical challenges faced during project execution:The research paper has a huge amount of text data so the model was giving space errors in colab notebooks.Find the best threshold value which gives best test accuracy. How the Technical Challenges were SolvedTo solve space error we have trained the model with lower batch size so this solved the error.To find the best threshold value we created the ROC AUC curve and Precision  Recall curve and checked best points where accuracy will be higher. 
+
+ 
+
+  
+Previous articleDesign & Develop BERT Question Answering model explanations with visualizationNext articlePlaystore & Appstore to Google Analytics (GA) or Firebase to Google Data Studio Mobile App KPI Dashboard Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesHealthcare
+
+Medical Classification
+
+By Ajay Bidyarthy -   September 16, 2022  8886 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveClassify the medical research paper into 0 if the medical research paper cannot be used in future medical research and 1 if the medical research paper can be used in research based on some research-related phrases.Train an ML/DL model on classified data.Project Description We have given an excel sheet of medical research paper text and provided some phrases to identify research papers that can be used for future medical research. If the phrase is not present in a research paper then it will not be used for research. After annotation, we need to find the best ML/DL model to train research data and evaluate the model on test data.Our SolutionWe have created a python script that can compare all medical research paper text to research phrases and annot 0 if research phrases are not present in a medical research paper and 1 if research phrases present in medical research paper. After annotation we have trained different machine learning and deep learning models like Bert base uncased using Tensorflow, bert large, XGBoost Classifier, Random Forest Classifier and Logistic Regression. Among these models we have chosen the best accuracy  parameters model. In our case the bert-base model performed good and gave 95% test accuracy. Project DeliverablesML/DL model which is trained on medical research classification data to classify other medical research papers.Tools usedGoogle Colab notebooks, Tensorflow, PyTorch, Transformers, MS ExcelLanguage/techniques usedPython, Machine learning, Deep learning, Data Science, Natural Language Processing (NLP).Models usedTensorflow-Bert model, PyTorch LSTM model, Random Forest Classifier, XGBoost Classifier, Logistic Regression.  Skills usedMachine Learning, Deep learning, NLP, Python programming. Databases usedused ms excel dataWhat are the technical Challenges Faced during Project ExecutionThere are various technical challenges faced during project execution:The research paper has a huge amount of text data so the model was giving space errors in colab notebooks.Find the best threshold value which gives best test accuracy. How the Technical Challenges were SolvedTo solve space error we have trained the model with lower batch size so this solved the error.To find the best threshold value we created the ROC AUC curve and Precision  Recall curve and checked best points where accuracy will be higher. 
+
+ 
+
+  
+Previous articleDesign & Develop BERT Question Answering model explanations with visualizationNext articlePlaystore & Appstore to Google Analytics (GA) or Firebase to Google Data Studio Mobile App KPI Dashboard Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesHealthcare
+
+Medical Classification
+
+By Ajay Bidyarthy -   September 16, 2022  8886 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveClassify the medical research paper into 0 if the medical research paper cannot be used in future medical research and 1 if the medical research paper can be used in research based on some research-related phrases.Train an ML/DL model on classified data.Project Description We have given an excel sheet of medical research paper text and provided some phrases to identify research papers that can be used for future medical research. If the phrase is not present in a research paper then it will not be used for research. After annotation, we need to find the best ML/DL model to train research data and evaluate the model on test data.Our SolutionWe have created a python script that can compare all medical research paper text to research phrases and annot 0 if research phrases are not present in a medical research paper and 1 if research phrases present in medical research paper. After annotation we have trained different machine learning and deep learning models like Bert base uncased using Tensorflow, bert large, XGBoost Classifier, Random Forest Classifier and Logistic Regression. Among these models we have chosen the best accuracy  parameters model. In our case the bert-base model performed good and gave 95% test accuracy. Project DeliverablesML/DL model which is trained on medical research classification data to classify other medical research papers.Tools usedGoogle Colab notebooks, Tensorflow, PyTorch, Transformers, MS ExcelLanguage/techniques usedPython, Machine learning, Deep learning, Data Science, Natural Language Processing (NLP).Models usedTensorflow-Bert model, PyTorch LSTM model, Random Forest Classifier, XGBoost Classifier, Logistic Regression.  Skills usedMachine Learning, Deep learning, NLP, Python programming. Databases usedused ms excel dataWhat are the technical Challenges Faced during Project ExecutionThere are various technical challenges faced during project execution:The research paper has a huge amount of text data so the model was giving space errors in colab notebooks.Find the best threshold value which gives best test accuracy. How the Technical Challenges were SolvedTo solve space error we have trained the model with lower batch size so this solved the error.To find the best threshold value we created the ROC AUC curve and Precision  Recall curve and checked best points where accuracy will be higher. 
+
+ 
+
+  
+Previous articleDesign & Develop BERT Question Answering model explanations with visualizationNext articlePlaystore & Appstore to Google Analytics (GA) or Firebase to Google Data Studio Mobile App KPI Dashboard Ajay Bidyarthy  
+
+
+Our Success StoriesHealthcare
+
+Medical Classification
+
+By Ajay Bidyarthy -   September 16, 2022  8886 
+
+
+By Ajay Bidyarthy -  
+8886
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveClassify the medical research paper into 0 if the medical research paper cannot be used in future medical research and 1 if the medical research paper can be used in research based on some research-related phrases.Train an ML/DL model on classified data.Project Description We have given an excel sheet of medical research paper text and provided some phrases to identify research papers that can be used for future medical research. If the phrase is not present in a research paper then it will not be used for research. After annotation, we need to find the best ML/DL model to train research data and evaluate the model on test data.Our SolutionWe have created a python script that can compare all medical research paper text to research phrases and annot 0 if research phrases are not present in a medical research paper and 1 if research phrases present in medical research paper. After annotation we have trained different machine learning and deep learning models like Bert base uncased using Tensorflow, bert large, XGBoost Classifier, Random Forest Classifier and Logistic Regression. Among these models we have chosen the best accuracy  parameters model. In our case the bert-base model performed good and gave 95% test accuracy. Project DeliverablesML/DL model which is trained on medical research classification data to classify other medical research papers.Tools usedGoogle Colab notebooks, Tensorflow, PyTorch, Transformers, MS ExcelLanguage/techniques usedPython, Machine learning, Deep learning, Data Science, Natural Language Processing (NLP).Models usedTensorflow-Bert model, PyTorch LSTM model, Random Forest Classifier, XGBoost Classifier, Logistic Regression.  Skills usedMachine Learning, Deep learning, NLP, Python programming. Databases usedused ms excel dataWhat are the technical Challenges Faced during Project ExecutionThere are various technical challenges faced during project execution:The research paper has a huge amount of text data so the model was giving space errors in colab notebooks.Find the best threshold value which gives best test accuracy. How the Technical Challenges were SolvedTo solve space error we have trained the model with lower batch size so this solved the error.To find the best threshold value we created the ROC AUC curve and Precision  Recall curve and checked best points where accuracy will be higher. 
+
+
+  
+Previous articleDesign & Develop BERT Question Answering model explanations with visualizationNext articlePlaystore & Appstore to Google Analytics (GA) or Firebase to Google Data Studio Mobile App KPI Dashboard
+Previous articleDesign & Develop BERT Question Answering model explanations with visualization
+Previous articleDesign & Develop BERT Question Answering model explanations with visualization
+Next articlePlaystore & Appstore to Google Analytics (GA) or Firebase to Google Data Studio Mobile App KPI Dashboard
+Next articlePlaystore & Appstore to Google Analytics (GA) or Firebase to Google Data Studio Mobile App KPI Dashboard
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

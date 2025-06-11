@@ -1,0 +1,560 @@
+Title: Data Transformation | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Data Transformation
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsOur Services
+
+Data Transformation
+
+By Ajay Bidyarthy -   July 21, 2023  8863 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to convert dirty JSON data present in a CSV file to a readable CSV file. The CSV file contained data in JSON format, which was split into columns in an Excel file, making it hard to read. The client wanted the data to be extracted and converted into a readable format to perform further analysis on it.Project DescriptionOur client had provided us with a CSV file that contained data in JSON format, which was split into columns in an Excel file. The data was hard to read and understand, making it difficult to perform any analysis on it. Our objective was to extract the data, convert it to a readable format, and validate the JSON file to ensure that it was in a correct format. Finally, we had to convert the JSON data into a CSV file that could be easily read and analyzed.Our Solution To extract the data, we used Python programming language and Pandas library. We extracted every piece of text present in the Excel sheet using Pandas and converted it into a readable text format. We then validated the JSON file with a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas again to convert the JSON data into a CSV file that could be easily read and analyzed.To perform the conversion, we used Jupyter Notebook, Json Validator, and Microsoft Excel.Project DeliverablesThe final deliverable was a readable CSV file that contained the converted data from the original JSON format.Tools usedJupyter Notebook, Json Validator, and Microsoft Excel.Language/techniques usedPython programming language and Pandas library.Skills usedPython programming and Pandas data manipulation.What are the technical Challenges Faced during Project ExecutionThe main technical challenge we faced during the project was dealing with dirty JSON data present in a CSV file that was split into columns in an Excel file. This made it hard to read and understand, and required extra effort to extract the data and convert it into a readable format.How the Technical Challenges were SolvedWe solved the technical challenges by using Python programming language and Pandas library to extract and manipulate the data. We validated the JSON data using a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas to convert the JSON data into a readable CSV file that could be easily analyzed.Business ImpactThe business impact of this project was that the client was able to perform further analysis on the extracted data in a readable format, which was previously hard to read and understand.Project website urlhttps://colab.research.google.com/drive/1yWDj8_HXu6hOYatrzWQ3ezqBxsUON3JYHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthyFor project discussions and daily updates, would you like to use Slack, or Skype or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleE-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…Next articleConnecting MongoDB Database to Power BI Dashboard: Dashboard Automation Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Data Transformation
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsOur Services
+
+Data Transformation
+
+By Ajay Bidyarthy -   July 21, 2023  8863 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to convert dirty JSON data present in a CSV file to a readable CSV file. The CSV file contained data in JSON format, which was split into columns in an Excel file, making it hard to read. The client wanted the data to be extracted and converted into a readable format to perform further analysis on it.Project DescriptionOur client had provided us with a CSV file that contained data in JSON format, which was split into columns in an Excel file. The data was hard to read and understand, making it difficult to perform any analysis on it. Our objective was to extract the data, convert it to a readable format, and validate the JSON file to ensure that it was in a correct format. Finally, we had to convert the JSON data into a CSV file that could be easily read and analyzed.Our Solution To extract the data, we used Python programming language and Pandas library. We extracted every piece of text present in the Excel sheet using Pandas and converted it into a readable text format. We then validated the JSON file with a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas again to convert the JSON data into a CSV file that could be easily read and analyzed.To perform the conversion, we used Jupyter Notebook, Json Validator, and Microsoft Excel.Project DeliverablesThe final deliverable was a readable CSV file that contained the converted data from the original JSON format.Tools usedJupyter Notebook, Json Validator, and Microsoft Excel.Language/techniques usedPython programming language and Pandas library.Skills usedPython programming and Pandas data manipulation.What are the technical Challenges Faced during Project ExecutionThe main technical challenge we faced during the project was dealing with dirty JSON data present in a CSV file that was split into columns in an Excel file. This made it hard to read and understand, and required extra effort to extract the data and convert it into a readable format.How the Technical Challenges were SolvedWe solved the technical challenges by using Python programming language and Pandas library to extract and manipulate the data. We validated the JSON data using a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas to convert the JSON data into a readable CSV file that could be easily analyzed.Business ImpactThe business impact of this project was that the client was able to perform further analysis on the extracted data in a readable format, which was previously hard to read and understand.Project website urlhttps://colab.research.google.com/drive/1yWDj8_HXu6hOYatrzWQ3ezqBxsUON3JYHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthyFor project discussions and daily updates, would you like to use Slack, or Skype or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleE-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…Next articleConnecting MongoDB Database to Power BI Dashboard: Dashboard Automation Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsOur Services
+
+Data Transformation
+
+By Ajay Bidyarthy -   July 21, 2023  8863 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to convert dirty JSON data present in a CSV file to a readable CSV file. The CSV file contained data in JSON format, which was split into columns in an Excel file, making it hard to read. The client wanted the data to be extracted and converted into a readable format to perform further analysis on it.Project DescriptionOur client had provided us with a CSV file that contained data in JSON format, which was split into columns in an Excel file. The data was hard to read and understand, making it difficult to perform any analysis on it. Our objective was to extract the data, convert it to a readable format, and validate the JSON file to ensure that it was in a correct format. Finally, we had to convert the JSON data into a CSV file that could be easily read and analyzed.Our Solution To extract the data, we used Python programming language and Pandas library. We extracted every piece of text present in the Excel sheet using Pandas and converted it into a readable text format. We then validated the JSON file with a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas again to convert the JSON data into a CSV file that could be easily read and analyzed.To perform the conversion, we used Jupyter Notebook, Json Validator, and Microsoft Excel.Project DeliverablesThe final deliverable was a readable CSV file that contained the converted data from the original JSON format.Tools usedJupyter Notebook, Json Validator, and Microsoft Excel.Language/techniques usedPython programming language and Pandas library.Skills usedPython programming and Pandas data manipulation.What are the technical Challenges Faced during Project ExecutionThe main technical challenge we faced during the project was dealing with dirty JSON data present in a CSV file that was split into columns in an Excel file. This made it hard to read and understand, and required extra effort to extract the data and convert it into a readable format.How the Technical Challenges were SolvedWe solved the technical challenges by using Python programming language and Pandas library to extract and manipulate the data. We validated the JSON data using a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas to convert the JSON data into a readable CSV file that could be easily analyzed.Business ImpactThe business impact of this project was that the client was able to perform further analysis on the extracted data in a readable format, which was previously hard to read and understand.Project website urlhttps://colab.research.google.com/drive/1yWDj8_HXu6hOYatrzWQ3ezqBxsUON3JYHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthyFor project discussions and daily updates, would you like to use Slack, or Skype or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleE-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…Next articleConnecting MongoDB Database to Power BI Dashboard: Dashboard Automation Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsOur Services
+
+Data Transformation
+
+By Ajay Bidyarthy -   July 21, 2023  8863 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to convert dirty JSON data present in a CSV file to a readable CSV file. The CSV file contained data in JSON format, which was split into columns in an Excel file, making it hard to read. The client wanted the data to be extracted and converted into a readable format to perform further analysis on it.Project DescriptionOur client had provided us with a CSV file that contained data in JSON format, which was split into columns in an Excel file. The data was hard to read and understand, making it difficult to perform any analysis on it. Our objective was to extract the data, convert it to a readable format, and validate the JSON file to ensure that it was in a correct format. Finally, we had to convert the JSON data into a CSV file that could be easily read and analyzed.Our Solution To extract the data, we used Python programming language and Pandas library. We extracted every piece of text present in the Excel sheet using Pandas and converted it into a readable text format. We then validated the JSON file with a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas again to convert the JSON data into a CSV file that could be easily read and analyzed.To perform the conversion, we used Jupyter Notebook, Json Validator, and Microsoft Excel.Project DeliverablesThe final deliverable was a readable CSV file that contained the converted data from the original JSON format.Tools usedJupyter Notebook, Json Validator, and Microsoft Excel.Language/techniques usedPython programming language and Pandas library.Skills usedPython programming and Pandas data manipulation.What are the technical Challenges Faced during Project ExecutionThe main technical challenge we faced during the project was dealing with dirty JSON data present in a CSV file that was split into columns in an Excel file. This made it hard to read and understand, and required extra effort to extract the data and convert it into a readable format.How the Technical Challenges were SolvedWe solved the technical challenges by using Python programming language and Pandas library to extract and manipulate the data. We validated the JSON data using a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas to convert the JSON data into a readable CSV file that could be easily analyzed.Business ImpactThe business impact of this project was that the client was able to perform further analysis on the extracted data in a readable format, which was previously hard to read and understand.Project website urlhttps://colab.research.google.com/drive/1yWDj8_HXu6hOYatrzWQ3ezqBxsUON3JYHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthyFor project discussions and daily updates, would you like to use Slack, or Skype or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleE-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…Next articleConnecting MongoDB Database to Power BI Dashboard: Dashboard Automation Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesFast Moving Consumer GoodsOur Services
+
+Data Transformation
+
+By Ajay Bidyarthy -   July 21, 2023  8863 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to convert dirty JSON data present in a CSV file to a readable CSV file. The CSV file contained data in JSON format, which was split into columns in an Excel file, making it hard to read. The client wanted the data to be extracted and converted into a readable format to perform further analysis on it.Project DescriptionOur client had provided us with a CSV file that contained data in JSON format, which was split into columns in an Excel file. The data was hard to read and understand, making it difficult to perform any analysis on it. Our objective was to extract the data, convert it to a readable format, and validate the JSON file to ensure that it was in a correct format. Finally, we had to convert the JSON data into a CSV file that could be easily read and analyzed.Our Solution To extract the data, we used Python programming language and Pandas library. We extracted every piece of text present in the Excel sheet using Pandas and converted it into a readable text format. We then validated the JSON file with a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas again to convert the JSON data into a CSV file that could be easily read and analyzed.To perform the conversion, we used Jupyter Notebook, Json Validator, and Microsoft Excel.Project DeliverablesThe final deliverable was a readable CSV file that contained the converted data from the original JSON format.Tools usedJupyter Notebook, Json Validator, and Microsoft Excel.Language/techniques usedPython programming language and Pandas library.Skills usedPython programming and Pandas data manipulation.What are the technical Challenges Faced during Project ExecutionThe main technical challenge we faced during the project was dealing with dirty JSON data present in a CSV file that was split into columns in an Excel file. This made it hard to read and understand, and required extra effort to extract the data and convert it into a readable format.How the Technical Challenges were SolvedWe solved the technical challenges by using Python programming language and Pandas library to extract and manipulate the data. We validated the JSON data using a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas to convert the JSON data into a readable CSV file that could be easily analyzed.Business ImpactThe business impact of this project was that the client was able to perform further analysis on the extracted data in a readable format, which was previously hard to read and understand.Project website urlhttps://colab.research.google.com/drive/1yWDj8_HXu6hOYatrzWQ3ezqBxsUON3JYHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthyFor project discussions and daily updates, would you like to use Slack, or Skype or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleE-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…Next articleConnecting MongoDB Database to Power BI Dashboard: Dashboard Automation Ajay Bidyarthy  
+
+
+Our Success StoriesFast Moving Consumer GoodsOur Services
+
+Data Transformation
+
+By Ajay Bidyarthy -   July 21, 2023  8863 
+
+
+By Ajay Bidyarthy -  
+8863
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to convert dirty JSON data present in a CSV file to a readable CSV file. The CSV file contained data in JSON format, which was split into columns in an Excel file, making it hard to read. The client wanted the data to be extracted and converted into a readable format to perform further analysis on it.Project DescriptionOur client had provided us with a CSV file that contained data in JSON format, which was split into columns in an Excel file. The data was hard to read and understand, making it difficult to perform any analysis on it. Our objective was to extract the data, convert it to a readable format, and validate the JSON file to ensure that it was in a correct format. Finally, we had to convert the JSON data into a CSV file that could be easily read and analyzed.Our Solution To extract the data, we used Python programming language and Pandas library. We extracted every piece of text present in the Excel sheet using Pandas and converted it into a readable text format. We then validated the JSON file with a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas again to convert the JSON data into a CSV file that could be easily read and analyzed.To perform the conversion, we used Jupyter Notebook, Json Validator, and Microsoft Excel.Project DeliverablesThe final deliverable was a readable CSV file that contained the converted data from the original JSON format.Tools usedJupyter Notebook, Json Validator, and Microsoft Excel.Language/techniques usedPython programming language and Pandas library.Skills usedPython programming and Pandas data manipulation.What are the technical Challenges Faced during Project ExecutionThe main technical challenge we faced during the project was dealing with dirty JSON data present in a CSV file that was split into columns in an Excel file. This made it hard to read and understand, and required extra effort to extract the data and convert it into a readable format.How the Technical Challenges were SolvedWe solved the technical challenges by using Python programming language and Pandas library to extract and manipulate the data. We validated the JSON data using a JSON validator website to ensure that it was in the correct format. Finally, we used Pandas to convert the JSON data into a readable CSV file that could be easily analyzed.Business ImpactThe business impact of this project was that the client was able to perform further analysis on the extracted data in a readable format, which was previously hard to read and understand.Project website urlhttps://colab.research.google.com/drive/1yWDj8_HXu6hOYatrzWQ3ezqBxsUON3JYHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthyFor project discussions and daily updates, would you like to use Slack, or Skype or Whatsapp? Please recommend, what would work best for you. 
+
+
+  
+Previous articleE-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…Next articleConnecting MongoDB Database to Power BI Dashboard: Dashboard Automation
+Previous articleE-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…
+Previous articleE-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…
+Next articleConnecting MongoDB Database to Power BI Dashboard: Dashboard Automation
+Next articleConnecting MongoDB Database to Power BI Dashboard: Dashboard Automation
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

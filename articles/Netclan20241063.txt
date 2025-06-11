@@ -1,0 +1,680 @@
+Title: Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards
+
+
+
+
+
+Our Success StoriesIT
+
+Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards
+
+By Ajay Bidyarthy -   July 26, 2023  9076 
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  MarketingServices: Ads, Marketing, Campaign, ConsultingOrganization Size: 200+The ProblemThe client has a Google LSA Ads Manager Account with about 100+ accounts and wishes to collect data available through the Google LSA API daily. The client wishes to set up a private Databases that is automatically created for newly added accounts and stores all of the collected data (Lead and Phone Call data). Finally, all collected data must be presented through the Google Looker Studio Dashboards, with the design layouts as suggested by the client.Our SolutionThe solution involves a number of Python-based ETL tools that are responsible for fetching the data from Google’s LSA API daily and updating the same in the Google BigQuery Databases.Two different tools run are:MCC Data Fetching tool.
+Lead Record data fetching tool. The fetched data is stored in BigQuery Databases on the client-provided (Google)manager account.Carefully curated Google Looker Studio dashboards implemented with client-suggested theme layout which are updated upon client request, represent a number of KPIs and graphs indicating major data trends.The designed dashboards have a number of data-controlling filters that filter the data account-wise and date-wise.Solution ArchitectureDeliverablesHeroku deployed Python tools
+Google Looker Studio Dashboards
+BigQuery Database
+Maintenance serviceTools usedPython
+Google BigQuery
+Heroku
+Google Looker Studio
+Git
+Heroku CLILanguage/techniques usedPython
+GoogleSQL (BigQuery supported SQL)
+Looker Modeling Language (Looker ML)
+Git CommandsSkills usedData Engineering skill to fetch data as per client needs.
+Data Processing to make it suitable for dashboards, databases
+Dashboard designing and data presentation skills
+Tool Deployment
+Database manipulation
+Data pipliningDatabases usedGoogle BigQueryWeb Cloud Servers usedHeroku: Cloud Application PlatformWhat are the technical Challenges Faced during Project ExecutionGoogle LSA API is slow, high data fetching timelines.
+BigQuery jobs fail, causing inconsistencies.How the Technical Challenges were SolvedEntire data fetching operation requires 1-2 hrs daily, 2 separate tools run in asynchronously and populate two different databases, the data is grouped in the dashboards
+Regular weekly and monthly data refreshes update any inconsistent data.Business ImpactBusiness clients are able to access important KPI’s without the need to understand the complexities involved behind the scenes.
+Allows clients to track their performances, responsiveness.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleAd Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)Next articleData Management for a Political SaaS Application Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards
+
+
+
+
+
+Our Success StoriesIT
+
+Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards
+
+By Ajay Bidyarthy -   July 26, 2023  9076 
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  MarketingServices: Ads, Marketing, Campaign, ConsultingOrganization Size: 200+The ProblemThe client has a Google LSA Ads Manager Account with about 100+ accounts and wishes to collect data available through the Google LSA API daily. The client wishes to set up a private Databases that is automatically created for newly added accounts and stores all of the collected data (Lead and Phone Call data). Finally, all collected data must be presented through the Google Looker Studio Dashboards, with the design layouts as suggested by the client.Our SolutionThe solution involves a number of Python-based ETL tools that are responsible for fetching the data from Google’s LSA API daily and updating the same in the Google BigQuery Databases.Two different tools run are:MCC Data Fetching tool.
+Lead Record data fetching tool. The fetched data is stored in BigQuery Databases on the client-provided (Google)manager account.Carefully curated Google Looker Studio dashboards implemented with client-suggested theme layout which are updated upon client request, represent a number of KPIs and graphs indicating major data trends.The designed dashboards have a number of data-controlling filters that filter the data account-wise and date-wise.Solution ArchitectureDeliverablesHeroku deployed Python tools
+Google Looker Studio Dashboards
+BigQuery Database
+Maintenance serviceTools usedPython
+Google BigQuery
+Heroku
+Google Looker Studio
+Git
+Heroku CLILanguage/techniques usedPython
+GoogleSQL (BigQuery supported SQL)
+Looker Modeling Language (Looker ML)
+Git CommandsSkills usedData Engineering skill to fetch data as per client needs.
+Data Processing to make it suitable for dashboards, databases
+Dashboard designing and data presentation skills
+Tool Deployment
+Database manipulation
+Data pipliningDatabases usedGoogle BigQueryWeb Cloud Servers usedHeroku: Cloud Application PlatformWhat are the technical Challenges Faced during Project ExecutionGoogle LSA API is slow, high data fetching timelines.
+BigQuery jobs fail, causing inconsistencies.How the Technical Challenges were SolvedEntire data fetching operation requires 1-2 hrs daily, 2 separate tools run in asynchronously and populate two different databases, the data is grouped in the dashboards
+Regular weekly and monthly data refreshes update any inconsistent data.Business ImpactBusiness clients are able to access important KPI’s without the need to understand the complexities involved behind the scenes.
+Allows clients to track their performances, responsiveness.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleAd Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)Next articleData Management for a Political SaaS Application Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards
+
+By Ajay Bidyarthy -   July 26, 2023  9076 
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  MarketingServices: Ads, Marketing, Campaign, ConsultingOrganization Size: 200+The ProblemThe client has a Google LSA Ads Manager Account with about 100+ accounts and wishes to collect data available through the Google LSA API daily. The client wishes to set up a private Databases that is automatically created for newly added accounts and stores all of the collected data (Lead and Phone Call data). Finally, all collected data must be presented through the Google Looker Studio Dashboards, with the design layouts as suggested by the client.Our SolutionThe solution involves a number of Python-based ETL tools that are responsible for fetching the data from Google’s LSA API daily and updating the same in the Google BigQuery Databases.Two different tools run are:MCC Data Fetching tool.
+Lead Record data fetching tool. The fetched data is stored in BigQuery Databases on the client-provided (Google)manager account.Carefully curated Google Looker Studio dashboards implemented with client-suggested theme layout which are updated upon client request, represent a number of KPIs and graphs indicating major data trends.The designed dashboards have a number of data-controlling filters that filter the data account-wise and date-wise.Solution ArchitectureDeliverablesHeroku deployed Python tools
+Google Looker Studio Dashboards
+BigQuery Database
+Maintenance serviceTools usedPython
+Google BigQuery
+Heroku
+Google Looker Studio
+Git
+Heroku CLILanguage/techniques usedPython
+GoogleSQL (BigQuery supported SQL)
+Looker Modeling Language (Looker ML)
+Git CommandsSkills usedData Engineering skill to fetch data as per client needs.
+Data Processing to make it suitable for dashboards, databases
+Dashboard designing and data presentation skills
+Tool Deployment
+Database manipulation
+Data pipliningDatabases usedGoogle BigQueryWeb Cloud Servers usedHeroku: Cloud Application PlatformWhat are the technical Challenges Faced during Project ExecutionGoogle LSA API is slow, high data fetching timelines.
+BigQuery jobs fail, causing inconsistencies.How the Technical Challenges were SolvedEntire data fetching operation requires 1-2 hrs daily, 2 separate tools run in asynchronously and populate two different databases, the data is grouped in the dashboards
+Regular weekly and monthly data refreshes update any inconsistent data.Business ImpactBusiness clients are able to access important KPI’s without the need to understand the complexities involved behind the scenes.
+Allows clients to track their performances, responsiveness.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleAd Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)Next articleData Management for a Political SaaS Application Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards
+
+By Ajay Bidyarthy -   July 26, 2023  9076 
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  MarketingServices: Ads, Marketing, Campaign, ConsultingOrganization Size: 200+The ProblemThe client has a Google LSA Ads Manager Account with about 100+ accounts and wishes to collect data available through the Google LSA API daily. The client wishes to set up a private Databases that is automatically created for newly added accounts and stores all of the collected data (Lead and Phone Call data). Finally, all collected data must be presented through the Google Looker Studio Dashboards, with the design layouts as suggested by the client.Our SolutionThe solution involves a number of Python-based ETL tools that are responsible for fetching the data from Google’s LSA API daily and updating the same in the Google BigQuery Databases.Two different tools run are:MCC Data Fetching tool.
+Lead Record data fetching tool. The fetched data is stored in BigQuery Databases on the client-provided (Google)manager account.Carefully curated Google Looker Studio dashboards implemented with client-suggested theme layout which are updated upon client request, represent a number of KPIs and graphs indicating major data trends.The designed dashboards have a number of data-controlling filters that filter the data account-wise and date-wise.Solution ArchitectureDeliverablesHeroku deployed Python tools
+Google Looker Studio Dashboards
+BigQuery Database
+Maintenance serviceTools usedPython
+Google BigQuery
+Heroku
+Google Looker Studio
+Git
+Heroku CLILanguage/techniques usedPython
+GoogleSQL (BigQuery supported SQL)
+Looker Modeling Language (Looker ML)
+Git CommandsSkills usedData Engineering skill to fetch data as per client needs.
+Data Processing to make it suitable for dashboards, databases
+Dashboard designing and data presentation skills
+Tool Deployment
+Database manipulation
+Data pipliningDatabases usedGoogle BigQueryWeb Cloud Servers usedHeroku: Cloud Application PlatformWhat are the technical Challenges Faced during Project ExecutionGoogle LSA API is slow, high data fetching timelines.
+BigQuery jobs fail, causing inconsistencies.How the Technical Challenges were SolvedEntire data fetching operation requires 1-2 hrs daily, 2 separate tools run in asynchronously and populate two different databases, the data is grouped in the dashboards
+Regular weekly and monthly data refreshes update any inconsistent data.Business ImpactBusiness clients are able to access important KPI’s without the need to understand the complexities involved behind the scenes.
+Allows clients to track their performances, responsiveness.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleAd Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)Next articleData Management for a Political SaaS Application Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesIT
+
+Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards
+
+By Ajay Bidyarthy -   July 26, 2023  9076 
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  MarketingServices: Ads, Marketing, Campaign, ConsultingOrganization Size: 200+The ProblemThe client has a Google LSA Ads Manager Account with about 100+ accounts and wishes to collect data available through the Google LSA API daily. The client wishes to set up a private Databases that is automatically created for newly added accounts and stores all of the collected data (Lead and Phone Call data). Finally, all collected data must be presented through the Google Looker Studio Dashboards, with the design layouts as suggested by the client.Our SolutionThe solution involves a number of Python-based ETL tools that are responsible for fetching the data from Google’s LSA API daily and updating the same in the Google BigQuery Databases.Two different tools run are:MCC Data Fetching tool.
+Lead Record data fetching tool. The fetched data is stored in BigQuery Databases on the client-provided (Google)manager account.Carefully curated Google Looker Studio dashboards implemented with client-suggested theme layout which are updated upon client request, represent a number of KPIs and graphs indicating major data trends.The designed dashboards have a number of data-controlling filters that filter the data account-wise and date-wise.Solution ArchitectureDeliverablesHeroku deployed Python tools
+Google Looker Studio Dashboards
+BigQuery Database
+Maintenance serviceTools usedPython
+Google BigQuery
+Heroku
+Google Looker Studio
+Git
+Heroku CLILanguage/techniques usedPython
+GoogleSQL (BigQuery supported SQL)
+Looker Modeling Language (Looker ML)
+Git CommandsSkills usedData Engineering skill to fetch data as per client needs.
+Data Processing to make it suitable for dashboards, databases
+Dashboard designing and data presentation skills
+Tool Deployment
+Database manipulation
+Data pipliningDatabases usedGoogle BigQueryWeb Cloud Servers usedHeroku: Cloud Application PlatformWhat are the technical Challenges Faced during Project ExecutionGoogle LSA API is slow, high data fetching timelines.
+BigQuery jobs fail, causing inconsistencies.How the Technical Challenges were SolvedEntire data fetching operation requires 1-2 hrs daily, 2 separate tools run in asynchronously and populate two different databases, the data is grouped in the dashboards
+Regular weekly and monthly data refreshes update any inconsistent data.Business ImpactBusiness clients are able to access important KPI’s without the need to understand the complexities involved behind the scenes.
+Allows clients to track their performances, responsiveness.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleAd Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)Next articleData Management for a Political SaaS Application Ajay Bidyarthy  
+
+
+Our Success StoriesIT
+
+Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards
+
+By Ajay Bidyarthy -   July 26, 2023  9076 
+
+
+By Ajay Bidyarthy -  
+9076
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  MarketingServices: Ads, Marketing, Campaign, ConsultingOrganization Size: 200+The ProblemThe client has a Google LSA Ads Manager Account with about 100+ accounts and wishes to collect data available through the Google LSA API daily. The client wishes to set up a private Databases that is automatically created for newly added accounts and stores all of the collected data (Lead and Phone Call data). Finally, all collected data must be presented through the Google Looker Studio Dashboards, with the design layouts as suggested by the client.Our SolutionThe solution involves a number of Python-based ETL tools that are responsible for fetching the data from Google’s LSA API daily and updating the same in the Google BigQuery Databases.Two different tools run are:MCC Data Fetching tool.
+Lead Record data fetching tool. The fetched data is stored in BigQuery Databases on the client-provided (Google)manager account.Carefully curated Google Looker Studio dashboards implemented with client-suggested theme layout which are updated upon client request, represent a number of KPIs and graphs indicating major data trends.The designed dashboards have a number of data-controlling filters that filter the data account-wise and date-wise.Solution ArchitectureDeliverablesHeroku deployed Python tools
+Google Looker Studio Dashboards
+BigQuery Database
+Maintenance serviceTools usedPython
+Google BigQuery
+Heroku
+Google Looker Studio
+Git
+Heroku CLILanguage/techniques usedPython
+GoogleSQL (BigQuery supported SQL)
+Looker Modeling Language (Looker ML)
+Git CommandsSkills usedData Engineering skill to fetch data as per client needs.
+Data Processing to make it suitable for dashboards, databases
+Dashboard designing and data presentation skills
+Tool Deployment
+Database manipulation
+Data pipliningDatabases usedGoogle BigQueryWeb Cloud Servers usedHeroku: Cloud Application PlatformWhat are the technical Challenges Faced during Project ExecutionGoogle LSA API is slow, high data fetching timelines.
+BigQuery jobs fail, causing inconsistencies.How the Technical Challenges were SolvedEntire data fetching operation requires 1-2 hrs daily, 2 separate tools run in asynchronously and populate two different databases, the data is grouped in the dashboards
+Regular weekly and monthly data refreshes update any inconsistent data.Business ImpactBusiness clients are able to access important KPI’s without the need to understand the complexities involved behind the scenes.
+Allows clients to track their performances, responsiveness.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+  
+Previous articleAd Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)Next articleData Management for a Political SaaS Application
+Previous articleAd Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)
+Previous articleAd Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)
+Next articleData Management for a Political SaaS Application
+Next articleData Management for a Political SaaS Application
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

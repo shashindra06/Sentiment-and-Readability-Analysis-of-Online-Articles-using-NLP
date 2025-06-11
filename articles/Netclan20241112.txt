@@ -1,0 +1,560 @@
+Title: Optimize the data scraper program to easily accommodate large files and solve OOM errors | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Optimize the data scraper program to easily accommodate large files and solve...
+
+
+
+
+
+Our Success StoriesIT
+
+Optimize the data scraper program to easily accommodate large files and solve OOM errors
+
+By Ajay Bidyarthy -   May 13, 2022  8478 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in IndiaIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionBuilding a large data warehouse that houses projects and tenders data from all over the world that is to be collected from official government websites, multilateral banks, state and local government agencies, data aggregating websites, etc. Our SolutionWe had tried multiple solutions to prevent the program from running out of memory. We used python pandas techniques to control the use of memory which worked for some files and did not work for others. Provided more solutions using vaex ,dask module and datatables.Project DeliverablesDesired changes to the code and committing them to github.Tools usedVscodePythonGithubSlackLanguage/techniques usedChunking dask Dataframevaex  datatable python.Skills usedCloud PythonTime complexityWhat are the technical Challenges Faced during Project ExecutionSystem specs requirement was the main issue during this project because the RAM available was too less and got used up quickly.How the Technical Challenges were SolvedTeam viewer to use remote desktop which had higher specs would be sufficient enough to solve the problem.Business ImpactProvided various techniques to solve memory issues.Suggested parallel programming to decrease the execution time by 12% making getting the tender data at a much faster rate.Project SnapshotsProject website urlhttps://github.com/Taiyo-ai/opentenders-euhttps://opentender.eu  
+
+ 
+
+  
+Previous articleMaking a robust way to sync data from airtables to mongoDB using python – ETL SolutionNext articleNFT Data Automation (looksrare), and ETL tool Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Optimize the data scraper program to easily accommodate large files and solve...
+
+
+
+
+
+Our Success StoriesIT
+
+Optimize the data scraper program to easily accommodate large files and solve OOM errors
+
+By Ajay Bidyarthy -   May 13, 2022  8478 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in IndiaIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionBuilding a large data warehouse that houses projects and tenders data from all over the world that is to be collected from official government websites, multilateral banks, state and local government agencies, data aggregating websites, etc. Our SolutionWe had tried multiple solutions to prevent the program from running out of memory. We used python pandas techniques to control the use of memory which worked for some files and did not work for others. Provided more solutions using vaex ,dask module and datatables.Project DeliverablesDesired changes to the code and committing them to github.Tools usedVscodePythonGithubSlackLanguage/techniques usedChunking dask Dataframevaex  datatable python.Skills usedCloud PythonTime complexityWhat are the technical Challenges Faced during Project ExecutionSystem specs requirement was the main issue during this project because the RAM available was too less and got used up quickly.How the Technical Challenges were SolvedTeam viewer to use remote desktop which had higher specs would be sufficient enough to solve the problem.Business ImpactProvided various techniques to solve memory issues.Suggested parallel programming to decrease the execution time by 12% making getting the tender data at a much faster rate.Project SnapshotsProject website urlhttps://github.com/Taiyo-ai/opentenders-euhttps://opentender.eu  
+
+ 
+
+  
+Previous articleMaking a robust way to sync data from airtables to mongoDB using python – ETL SolutionNext articleNFT Data Automation (looksrare), and ETL tool Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Optimize the data scraper program to easily accommodate large files and solve OOM errors
+
+By Ajay Bidyarthy -   May 13, 2022  8478 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in IndiaIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionBuilding a large data warehouse that houses projects and tenders data from all over the world that is to be collected from official government websites, multilateral banks, state and local government agencies, data aggregating websites, etc. Our SolutionWe had tried multiple solutions to prevent the program from running out of memory. We used python pandas techniques to control the use of memory which worked for some files and did not work for others. Provided more solutions using vaex ,dask module and datatables.Project DeliverablesDesired changes to the code and committing them to github.Tools usedVscodePythonGithubSlackLanguage/techniques usedChunking dask Dataframevaex  datatable python.Skills usedCloud PythonTime complexityWhat are the technical Challenges Faced during Project ExecutionSystem specs requirement was the main issue during this project because the RAM available was too less and got used up quickly.How the Technical Challenges were SolvedTeam viewer to use remote desktop which had higher specs would be sufficient enough to solve the problem.Business ImpactProvided various techniques to solve memory issues.Suggested parallel programming to decrease the execution time by 12% making getting the tender data at a much faster rate.Project SnapshotsProject website urlhttps://github.com/Taiyo-ai/opentenders-euhttps://opentender.eu  
+
+ 
+
+  
+Previous articleMaking a robust way to sync data from airtables to mongoDB using python – ETL SolutionNext articleNFT Data Automation (looksrare), and ETL tool Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Optimize the data scraper program to easily accommodate large files and solve OOM errors
+
+By Ajay Bidyarthy -   May 13, 2022  8478 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in IndiaIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionBuilding a large data warehouse that houses projects and tenders data from all over the world that is to be collected from official government websites, multilateral banks, state and local government agencies, data aggregating websites, etc. Our SolutionWe had tried multiple solutions to prevent the program from running out of memory. We used python pandas techniques to control the use of memory which worked for some files and did not work for others. Provided more solutions using vaex ,dask module and datatables.Project DeliverablesDesired changes to the code and committing them to github.Tools usedVscodePythonGithubSlackLanguage/techniques usedChunking dask Dataframevaex  datatable python.Skills usedCloud PythonTime complexityWhat are the technical Challenges Faced during Project ExecutionSystem specs requirement was the main issue during this project because the RAM available was too less and got used up quickly.How the Technical Challenges were SolvedTeam viewer to use remote desktop which had higher specs would be sufficient enough to solve the problem.Business ImpactProvided various techniques to solve memory issues.Suggested parallel programming to decrease the execution time by 12% making getting the tender data at a much faster rate.Project SnapshotsProject website urlhttps://github.com/Taiyo-ai/opentenders-euhttps://opentender.eu  
+
+ 
+
+  
+Previous articleMaking a robust way to sync data from airtables to mongoDB using python – ETL SolutionNext articleNFT Data Automation (looksrare), and ETL tool Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesIT
+
+Optimize the data scraper program to easily accommodate large files and solve OOM errors
+
+By Ajay Bidyarthy -   May 13, 2022  8478 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in IndiaIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionBuilding a large data warehouse that houses projects and tenders data from all over the world that is to be collected from official government websites, multilateral banks, state and local government agencies, data aggregating websites, etc. Our SolutionWe had tried multiple solutions to prevent the program from running out of memory. We used python pandas techniques to control the use of memory which worked for some files and did not work for others. Provided more solutions using vaex ,dask module and datatables.Project DeliverablesDesired changes to the code and committing them to github.Tools usedVscodePythonGithubSlackLanguage/techniques usedChunking dask Dataframevaex  datatable python.Skills usedCloud PythonTime complexityWhat are the technical Challenges Faced during Project ExecutionSystem specs requirement was the main issue during this project because the RAM available was too less and got used up quickly.How the Technical Challenges were SolvedTeam viewer to use remote desktop which had higher specs would be sufficient enough to solve the problem.Business ImpactProvided various techniques to solve memory issues.Suggested parallel programming to decrease the execution time by 12% making getting the tender data at a much faster rate.Project SnapshotsProject website urlhttps://github.com/Taiyo-ai/opentenders-euhttps://opentender.eu  
+
+ 
+
+  
+Previous articleMaking a robust way to sync data from airtables to mongoDB using python – ETL SolutionNext articleNFT Data Automation (looksrare), and ETL tool Ajay Bidyarthy  
+
+
+Our Success StoriesIT
+
+Optimize the data scraper program to easily accommodate large files and solve OOM errors
+
+By Ajay Bidyarthy -   May 13, 2022  8478 
+
+
+By Ajay Bidyarthy -  
+8478
+
+
+
+Client BackgroundClient: A leading tech firm in IndiaIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionBuilding a large data warehouse that houses projects and tenders data from all over the world that is to be collected from official government websites, multilateral banks, state and local government agencies, data aggregating websites, etc. Our SolutionWe had tried multiple solutions to prevent the program from running out of memory. We used python pandas techniques to control the use of memory which worked for some files and did not work for others. Provided more solutions using vaex ,dask module and datatables.Project DeliverablesDesired changes to the code and committing them to github.Tools usedVscodePythonGithubSlackLanguage/techniques usedChunking dask Dataframevaex  datatable python.Skills usedCloud PythonTime complexityWhat are the technical Challenges Faced during Project ExecutionSystem specs requirement was the main issue during this project because the RAM available was too less and got used up quickly.How the Technical Challenges were SolvedTeam viewer to use remote desktop which had higher specs would be sufficient enough to solve the problem.Business ImpactProvided various techniques to solve memory issues.Suggested parallel programming to decrease the execution time by 12% making getting the tender data at a much faster rate.Project SnapshotsProject website urlhttps://github.com/Taiyo-ai/opentenders-euhttps://opentender.eu  
+
+
+  
+Previous articleMaking a robust way to sync data from airtables to mongoDB using python – ETL SolutionNext articleNFT Data Automation (looksrare), and ETL tool
+Previous articleMaking a robust way to sync data from airtables to mongoDB using python – ETL Solution
+Previous articleMaking a robust way to sync data from airtables to mongoDB using python – ETL Solution
+Next articleNFT Data Automation (looksrare), and ETL tool
+Next articleNFT Data Automation (looksrare), and ETL tool
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

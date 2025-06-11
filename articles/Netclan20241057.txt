@@ -1,0 +1,680 @@
+Title: Recommendation Engine for Insurance Sector to Expand Business in the Rural Area | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Recommendation Engine for Insurance Sector to Expand Business in the Rural Area
+
+
+
+
+
+Our Success StoriesBanking Securities, and Insurance
+
+Recommendation Engine for Insurance Sector to Expand Business in the Rural Area
+
+By Ajay Bidyarthy -   July 29, 2023  8820 
+
+
+
+
+
+Client BackgroundClient: A leading insurance firm in the globeIndustry Type:  InsuranceServices: SaaS, Products, InsuranceOrganization Size: 10000+Project ObjectiveDevelop the recommendation engine 
+Item-based collaborative filtering based on the use case of the project
+Work on Streaming data platform i.e BangDb 
+Data Generation for Testing the platformProject DescriptionBangDB is the platform that manages the static data stored on the cluster and also works with live streaming data as Hadoop does. Wherever the bangdb is able to manage machine learning model deployment with their inbuilt parameter and hyper tuning parameters for each model.Streaming data from the client which relates to the customer details and the numbers of products offered by the client on their platform, such as Insurance, loans (Business Loans and Personal Loans), Mobile recharge, UPI transactions done by their platform, etc. They wanted the recommendation of other services provided by them to each of their customers who are using their platform.Our SolutionThis Project Module develops according to the Clients Requirements which involves item-based collaborative filtering based on customer behaviour, Firstly classify the customers into various segments on the basis of age, location, gender, and product usage. On the basis of RFM (marketing tactics to classify the customer on the basis of their purchase history, amount spend, and frequency of usage of product) classify them and recommend them the other services based on item-based collaborative filtering.We generated the synthetic data (90 Million events) for the testing of the recommendation model and its accuracy for recommending the other products to customers.Project Deliverables       –   KPI of the Customers       –   Recommendation model       –   Graph databased model       –   Data Generation code based on python (using copula-based on PyTorch)      Tools usedBangDb Tool (ML, AI, NoSQL database supported)
+Graph Databased
+Google Colab (Data file generation)
+Tableau for data visualization Language/techniques usedLinux cloud machine
+Python
+Graph Database
+Data visualization toolsModels used-K means model for clustering-Recommendation Engine model-Collaborative based filtering modelSkills used– Machine learning– NoSQL Database – Graph database– Data Generation using python– Linux – Data VisualizationDatabases used– BangDB– Graph Database– Microsoft MYSQL serverWeb Cloud Servers usedAWS cloud serviceWhat are the technical Challenges Faced during Project ExecutionDecide the Recommendation Engine based on the use case
+Finding the RFM score and classifying the customers into clusters
+Graph Model to define the relations of customers with each service which they are using 
+Synthetic data generation(90 Million events) and around 1.5 Gb structured data.How the Technical Challenges were SolvedItem-based collaborative filtering solves the issue of recommendation because we are dealing with almost 14- 15 services.
+Clustering of customers based on their similarities 
+Measure the RFM score, and group and classify them based on their scores.
+Graph database provides to reduce complexity and increase the processing speed.
+Data generation is one of the difficult tasks and generating relational data across 29 different streams using copula and UUID python library function which is based on PyTorch.Business ImpactIt is Qualitative and Quantitative impact on economically where customers are a direct impact of these projects in their life.
+It is suggesting to the customers what services they have to utilize from the provider and this is a direct impact of the product on the customers.
+Product is providing the action statement of the usage of services by the customers and impacts them economically as well.
+The scope impact of product service is Nationwide or statewide.
+To provide these impact-full services, there is a tech team of Blackcoffer behind itProject Snapshots Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleData from CRM via Zapier to Google Sheets (Dynamic) to PowerBINext articlePlaid Financial Analytics – A Data-Driven Dashboard to generate insights Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Recommendation Engine for Insurance Sector to Expand Business in the Rural Area
+
+
+
+
+
+Our Success StoriesBanking Securities, and Insurance
+
+Recommendation Engine for Insurance Sector to Expand Business in the Rural Area
+
+By Ajay Bidyarthy -   July 29, 2023  8820 
+
+
+
+
+
+Client BackgroundClient: A leading insurance firm in the globeIndustry Type:  InsuranceServices: SaaS, Products, InsuranceOrganization Size: 10000+Project ObjectiveDevelop the recommendation engine 
+Item-based collaborative filtering based on the use case of the project
+Work on Streaming data platform i.e BangDb 
+Data Generation for Testing the platformProject DescriptionBangDB is the platform that manages the static data stored on the cluster and also works with live streaming data as Hadoop does. Wherever the bangdb is able to manage machine learning model deployment with their inbuilt parameter and hyper tuning parameters for each model.Streaming data from the client which relates to the customer details and the numbers of products offered by the client on their platform, such as Insurance, loans (Business Loans and Personal Loans), Mobile recharge, UPI transactions done by their platform, etc. They wanted the recommendation of other services provided by them to each of their customers who are using their platform.Our SolutionThis Project Module develops according to the Clients Requirements which involves item-based collaborative filtering based on customer behaviour, Firstly classify the customers into various segments on the basis of age, location, gender, and product usage. On the basis of RFM (marketing tactics to classify the customer on the basis of their purchase history, amount spend, and frequency of usage of product) classify them and recommend them the other services based on item-based collaborative filtering.We generated the synthetic data (90 Million events) for the testing of the recommendation model and its accuracy for recommending the other products to customers.Project Deliverables       –   KPI of the Customers       –   Recommendation model       –   Graph databased model       –   Data Generation code based on python (using copula-based on PyTorch)      Tools usedBangDb Tool (ML, AI, NoSQL database supported)
+Graph Databased
+Google Colab (Data file generation)
+Tableau for data visualization Language/techniques usedLinux cloud machine
+Python
+Graph Database
+Data visualization toolsModels used-K means model for clustering-Recommendation Engine model-Collaborative based filtering modelSkills used– Machine learning– NoSQL Database – Graph database– Data Generation using python– Linux – Data VisualizationDatabases used– BangDB– Graph Database– Microsoft MYSQL serverWeb Cloud Servers usedAWS cloud serviceWhat are the technical Challenges Faced during Project ExecutionDecide the Recommendation Engine based on the use case
+Finding the RFM score and classifying the customers into clusters
+Graph Model to define the relations of customers with each service which they are using 
+Synthetic data generation(90 Million events) and around 1.5 Gb structured data.How the Technical Challenges were SolvedItem-based collaborative filtering solves the issue of recommendation because we are dealing with almost 14- 15 services.
+Clustering of customers based on their similarities 
+Measure the RFM score, and group and classify them based on their scores.
+Graph database provides to reduce complexity and increase the processing speed.
+Data generation is one of the difficult tasks and generating relational data across 29 different streams using copula and UUID python library function which is based on PyTorch.Business ImpactIt is Qualitative and Quantitative impact on economically where customers are a direct impact of these projects in their life.
+It is suggesting to the customers what services they have to utilize from the provider and this is a direct impact of the product on the customers.
+Product is providing the action statement of the usage of services by the customers and impacts them economically as well.
+The scope impact of product service is Nationwide or statewide.
+To provide these impact-full services, there is a tech team of Blackcoffer behind itProject Snapshots Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleData from CRM via Zapier to Google Sheets (Dynamic) to PowerBINext articlePlaid Financial Analytics – A Data-Driven Dashboard to generate insights Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesBanking Securities, and Insurance
+
+Recommendation Engine for Insurance Sector to Expand Business in the Rural Area
+
+By Ajay Bidyarthy -   July 29, 2023  8820 
+
+
+
+
+
+Client BackgroundClient: A leading insurance firm in the globeIndustry Type:  InsuranceServices: SaaS, Products, InsuranceOrganization Size: 10000+Project ObjectiveDevelop the recommendation engine 
+Item-based collaborative filtering based on the use case of the project
+Work on Streaming data platform i.e BangDb 
+Data Generation for Testing the platformProject DescriptionBangDB is the platform that manages the static data stored on the cluster and also works with live streaming data as Hadoop does. Wherever the bangdb is able to manage machine learning model deployment with their inbuilt parameter and hyper tuning parameters for each model.Streaming data from the client which relates to the customer details and the numbers of products offered by the client on their platform, such as Insurance, loans (Business Loans and Personal Loans), Mobile recharge, UPI transactions done by their platform, etc. They wanted the recommendation of other services provided by them to each of their customers who are using their platform.Our SolutionThis Project Module develops according to the Clients Requirements which involves item-based collaborative filtering based on customer behaviour, Firstly classify the customers into various segments on the basis of age, location, gender, and product usage. On the basis of RFM (marketing tactics to classify the customer on the basis of their purchase history, amount spend, and frequency of usage of product) classify them and recommend them the other services based on item-based collaborative filtering.We generated the synthetic data (90 Million events) for the testing of the recommendation model and its accuracy for recommending the other products to customers.Project Deliverables       –   KPI of the Customers       –   Recommendation model       –   Graph databased model       –   Data Generation code based on python (using copula-based on PyTorch)      Tools usedBangDb Tool (ML, AI, NoSQL database supported)
+Graph Databased
+Google Colab (Data file generation)
+Tableau for data visualization Language/techniques usedLinux cloud machine
+Python
+Graph Database
+Data visualization toolsModels used-K means model for clustering-Recommendation Engine model-Collaborative based filtering modelSkills used– Machine learning– NoSQL Database – Graph database– Data Generation using python– Linux – Data VisualizationDatabases used– BangDB– Graph Database– Microsoft MYSQL serverWeb Cloud Servers usedAWS cloud serviceWhat are the technical Challenges Faced during Project ExecutionDecide the Recommendation Engine based on the use case
+Finding the RFM score and classifying the customers into clusters
+Graph Model to define the relations of customers with each service which they are using 
+Synthetic data generation(90 Million events) and around 1.5 Gb structured data.How the Technical Challenges were SolvedItem-based collaborative filtering solves the issue of recommendation because we are dealing with almost 14- 15 services.
+Clustering of customers based on their similarities 
+Measure the RFM score, and group and classify them based on their scores.
+Graph database provides to reduce complexity and increase the processing speed.
+Data generation is one of the difficult tasks and generating relational data across 29 different streams using copula and UUID python library function which is based on PyTorch.Business ImpactIt is Qualitative and Quantitative impact on economically where customers are a direct impact of these projects in their life.
+It is suggesting to the customers what services they have to utilize from the provider and this is a direct impact of the product on the customers.
+Product is providing the action statement of the usage of services by the customers and impacts them economically as well.
+The scope impact of product service is Nationwide or statewide.
+To provide these impact-full services, there is a tech team of Blackcoffer behind itProject Snapshots Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleData from CRM via Zapier to Google Sheets (Dynamic) to PowerBINext articlePlaid Financial Analytics – A Data-Driven Dashboard to generate insights Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesBanking Securities, and Insurance
+
+Recommendation Engine for Insurance Sector to Expand Business in the Rural Area
+
+By Ajay Bidyarthy -   July 29, 2023  8820 
+
+
+
+
+
+Client BackgroundClient: A leading insurance firm in the globeIndustry Type:  InsuranceServices: SaaS, Products, InsuranceOrganization Size: 10000+Project ObjectiveDevelop the recommendation engine 
+Item-based collaborative filtering based on the use case of the project
+Work on Streaming data platform i.e BangDb 
+Data Generation for Testing the platformProject DescriptionBangDB is the platform that manages the static data stored on the cluster and also works with live streaming data as Hadoop does. Wherever the bangdb is able to manage machine learning model deployment with their inbuilt parameter and hyper tuning parameters for each model.Streaming data from the client which relates to the customer details and the numbers of products offered by the client on their platform, such as Insurance, loans (Business Loans and Personal Loans), Mobile recharge, UPI transactions done by their platform, etc. They wanted the recommendation of other services provided by them to each of their customers who are using their platform.Our SolutionThis Project Module develops according to the Clients Requirements which involves item-based collaborative filtering based on customer behaviour, Firstly classify the customers into various segments on the basis of age, location, gender, and product usage. On the basis of RFM (marketing tactics to classify the customer on the basis of their purchase history, amount spend, and frequency of usage of product) classify them and recommend them the other services based on item-based collaborative filtering.We generated the synthetic data (90 Million events) for the testing of the recommendation model and its accuracy for recommending the other products to customers.Project Deliverables       –   KPI of the Customers       –   Recommendation model       –   Graph databased model       –   Data Generation code based on python (using copula-based on PyTorch)      Tools usedBangDb Tool (ML, AI, NoSQL database supported)
+Graph Databased
+Google Colab (Data file generation)
+Tableau for data visualization Language/techniques usedLinux cloud machine
+Python
+Graph Database
+Data visualization toolsModels used-K means model for clustering-Recommendation Engine model-Collaborative based filtering modelSkills used– Machine learning– NoSQL Database – Graph database– Data Generation using python– Linux – Data VisualizationDatabases used– BangDB– Graph Database– Microsoft MYSQL serverWeb Cloud Servers usedAWS cloud serviceWhat are the technical Challenges Faced during Project ExecutionDecide the Recommendation Engine based on the use case
+Finding the RFM score and classifying the customers into clusters
+Graph Model to define the relations of customers with each service which they are using 
+Synthetic data generation(90 Million events) and around 1.5 Gb structured data.How the Technical Challenges were SolvedItem-based collaborative filtering solves the issue of recommendation because we are dealing with almost 14- 15 services.
+Clustering of customers based on their similarities 
+Measure the RFM score, and group and classify them based on their scores.
+Graph database provides to reduce complexity and increase the processing speed.
+Data generation is one of the difficult tasks and generating relational data across 29 different streams using copula and UUID python library function which is based on PyTorch.Business ImpactIt is Qualitative and Quantitative impact on economically where customers are a direct impact of these projects in their life.
+It is suggesting to the customers what services they have to utilize from the provider and this is a direct impact of the product on the customers.
+Product is providing the action statement of the usage of services by the customers and impacts them economically as well.
+The scope impact of product service is Nationwide or statewide.
+To provide these impact-full services, there is a tech team of Blackcoffer behind itProject Snapshots Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleData from CRM via Zapier to Google Sheets (Dynamic) to PowerBINext articlePlaid Financial Analytics – A Data-Driven Dashboard to generate insights Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesBanking Securities, and Insurance
+
+Recommendation Engine for Insurance Sector to Expand Business in the Rural Area
+
+By Ajay Bidyarthy -   July 29, 2023  8820 
+
+
+
+
+
+Client BackgroundClient: A leading insurance firm in the globeIndustry Type:  InsuranceServices: SaaS, Products, InsuranceOrganization Size: 10000+Project ObjectiveDevelop the recommendation engine 
+Item-based collaborative filtering based on the use case of the project
+Work on Streaming data platform i.e BangDb 
+Data Generation for Testing the platformProject DescriptionBangDB is the platform that manages the static data stored on the cluster and also works with live streaming data as Hadoop does. Wherever the bangdb is able to manage machine learning model deployment with their inbuilt parameter and hyper tuning parameters for each model.Streaming data from the client which relates to the customer details and the numbers of products offered by the client on their platform, such as Insurance, loans (Business Loans and Personal Loans), Mobile recharge, UPI transactions done by their platform, etc. They wanted the recommendation of other services provided by them to each of their customers who are using their platform.Our SolutionThis Project Module develops according to the Clients Requirements which involves item-based collaborative filtering based on customer behaviour, Firstly classify the customers into various segments on the basis of age, location, gender, and product usage. On the basis of RFM (marketing tactics to classify the customer on the basis of their purchase history, amount spend, and frequency of usage of product) classify them and recommend them the other services based on item-based collaborative filtering.We generated the synthetic data (90 Million events) for the testing of the recommendation model and its accuracy for recommending the other products to customers.Project Deliverables       –   KPI of the Customers       –   Recommendation model       –   Graph databased model       –   Data Generation code based on python (using copula-based on PyTorch)      Tools usedBangDb Tool (ML, AI, NoSQL database supported)
+Graph Databased
+Google Colab (Data file generation)
+Tableau for data visualization Language/techniques usedLinux cloud machine
+Python
+Graph Database
+Data visualization toolsModels used-K means model for clustering-Recommendation Engine model-Collaborative based filtering modelSkills used– Machine learning– NoSQL Database – Graph database– Data Generation using python– Linux – Data VisualizationDatabases used– BangDB– Graph Database– Microsoft MYSQL serverWeb Cloud Servers usedAWS cloud serviceWhat are the technical Challenges Faced during Project ExecutionDecide the Recommendation Engine based on the use case
+Finding the RFM score and classifying the customers into clusters
+Graph Model to define the relations of customers with each service which they are using 
+Synthetic data generation(90 Million events) and around 1.5 Gb structured data.How the Technical Challenges were SolvedItem-based collaborative filtering solves the issue of recommendation because we are dealing with almost 14- 15 services.
+Clustering of customers based on their similarities 
+Measure the RFM score, and group and classify them based on their scores.
+Graph database provides to reduce complexity and increase the processing speed.
+Data generation is one of the difficult tasks and generating relational data across 29 different streams using copula and UUID python library function which is based on PyTorch.Business ImpactIt is Qualitative and Quantitative impact on economically where customers are a direct impact of these projects in their life.
+It is suggesting to the customers what services they have to utilize from the provider and this is a direct impact of the product on the customers.
+Product is providing the action statement of the usage of services by the customers and impacts them economically as well.
+The scope impact of product service is Nationwide or statewide.
+To provide these impact-full services, there is a tech team of Blackcoffer behind itProject Snapshots Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleData from CRM via Zapier to Google Sheets (Dynamic) to PowerBINext articlePlaid Financial Analytics – A Data-Driven Dashboard to generate insights Ajay Bidyarthy  
+
+
+Our Success StoriesBanking Securities, and Insurance
+
+Recommendation Engine for Insurance Sector to Expand Business in the Rural Area
+
+By Ajay Bidyarthy -   July 29, 2023  8820 
+
+
+By Ajay Bidyarthy -  
+8820
+
+
+
+Client BackgroundClient: A leading insurance firm in the globeIndustry Type:  InsuranceServices: SaaS, Products, InsuranceOrganization Size: 10000+Project ObjectiveDevelop the recommendation engine 
+Item-based collaborative filtering based on the use case of the project
+Work on Streaming data platform i.e BangDb 
+Data Generation for Testing the platformProject DescriptionBangDB is the platform that manages the static data stored on the cluster and also works with live streaming data as Hadoop does. Wherever the bangdb is able to manage machine learning model deployment with their inbuilt parameter and hyper tuning parameters for each model.Streaming data from the client which relates to the customer details and the numbers of products offered by the client on their platform, such as Insurance, loans (Business Loans and Personal Loans), Mobile recharge, UPI transactions done by their platform, etc. They wanted the recommendation of other services provided by them to each of their customers who are using their platform.Our SolutionThis Project Module develops according to the Clients Requirements which involves item-based collaborative filtering based on customer behaviour, Firstly classify the customers into various segments on the basis of age, location, gender, and product usage. On the basis of RFM (marketing tactics to classify the customer on the basis of their purchase history, amount spend, and frequency of usage of product) classify them and recommend them the other services based on item-based collaborative filtering.We generated the synthetic data (90 Million events) for the testing of the recommendation model and its accuracy for recommending the other products to customers.Project Deliverables       –   KPI of the Customers       –   Recommendation model       –   Graph databased model       –   Data Generation code based on python (using copula-based on PyTorch)      Tools usedBangDb Tool (ML, AI, NoSQL database supported)
+Graph Databased
+Google Colab (Data file generation)
+Tableau for data visualization Language/techniques usedLinux cloud machine
+Python
+Graph Database
+Data visualization toolsModels used-K means model for clustering-Recommendation Engine model-Collaborative based filtering modelSkills used– Machine learning– NoSQL Database – Graph database– Data Generation using python– Linux – Data VisualizationDatabases used– BangDB– Graph Database– Microsoft MYSQL serverWeb Cloud Servers usedAWS cloud serviceWhat are the technical Challenges Faced during Project ExecutionDecide the Recommendation Engine based on the use case
+Finding the RFM score and classifying the customers into clusters
+Graph Model to define the relations of customers with each service which they are using 
+Synthetic data generation(90 Million events) and around 1.5 Gb structured data.How the Technical Challenges were SolvedItem-based collaborative filtering solves the issue of recommendation because we are dealing with almost 14- 15 services.
+Clustering of customers based on their similarities 
+Measure the RFM score, and group and classify them based on their scores.
+Graph database provides to reduce complexity and increase the processing speed.
+Data generation is one of the difficult tasks and generating relational data across 29 different streams using copula and UUID python library function which is based on PyTorch.Business ImpactIt is Qualitative and Quantitative impact on economically where customers are a direct impact of these projects in their life.
+It is suggesting to the customers what services they have to utilize from the provider and this is a direct impact of the product on the customers.
+Product is providing the action statement of the usage of services by the customers and impacts them economically as well.
+The scope impact of product service is Nationwide or statewide.
+To provide these impact-full services, there is a tech team of Blackcoffer behind itProject Snapshots Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+  
+Previous articleData from CRM via Zapier to Google Sheets (Dynamic) to PowerBINext articlePlaid Financial Analytics – A Data-Driven Dashboard to generate insights
+Previous articleData from CRM via Zapier to Google Sheets (Dynamic) to PowerBI
+Previous articleData from CRM via Zapier to Google Sheets (Dynamic) to PowerBI
+Next articlePlaid Financial Analytics – A Data-Driven Dashboard to generate insights
+Next articlePlaid Financial Analytics – A Data-Driven Dashboard to generate insights
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

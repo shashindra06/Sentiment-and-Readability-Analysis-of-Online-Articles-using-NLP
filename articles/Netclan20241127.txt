@@ -1,0 +1,572 @@
+Title: Google Data Studio Dashboard for Marketing, ads and Traction data | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Google Data Studio Dashboard for Marketing, ads and Traction data
+
+
+
+
+
+Our Success StoriesIT
+
+Google Data Studio Dashboard for Marketing, ads and Traction data
+
+By Ajay Bidyarthy -   January 16, 2022  9016 
+
+
+
+
+
+Client BackgroundOverviewBankiom – the super banking app for MENA on a mission to make managing your finances easier.☞ Open an account on your phone and get a virtual card in 3 minutes or less☞ Manage all your bank accounts from one app and one control panel☞ Save money and grow your wealthWebsitehttp://www.bankiom.comCompany size2-10 employeesFounded2019SpecialtiesBanking, Financial Services, Card Payments, Mobile Payments, Digital Bank, and FinTechProject ObjectiveBuild a dashboard unifying all the platforms that we use: Google Ads, FB ads, Appsflyer, MixpanelProject DescriptionWe want to be able to track everything in the funnel from traffic source to total installs (paid, organic and by channel):– App settings in Appsflyer– SDK Installation, test it (+ instruction for devs)– Ad sources setup in ad accounts (Facebook, Google Ads, etc)– Ad sources setup in Appsflyer– In-app conversions mapping– Conversion set up in ads sources– One link, smart script, and deep link setup– SKAD Network for IOS appOur SolutionBuilt dashboard for each data source like Google Ads, Facebook Ads for tracking installs, channel spend, cost per install for both Android and IOS.Then, we made a dashboard for tracking the retention rates of customers and other events that they execute on the app like transfer money, user registration, connect banks. The data for these events was fetched from MixPanel.These dashboards were made using Google Data Studio.Project DeliverablesWe need to deliver dashboards for tracking the ads data from Google and Facebook and to track the events which the users perform on their app and for this data was collected from MixPanel.Tools usedFollowing Tools were used for successful execution of the projectGoogle Data StudioAdveronix Mixpanel ApiBigQueryGCPLanguage/techniques usedCode was written to create the pipeline to fetch MixPanel data through mixpanel Api and store it in bigquery. So, the code was written in Python.Skills usedFollowing Skills were used to complete the projectData PreparationData VisualizationPythonAPIBigQueryGoogle Cloud PlatformDatabases usedFor storing the data of the project Google Sheets and Google BigQuery were used.Web Cloud Servers usedWeb Cloud server used in this project was Google Cloud Platform.What are the technical Challenges Faced during Project Execution?Technical Challenges faced during the execution of the project was to understand how the api of the mixpanel works and how to connect it to Google BiqQuery. Another technical challenge that we faced was to find a free resource to connect the facebook ads data to data studio.How the Technical Challenges were SolvedTo solve the technical challenges we went through the documentation of the mixpanel api to get a understanding of how the things work. Based on that we built the pipeline to connect the mixpanel data to big query. The other technical challenge of finding a free resource to connect the facebook ads to datastudio for free was solved by researching for the various connectors available and we found an add on named ‘Adveronix’ which could connect the facebook ads data to google sheets which can eaily be connected to data studio.Project SnapshotsProject website urlhttps://datastudio.google.com/reporting/8af163c1-b328-4ed3-91fc-cf8a026d0d9fProject Video
+
+ 
+
+ 
+
+  
+Previous articleGangala.in: E-commerce Big Data ETL / ELT Solution and Data WarehouseNext articleAWS QuickSight Reporting Dashboard Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Google Data Studio Dashboard for Marketing, ads and Traction data
+
+
+
+
+
+Our Success StoriesIT
+
+Google Data Studio Dashboard for Marketing, ads and Traction data
+
+By Ajay Bidyarthy -   January 16, 2022  9016 
+
+
+
+
+
+Client BackgroundOverviewBankiom – the super banking app for MENA on a mission to make managing your finances easier.☞ Open an account on your phone and get a virtual card in 3 minutes or less☞ Manage all your bank accounts from one app and one control panel☞ Save money and grow your wealthWebsitehttp://www.bankiom.comCompany size2-10 employeesFounded2019SpecialtiesBanking, Financial Services, Card Payments, Mobile Payments, Digital Bank, and FinTechProject ObjectiveBuild a dashboard unifying all the platforms that we use: Google Ads, FB ads, Appsflyer, MixpanelProject DescriptionWe want to be able to track everything in the funnel from traffic source to total installs (paid, organic and by channel):– App settings in Appsflyer– SDK Installation, test it (+ instruction for devs)– Ad sources setup in ad accounts (Facebook, Google Ads, etc)– Ad sources setup in Appsflyer– In-app conversions mapping– Conversion set up in ads sources– One link, smart script, and deep link setup– SKAD Network for IOS appOur SolutionBuilt dashboard for each data source like Google Ads, Facebook Ads for tracking installs, channel spend, cost per install for both Android and IOS.Then, we made a dashboard for tracking the retention rates of customers and other events that they execute on the app like transfer money, user registration, connect banks. The data for these events was fetched from MixPanel.These dashboards were made using Google Data Studio.Project DeliverablesWe need to deliver dashboards for tracking the ads data from Google and Facebook and to track the events which the users perform on their app and for this data was collected from MixPanel.Tools usedFollowing Tools were used for successful execution of the projectGoogle Data StudioAdveronix Mixpanel ApiBigQueryGCPLanguage/techniques usedCode was written to create the pipeline to fetch MixPanel data through mixpanel Api and store it in bigquery. So, the code was written in Python.Skills usedFollowing Skills were used to complete the projectData PreparationData VisualizationPythonAPIBigQueryGoogle Cloud PlatformDatabases usedFor storing the data of the project Google Sheets and Google BigQuery were used.Web Cloud Servers usedWeb Cloud server used in this project was Google Cloud Platform.What are the technical Challenges Faced during Project Execution?Technical Challenges faced during the execution of the project was to understand how the api of the mixpanel works and how to connect it to Google BiqQuery. Another technical challenge that we faced was to find a free resource to connect the facebook ads data to data studio.How the Technical Challenges were SolvedTo solve the technical challenges we went through the documentation of the mixpanel api to get a understanding of how the things work. Based on that we built the pipeline to connect the mixpanel data to big query. The other technical challenge of finding a free resource to connect the facebook ads to datastudio for free was solved by researching for the various connectors available and we found an add on named ‘Adveronix’ which could connect the facebook ads data to google sheets which can eaily be connected to data studio.Project SnapshotsProject website urlhttps://datastudio.google.com/reporting/8af163c1-b328-4ed3-91fc-cf8a026d0d9fProject Video
+
+ 
+
+ 
+
+  
+Previous articleGangala.in: E-commerce Big Data ETL / ELT Solution and Data WarehouseNext articleAWS QuickSight Reporting Dashboard Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Google Data Studio Dashboard for Marketing, ads and Traction data
+
+By Ajay Bidyarthy -   January 16, 2022  9016 
+
+
+
+
+
+Client BackgroundOverviewBankiom – the super banking app for MENA on a mission to make managing your finances easier.☞ Open an account on your phone and get a virtual card in 3 minutes or less☞ Manage all your bank accounts from one app and one control panel☞ Save money and grow your wealthWebsitehttp://www.bankiom.comCompany size2-10 employeesFounded2019SpecialtiesBanking, Financial Services, Card Payments, Mobile Payments, Digital Bank, and FinTechProject ObjectiveBuild a dashboard unifying all the platforms that we use: Google Ads, FB ads, Appsflyer, MixpanelProject DescriptionWe want to be able to track everything in the funnel from traffic source to total installs (paid, organic and by channel):– App settings in Appsflyer– SDK Installation, test it (+ instruction for devs)– Ad sources setup in ad accounts (Facebook, Google Ads, etc)– Ad sources setup in Appsflyer– In-app conversions mapping– Conversion set up in ads sources– One link, smart script, and deep link setup– SKAD Network for IOS appOur SolutionBuilt dashboard for each data source like Google Ads, Facebook Ads for tracking installs, channel spend, cost per install for both Android and IOS.Then, we made a dashboard for tracking the retention rates of customers and other events that they execute on the app like transfer money, user registration, connect banks. The data for these events was fetched from MixPanel.These dashboards were made using Google Data Studio.Project DeliverablesWe need to deliver dashboards for tracking the ads data from Google and Facebook and to track the events which the users perform on their app and for this data was collected from MixPanel.Tools usedFollowing Tools were used for successful execution of the projectGoogle Data StudioAdveronix Mixpanel ApiBigQueryGCPLanguage/techniques usedCode was written to create the pipeline to fetch MixPanel data through mixpanel Api and store it in bigquery. So, the code was written in Python.Skills usedFollowing Skills were used to complete the projectData PreparationData VisualizationPythonAPIBigQueryGoogle Cloud PlatformDatabases usedFor storing the data of the project Google Sheets and Google BigQuery were used.Web Cloud Servers usedWeb Cloud server used in this project was Google Cloud Platform.What are the technical Challenges Faced during Project Execution?Technical Challenges faced during the execution of the project was to understand how the api of the mixpanel works and how to connect it to Google BiqQuery. Another technical challenge that we faced was to find a free resource to connect the facebook ads data to data studio.How the Technical Challenges were SolvedTo solve the technical challenges we went through the documentation of the mixpanel api to get a understanding of how the things work. Based on that we built the pipeline to connect the mixpanel data to big query. The other technical challenge of finding a free resource to connect the facebook ads to datastudio for free was solved by researching for the various connectors available and we found an add on named ‘Adveronix’ which could connect the facebook ads data to google sheets which can eaily be connected to data studio.Project SnapshotsProject website urlhttps://datastudio.google.com/reporting/8af163c1-b328-4ed3-91fc-cf8a026d0d9fProject Video
+
+ 
+
+ 
+
+  
+Previous articleGangala.in: E-commerce Big Data ETL / ELT Solution and Data WarehouseNext articleAWS QuickSight Reporting Dashboard Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Google Data Studio Dashboard for Marketing, ads and Traction data
+
+By Ajay Bidyarthy -   January 16, 2022  9016 
+
+
+
+
+
+Client BackgroundOverviewBankiom – the super banking app for MENA on a mission to make managing your finances easier.☞ Open an account on your phone and get a virtual card in 3 minutes or less☞ Manage all your bank accounts from one app and one control panel☞ Save money and grow your wealthWebsitehttp://www.bankiom.comCompany size2-10 employeesFounded2019SpecialtiesBanking, Financial Services, Card Payments, Mobile Payments, Digital Bank, and FinTechProject ObjectiveBuild a dashboard unifying all the platforms that we use: Google Ads, FB ads, Appsflyer, MixpanelProject DescriptionWe want to be able to track everything in the funnel from traffic source to total installs (paid, organic and by channel):– App settings in Appsflyer– SDK Installation, test it (+ instruction for devs)– Ad sources setup in ad accounts (Facebook, Google Ads, etc)– Ad sources setup in Appsflyer– In-app conversions mapping– Conversion set up in ads sources– One link, smart script, and deep link setup– SKAD Network for IOS appOur SolutionBuilt dashboard for each data source like Google Ads, Facebook Ads for tracking installs, channel spend, cost per install for both Android and IOS.Then, we made a dashboard for tracking the retention rates of customers and other events that they execute on the app like transfer money, user registration, connect banks. The data for these events was fetched from MixPanel.These dashboards were made using Google Data Studio.Project DeliverablesWe need to deliver dashboards for tracking the ads data from Google and Facebook and to track the events which the users perform on their app and for this data was collected from MixPanel.Tools usedFollowing Tools were used for successful execution of the projectGoogle Data StudioAdveronix Mixpanel ApiBigQueryGCPLanguage/techniques usedCode was written to create the pipeline to fetch MixPanel data through mixpanel Api and store it in bigquery. So, the code was written in Python.Skills usedFollowing Skills were used to complete the projectData PreparationData VisualizationPythonAPIBigQueryGoogle Cloud PlatformDatabases usedFor storing the data of the project Google Sheets and Google BigQuery were used.Web Cloud Servers usedWeb Cloud server used in this project was Google Cloud Platform.What are the technical Challenges Faced during Project Execution?Technical Challenges faced during the execution of the project was to understand how the api of the mixpanel works and how to connect it to Google BiqQuery. Another technical challenge that we faced was to find a free resource to connect the facebook ads data to data studio.How the Technical Challenges were SolvedTo solve the technical challenges we went through the documentation of the mixpanel api to get a understanding of how the things work. Based on that we built the pipeline to connect the mixpanel data to big query. The other technical challenge of finding a free resource to connect the facebook ads to datastudio for free was solved by researching for the various connectors available and we found an add on named ‘Adveronix’ which could connect the facebook ads data to google sheets which can eaily be connected to data studio.Project SnapshotsProject website urlhttps://datastudio.google.com/reporting/8af163c1-b328-4ed3-91fc-cf8a026d0d9fProject Video
+
+ 
+
+ 
+
+  
+Previous articleGangala.in: E-commerce Big Data ETL / ELT Solution and Data WarehouseNext articleAWS QuickSight Reporting Dashboard Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesIT
+
+Google Data Studio Dashboard for Marketing, ads and Traction data
+
+By Ajay Bidyarthy -   January 16, 2022  9016 
+
+
+
+
+
+Client BackgroundOverviewBankiom – the super banking app for MENA on a mission to make managing your finances easier.☞ Open an account on your phone and get a virtual card in 3 minutes or less☞ Manage all your bank accounts from one app and one control panel☞ Save money and grow your wealthWebsitehttp://www.bankiom.comCompany size2-10 employeesFounded2019SpecialtiesBanking, Financial Services, Card Payments, Mobile Payments, Digital Bank, and FinTechProject ObjectiveBuild a dashboard unifying all the platforms that we use: Google Ads, FB ads, Appsflyer, MixpanelProject DescriptionWe want to be able to track everything in the funnel from traffic source to total installs (paid, organic and by channel):– App settings in Appsflyer– SDK Installation, test it (+ instruction for devs)– Ad sources setup in ad accounts (Facebook, Google Ads, etc)– Ad sources setup in Appsflyer– In-app conversions mapping– Conversion set up in ads sources– One link, smart script, and deep link setup– SKAD Network for IOS appOur SolutionBuilt dashboard for each data source like Google Ads, Facebook Ads for tracking installs, channel spend, cost per install for both Android and IOS.Then, we made a dashboard for tracking the retention rates of customers and other events that they execute on the app like transfer money, user registration, connect banks. The data for these events was fetched from MixPanel.These dashboards were made using Google Data Studio.Project DeliverablesWe need to deliver dashboards for tracking the ads data from Google and Facebook and to track the events which the users perform on their app and for this data was collected from MixPanel.Tools usedFollowing Tools were used for successful execution of the projectGoogle Data StudioAdveronix Mixpanel ApiBigQueryGCPLanguage/techniques usedCode was written to create the pipeline to fetch MixPanel data through mixpanel Api and store it in bigquery. So, the code was written in Python.Skills usedFollowing Skills were used to complete the projectData PreparationData VisualizationPythonAPIBigQueryGoogle Cloud PlatformDatabases usedFor storing the data of the project Google Sheets and Google BigQuery were used.Web Cloud Servers usedWeb Cloud server used in this project was Google Cloud Platform.What are the technical Challenges Faced during Project Execution?Technical Challenges faced during the execution of the project was to understand how the api of the mixpanel works and how to connect it to Google BiqQuery. Another technical challenge that we faced was to find a free resource to connect the facebook ads data to data studio.How the Technical Challenges were SolvedTo solve the technical challenges we went through the documentation of the mixpanel api to get a understanding of how the things work. Based on that we built the pipeline to connect the mixpanel data to big query. The other technical challenge of finding a free resource to connect the facebook ads to datastudio for free was solved by researching for the various connectors available and we found an add on named ‘Adveronix’ which could connect the facebook ads data to google sheets which can eaily be connected to data studio.Project SnapshotsProject website urlhttps://datastudio.google.com/reporting/8af163c1-b328-4ed3-91fc-cf8a026d0d9fProject Video
+
+ 
+
+ 
+
+  
+Previous articleGangala.in: E-commerce Big Data ETL / ELT Solution and Data WarehouseNext articleAWS QuickSight Reporting Dashboard Ajay Bidyarthy  
+
+
+Our Success StoriesIT
+
+Google Data Studio Dashboard for Marketing, ads and Traction data
+
+By Ajay Bidyarthy -   January 16, 2022  9016 
+
+
+By Ajay Bidyarthy -  
+9016
+
+
+
+Client BackgroundOverviewBankiom – the super banking app for MENA on a mission to make managing your finances easier.☞ Open an account on your phone and get a virtual card in 3 minutes or less☞ Manage all your bank accounts from one app and one control panel☞ Save money and grow your wealthWebsitehttp://www.bankiom.comCompany size2-10 employeesFounded2019SpecialtiesBanking, Financial Services, Card Payments, Mobile Payments, Digital Bank, and FinTechProject ObjectiveBuild a dashboard unifying all the platforms that we use: Google Ads, FB ads, Appsflyer, MixpanelProject DescriptionWe want to be able to track everything in the funnel from traffic source to total installs (paid, organic and by channel):– App settings in Appsflyer– SDK Installation, test it (+ instruction for devs)– Ad sources setup in ad accounts (Facebook, Google Ads, etc)– Ad sources setup in Appsflyer– In-app conversions mapping– Conversion set up in ads sources– One link, smart script, and deep link setup– SKAD Network for IOS appOur SolutionBuilt dashboard for each data source like Google Ads, Facebook Ads for tracking installs, channel spend, cost per install for both Android and IOS.Then, we made a dashboard for tracking the retention rates of customers and other events that they execute on the app like transfer money, user registration, connect banks. The data for these events was fetched from MixPanel.These dashboards were made using Google Data Studio.Project DeliverablesWe need to deliver dashboards for tracking the ads data from Google and Facebook and to track the events which the users perform on their app and for this data was collected from MixPanel.Tools usedFollowing Tools were used for successful execution of the projectGoogle Data StudioAdveronix Mixpanel ApiBigQueryGCPLanguage/techniques usedCode was written to create the pipeline to fetch MixPanel data through mixpanel Api and store it in bigquery. So, the code was written in Python.Skills usedFollowing Skills were used to complete the projectData PreparationData VisualizationPythonAPIBigQueryGoogle Cloud PlatformDatabases usedFor storing the data of the project Google Sheets and Google BigQuery were used.Web Cloud Servers usedWeb Cloud server used in this project was Google Cloud Platform.What are the technical Challenges Faced during Project Execution?Technical Challenges faced during the execution of the project was to understand how the api of the mixpanel works and how to connect it to Google BiqQuery. Another technical challenge that we faced was to find a free resource to connect the facebook ads data to data studio.How the Technical Challenges were SolvedTo solve the technical challenges we went through the documentation of the mixpanel api to get a understanding of how the things work. Based on that we built the pipeline to connect the mixpanel data to big query. The other technical challenge of finding a free resource to connect the facebook ads to datastudio for free was solved by researching for the various connectors available and we found an add on named ‘Adveronix’ which could connect the facebook ads data to google sheets which can eaily be connected to data studio.Project SnapshotsProject website urlhttps://datastudio.google.com/reporting/8af163c1-b328-4ed3-91fc-cf8a026d0d9fProject Video
+
+ 
+
+
+  
+Previous articleGangala.in: E-commerce Big Data ETL / ELT Solution and Data WarehouseNext articleAWS QuickSight Reporting Dashboard
+Previous articleGangala.in: E-commerce Big Data ETL / ELT Solution and Data Warehouse
+Previous articleGangala.in: E-commerce Big Data ETL / ELT Solution and Data Warehouse
+Next articleAWS QuickSight Reporting Dashboard
+Next articleAWS QuickSight Reporting Dashboard
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

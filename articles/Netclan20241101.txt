@@ -1,0 +1,560 @@
+Title: Integration of video-conferencing data to the existing web app | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Integration of video-conferencing data to the existing web app
+
+
+
+
+
+Our Success StoriesIT
+
+Integration of video-conferencing data to the existing web app
+
+By Ajay Bidyarthy -   September 15, 2022  8643 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project DescriptionIntegration of 3rd party APIs to client’s platform.Client required meeting/conference data from sites like gotomeeting/zoom.Our SolutionUsing APIs fetched data from different platform and rendered data into client’s application.Modifed web application with a UI to handle form data accepting dates as a timeframe – which then makes a request to the API being handled at server end and returns the meeting data from the required source.Project DeliverablesPushed code to client’s github repository.Tools used– Python– PostmanLanguage/techniques used– Automation– 3rd party APIs– Authenication methods– Multi-Threading of function calls ( authentication of api client )– UI component design to get dates from user-endModels usedPython Framework- Django , requestsSkills usedPython Programming, APIs , Multi-threading , Web DevelopementDatabases usedDefault project postgreSQLWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project Execution– UI creation for handling form data– Managing and Validating form data to process request at server endHow the Technical Challenges were Solved– Created autmated functions as views in django to handle requests made to video-conferencing platform.– Which then returns meeting data as per user’s wish.Business Impact– Instead of extracting meeting data and adding it to all usersany authorized user can get meeting data as his wish.Project website urlhttps://www.codanalytics.net/ 
+
+ 
+
+  
+Previous articleDesign & develop an app in retool which shows the progress of the added videoNext articleA web-based dashboard for the filtered data retrieval of land records Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Integration of video-conferencing data to the existing web app
+
+
+
+
+
+Our Success StoriesIT
+
+Integration of video-conferencing data to the existing web app
+
+By Ajay Bidyarthy -   September 15, 2022  8643 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project DescriptionIntegration of 3rd party APIs to client’s platform.Client required meeting/conference data from sites like gotomeeting/zoom.Our SolutionUsing APIs fetched data from different platform and rendered data into client’s application.Modifed web application with a UI to handle form data accepting dates as a timeframe – which then makes a request to the API being handled at server end and returns the meeting data from the required source.Project DeliverablesPushed code to client’s github repository.Tools used– Python– PostmanLanguage/techniques used– Automation– 3rd party APIs– Authenication methods– Multi-Threading of function calls ( authentication of api client )– UI component design to get dates from user-endModels usedPython Framework- Django , requestsSkills usedPython Programming, APIs , Multi-threading , Web DevelopementDatabases usedDefault project postgreSQLWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project Execution– UI creation for handling form data– Managing and Validating form data to process request at server endHow the Technical Challenges were Solved– Created autmated functions as views in django to handle requests made to video-conferencing platform.– Which then returns meeting data as per user’s wish.Business Impact– Instead of extracting meeting data and adding it to all usersany authorized user can get meeting data as his wish.Project website urlhttps://www.codanalytics.net/ 
+
+ 
+
+  
+Previous articleDesign & develop an app in retool which shows the progress of the added videoNext articleA web-based dashboard for the filtered data retrieval of land records Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Integration of video-conferencing data to the existing web app
+
+By Ajay Bidyarthy -   September 15, 2022  8643 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project DescriptionIntegration of 3rd party APIs to client’s platform.Client required meeting/conference data from sites like gotomeeting/zoom.Our SolutionUsing APIs fetched data from different platform and rendered data into client’s application.Modifed web application with a UI to handle form data accepting dates as a timeframe – which then makes a request to the API being handled at server end and returns the meeting data from the required source.Project DeliverablesPushed code to client’s github repository.Tools used– Python– PostmanLanguage/techniques used– Automation– 3rd party APIs– Authenication methods– Multi-Threading of function calls ( authentication of api client )– UI component design to get dates from user-endModels usedPython Framework- Django , requestsSkills usedPython Programming, APIs , Multi-threading , Web DevelopementDatabases usedDefault project postgreSQLWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project Execution– UI creation for handling form data– Managing and Validating form data to process request at server endHow the Technical Challenges were Solved– Created autmated functions as views in django to handle requests made to video-conferencing platform.– Which then returns meeting data as per user’s wish.Business Impact– Instead of extracting meeting data and adding it to all usersany authorized user can get meeting data as his wish.Project website urlhttps://www.codanalytics.net/ 
+
+ 
+
+  
+Previous articleDesign & develop an app in retool which shows the progress of the added videoNext articleA web-based dashboard for the filtered data retrieval of land records Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Integration of video-conferencing data to the existing web app
+
+By Ajay Bidyarthy -   September 15, 2022  8643 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project DescriptionIntegration of 3rd party APIs to client’s platform.Client required meeting/conference data from sites like gotomeeting/zoom.Our SolutionUsing APIs fetched data from different platform and rendered data into client’s application.Modifed web application with a UI to handle form data accepting dates as a timeframe – which then makes a request to the API being handled at server end and returns the meeting data from the required source.Project DeliverablesPushed code to client’s github repository.Tools used– Python– PostmanLanguage/techniques used– Automation– 3rd party APIs– Authenication methods– Multi-Threading of function calls ( authentication of api client )– UI component design to get dates from user-endModels usedPython Framework- Django , requestsSkills usedPython Programming, APIs , Multi-threading , Web DevelopementDatabases usedDefault project postgreSQLWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project Execution– UI creation for handling form data– Managing and Validating form data to process request at server endHow the Technical Challenges were Solved– Created autmated functions as views in django to handle requests made to video-conferencing platform.– Which then returns meeting data as per user’s wish.Business Impact– Instead of extracting meeting data and adding it to all usersany authorized user can get meeting data as his wish.Project website urlhttps://www.codanalytics.net/ 
+
+ 
+
+  
+Previous articleDesign & develop an app in retool which shows the progress of the added videoNext articleA web-based dashboard for the filtered data retrieval of land records Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesIT
+
+Integration of video-conferencing data to the existing web app
+
+By Ajay Bidyarthy -   September 15, 2022  8643 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project DescriptionIntegration of 3rd party APIs to client’s platform.Client required meeting/conference data from sites like gotomeeting/zoom.Our SolutionUsing APIs fetched data from different platform and rendered data into client’s application.Modifed web application with a UI to handle form data accepting dates as a timeframe – which then makes a request to the API being handled at server end and returns the meeting data from the required source.Project DeliverablesPushed code to client’s github repository.Tools used– Python– PostmanLanguage/techniques used– Automation– 3rd party APIs– Authenication methods– Multi-Threading of function calls ( authentication of api client )– UI component design to get dates from user-endModels usedPython Framework- Django , requestsSkills usedPython Programming, APIs , Multi-threading , Web DevelopementDatabases usedDefault project postgreSQLWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project Execution– UI creation for handling form data– Managing and Validating form data to process request at server endHow the Technical Challenges were Solved– Created autmated functions as views in django to handle requests made to video-conferencing platform.– Which then returns meeting data as per user’s wish.Business Impact– Instead of extracting meeting data and adding it to all usersany authorized user can get meeting data as his wish.Project website urlhttps://www.codanalytics.net/ 
+
+ 
+
+  
+Previous articleDesign & develop an app in retool which shows the progress of the added videoNext articleA web-based dashboard for the filtered data retrieval of land records Ajay Bidyarthy  
+
+
+Our Success StoriesIT
+
+Integration of video-conferencing data to the existing web app
+
+By Ajay Bidyarthy -   September 15, 2022  8643 
+
+
+By Ajay Bidyarthy -  
+8643
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project DescriptionIntegration of 3rd party APIs to client’s platform.Client required meeting/conference data from sites like gotomeeting/zoom.Our SolutionUsing APIs fetched data from different platform and rendered data into client’s application.Modifed web application with a UI to handle form data accepting dates as a timeframe – which then makes a request to the API being handled at server end and returns the meeting data from the required source.Project DeliverablesPushed code to client’s github repository.Tools used– Python– PostmanLanguage/techniques used– Automation– 3rd party APIs– Authenication methods– Multi-Threading of function calls ( authentication of api client )– UI component design to get dates from user-endModels usedPython Framework- Django , requestsSkills usedPython Programming, APIs , Multi-threading , Web DevelopementDatabases usedDefault project postgreSQLWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project Execution– UI creation for handling form data– Managing and Validating form data to process request at server endHow the Technical Challenges were Solved– Created autmated functions as views in django to handle requests made to video-conferencing platform.– Which then returns meeting data as per user’s wish.Business Impact– Instead of extracting meeting data and adding it to all usersany authorized user can get meeting data as his wish.Project website urlhttps://www.codanalytics.net/ 
+
+
+  
+Previous articleDesign & develop an app in retool which shows the progress of the added videoNext articleA web-based dashboard for the filtered data retrieval of land records
+Previous articleDesign & develop an app in retool which shows the progress of the added video
+Previous articleDesign & develop an app in retool which shows the progress of the added video
+Next articleA web-based dashboard for the filtered data retrieval of land records
+Next articleA web-based dashboard for the filtered data retrieval of land records
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

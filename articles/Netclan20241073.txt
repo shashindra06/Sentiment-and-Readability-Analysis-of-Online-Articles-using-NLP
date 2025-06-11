@@ -1,0 +1,596 @@
+Title: Golden Record – A knowledge graph database approach to unfold discovery using Neo4j | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Golden Record – A knowledge graph database approach to unfold discovery using...
+
+
+
+
+
+Our Success StoriesITRetail & Supply Chain
+
+Golden Record – A knowledge graph database approach to unfold discovery using Neo4j
+
+By Ajay Bidyarthy -   July 22, 2023  8798 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail business, consumer servicesOrganization Size: 100+The ProblemTo use data ingested into Neo4j and use the nodes and relationships with its properties to determine which nodes are actually the same person. For eg: we have Person nodes in the data, now people might enter their names in different ways. Our main aim is to identify Person nodes that may have similar data and are actually the same person. This will be represented as a perfect match between the nodes. This single-person view is referred to as the Golden RecordOur SolutionTill date, we have loaded data into Neo4j and created relationships with score property which defines match strength. We have created some criterias by which we can determine what constitutes two nodes being the same and then based on them created ‘perfect match’ and ‘probable match’.We have considered four properties for our criteria – full name, address, driver’s license, and passport number. We have relationships between nodes for these properties with scores, we use these in our perfect match and probable match creation.We have also configured Graphlytics (a viz software) in the virtual machine which connects to the neo4j database and helps vizualize the nodes and relationships. We have also worked on some algorithms using the GDS library in neo4j to produce more information on the graph, the common neighbors algorithm was used to produce scores based on node similarity and the higher the score the higher the similarity. Other algorithms were tried as well but since all the properties are of String format it did not work on it.We have Resolved issues neo4j is facing when deleting a Large set of data and Provided steps to recover neo4j if it fails by going OutofMemory.We have figured out the issues with the probable and perfect match cypher queries not working as intended and proposed a solution. Solution ArchitectureDeliverablesCreated Perfect match and probable match queries.
+Created queries that return the nodes (even if it does not have associated relationship) and it’s associated relationship.
+A cypher query that return the result as a json object that can be mapped into a java oject.
+A cypher query that will create the relationship if two node’s properties  have same value.
+A cypher query that will delete one relationship from bidirectional relationship.
+A python code for a sample neo4j query
+Adjust the perfect and probable match queries so it would work for  current data. Tools usedNeo4jLanguage/techniques usedCypher Query LanguageModels usedThe common neighbors algorithmSkills usedCQLDatabases usedNeo4jContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleAdvanced AI for Trading AutomationNext articleAI agent development and Deployment in Jina AI Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Golden Record – A knowledge graph database approach to unfold discovery using...
+
+
+
+
+
+Our Success StoriesITRetail & Supply Chain
+
+Golden Record – A knowledge graph database approach to unfold discovery using Neo4j
+
+By Ajay Bidyarthy -   July 22, 2023  8798 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail business, consumer servicesOrganization Size: 100+The ProblemTo use data ingested into Neo4j and use the nodes and relationships with its properties to determine which nodes are actually the same person. For eg: we have Person nodes in the data, now people might enter their names in different ways. Our main aim is to identify Person nodes that may have similar data and are actually the same person. This will be represented as a perfect match between the nodes. This single-person view is referred to as the Golden RecordOur SolutionTill date, we have loaded data into Neo4j and created relationships with score property which defines match strength. We have created some criterias by which we can determine what constitutes two nodes being the same and then based on them created ‘perfect match’ and ‘probable match’.We have considered four properties for our criteria – full name, address, driver’s license, and passport number. We have relationships between nodes for these properties with scores, we use these in our perfect match and probable match creation.We have also configured Graphlytics (a viz software) in the virtual machine which connects to the neo4j database and helps vizualize the nodes and relationships. We have also worked on some algorithms using the GDS library in neo4j to produce more information on the graph, the common neighbors algorithm was used to produce scores based on node similarity and the higher the score the higher the similarity. Other algorithms were tried as well but since all the properties are of String format it did not work on it.We have Resolved issues neo4j is facing when deleting a Large set of data and Provided steps to recover neo4j if it fails by going OutofMemory.We have figured out the issues with the probable and perfect match cypher queries not working as intended and proposed a solution. Solution ArchitectureDeliverablesCreated Perfect match and probable match queries.
+Created queries that return the nodes (even if it does not have associated relationship) and it’s associated relationship.
+A cypher query that return the result as a json object that can be mapped into a java oject.
+A cypher query that will create the relationship if two node’s properties  have same value.
+A cypher query that will delete one relationship from bidirectional relationship.
+A python code for a sample neo4j query
+Adjust the perfect and probable match queries so it would work for  current data. Tools usedNeo4jLanguage/techniques usedCypher Query LanguageModels usedThe common neighbors algorithmSkills usedCQLDatabases usedNeo4jContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleAdvanced AI for Trading AutomationNext articleAI agent development and Deployment in Jina AI Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesITRetail & Supply Chain
+
+Golden Record – A knowledge graph database approach to unfold discovery using Neo4j
+
+By Ajay Bidyarthy -   July 22, 2023  8798 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail business, consumer servicesOrganization Size: 100+The ProblemTo use data ingested into Neo4j and use the nodes and relationships with its properties to determine which nodes are actually the same person. For eg: we have Person nodes in the data, now people might enter their names in different ways. Our main aim is to identify Person nodes that may have similar data and are actually the same person. This will be represented as a perfect match between the nodes. This single-person view is referred to as the Golden RecordOur SolutionTill date, we have loaded data into Neo4j and created relationships with score property which defines match strength. We have created some criterias by which we can determine what constitutes two nodes being the same and then based on them created ‘perfect match’ and ‘probable match’.We have considered four properties for our criteria – full name, address, driver’s license, and passport number. We have relationships between nodes for these properties with scores, we use these in our perfect match and probable match creation.We have also configured Graphlytics (a viz software) in the virtual machine which connects to the neo4j database and helps vizualize the nodes and relationships. We have also worked on some algorithms using the GDS library in neo4j to produce more information on the graph, the common neighbors algorithm was used to produce scores based on node similarity and the higher the score the higher the similarity. Other algorithms were tried as well but since all the properties are of String format it did not work on it.We have Resolved issues neo4j is facing when deleting a Large set of data and Provided steps to recover neo4j if it fails by going OutofMemory.We have figured out the issues with the probable and perfect match cypher queries not working as intended and proposed a solution. Solution ArchitectureDeliverablesCreated Perfect match and probable match queries.
+Created queries that return the nodes (even if it does not have associated relationship) and it’s associated relationship.
+A cypher query that return the result as a json object that can be mapped into a java oject.
+A cypher query that will create the relationship if two node’s properties  have same value.
+A cypher query that will delete one relationship from bidirectional relationship.
+A python code for a sample neo4j query
+Adjust the perfect and probable match queries so it would work for  current data. Tools usedNeo4jLanguage/techniques usedCypher Query LanguageModels usedThe common neighbors algorithmSkills usedCQLDatabases usedNeo4jContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleAdvanced AI for Trading AutomationNext articleAI agent development and Deployment in Jina AI Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesITRetail & Supply Chain
+
+Golden Record – A knowledge graph database approach to unfold discovery using Neo4j
+
+By Ajay Bidyarthy -   July 22, 2023  8798 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail business, consumer servicesOrganization Size: 100+The ProblemTo use data ingested into Neo4j and use the nodes and relationships with its properties to determine which nodes are actually the same person. For eg: we have Person nodes in the data, now people might enter their names in different ways. Our main aim is to identify Person nodes that may have similar data and are actually the same person. This will be represented as a perfect match between the nodes. This single-person view is referred to as the Golden RecordOur SolutionTill date, we have loaded data into Neo4j and created relationships with score property which defines match strength. We have created some criterias by which we can determine what constitutes two nodes being the same and then based on them created ‘perfect match’ and ‘probable match’.We have considered four properties for our criteria – full name, address, driver’s license, and passport number. We have relationships between nodes for these properties with scores, we use these in our perfect match and probable match creation.We have also configured Graphlytics (a viz software) in the virtual machine which connects to the neo4j database and helps vizualize the nodes and relationships. We have also worked on some algorithms using the GDS library in neo4j to produce more information on the graph, the common neighbors algorithm was used to produce scores based on node similarity and the higher the score the higher the similarity. Other algorithms were tried as well but since all the properties are of String format it did not work on it.We have Resolved issues neo4j is facing when deleting a Large set of data and Provided steps to recover neo4j if it fails by going OutofMemory.We have figured out the issues with the probable and perfect match cypher queries not working as intended and proposed a solution. Solution ArchitectureDeliverablesCreated Perfect match and probable match queries.
+Created queries that return the nodes (even if it does not have associated relationship) and it’s associated relationship.
+A cypher query that return the result as a json object that can be mapped into a java oject.
+A cypher query that will create the relationship if two node’s properties  have same value.
+A cypher query that will delete one relationship from bidirectional relationship.
+A python code for a sample neo4j query
+Adjust the perfect and probable match queries so it would work for  current data. Tools usedNeo4jLanguage/techniques usedCypher Query LanguageModels usedThe common neighbors algorithmSkills usedCQLDatabases usedNeo4jContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleAdvanced AI for Trading AutomationNext articleAI agent development and Deployment in Jina AI Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesITRetail & Supply Chain
+
+Golden Record – A knowledge graph database approach to unfold discovery using Neo4j
+
+By Ajay Bidyarthy -   July 22, 2023  8798 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail business, consumer servicesOrganization Size: 100+The ProblemTo use data ingested into Neo4j and use the nodes and relationships with its properties to determine which nodes are actually the same person. For eg: we have Person nodes in the data, now people might enter their names in different ways. Our main aim is to identify Person nodes that may have similar data and are actually the same person. This will be represented as a perfect match between the nodes. This single-person view is referred to as the Golden RecordOur SolutionTill date, we have loaded data into Neo4j and created relationships with score property which defines match strength. We have created some criterias by which we can determine what constitutes two nodes being the same and then based on them created ‘perfect match’ and ‘probable match’.We have considered four properties for our criteria – full name, address, driver’s license, and passport number. We have relationships between nodes for these properties with scores, we use these in our perfect match and probable match creation.We have also configured Graphlytics (a viz software) in the virtual machine which connects to the neo4j database and helps vizualize the nodes and relationships. We have also worked on some algorithms using the GDS library in neo4j to produce more information on the graph, the common neighbors algorithm was used to produce scores based on node similarity and the higher the score the higher the similarity. Other algorithms were tried as well but since all the properties are of String format it did not work on it.We have Resolved issues neo4j is facing when deleting a Large set of data and Provided steps to recover neo4j if it fails by going OutofMemory.We have figured out the issues with the probable and perfect match cypher queries not working as intended and proposed a solution. Solution ArchitectureDeliverablesCreated Perfect match and probable match queries.
+Created queries that return the nodes (even if it does not have associated relationship) and it’s associated relationship.
+A cypher query that return the result as a json object that can be mapped into a java oject.
+A cypher query that will create the relationship if two node’s properties  have same value.
+A cypher query that will delete one relationship from bidirectional relationship.
+A python code for a sample neo4j query
+Adjust the perfect and probable match queries so it would work for  current data. Tools usedNeo4jLanguage/techniques usedCypher Query LanguageModels usedThe common neighbors algorithmSkills usedCQLDatabases usedNeo4jContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleAdvanced AI for Trading AutomationNext articleAI agent development and Deployment in Jina AI Ajay Bidyarthy  
+
+
+Our Success StoriesITRetail & Supply Chain
+
+Golden Record – A knowledge graph database approach to unfold discovery using Neo4j
+
+By Ajay Bidyarthy -   July 22, 2023  8798 
+
+
+By Ajay Bidyarthy -  
+8798
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail business, consumer servicesOrganization Size: 100+The ProblemTo use data ingested into Neo4j and use the nodes and relationships with its properties to determine which nodes are actually the same person. For eg: we have Person nodes in the data, now people might enter their names in different ways. Our main aim is to identify Person nodes that may have similar data and are actually the same person. This will be represented as a perfect match between the nodes. This single-person view is referred to as the Golden RecordOur SolutionTill date, we have loaded data into Neo4j and created relationships with score property which defines match strength. We have created some criterias by which we can determine what constitutes two nodes being the same and then based on them created ‘perfect match’ and ‘probable match’.We have considered four properties for our criteria – full name, address, driver’s license, and passport number. We have relationships between nodes for these properties with scores, we use these in our perfect match and probable match creation.We have also configured Graphlytics (a viz software) in the virtual machine which connects to the neo4j database and helps vizualize the nodes and relationships. We have also worked on some algorithms using the GDS library in neo4j to produce more information on the graph, the common neighbors algorithm was used to produce scores based on node similarity and the higher the score the higher the similarity. Other algorithms were tried as well but since all the properties are of String format it did not work on it.We have Resolved issues neo4j is facing when deleting a Large set of data and Provided steps to recover neo4j if it fails by going OutofMemory.We have figured out the issues with the probable and perfect match cypher queries not working as intended and proposed a solution. Solution ArchitectureDeliverablesCreated Perfect match and probable match queries.
+Created queries that return the nodes (even if it does not have associated relationship) and it’s associated relationship.
+A cypher query that return the result as a json object that can be mapped into a java oject.
+A cypher query that will create the relationship if two node’s properties  have same value.
+A cypher query that will delete one relationship from bidirectional relationship.
+A python code for a sample neo4j query
+Adjust the perfect and probable match queries so it would work for  current data. Tools usedNeo4jLanguage/techniques usedCypher Query LanguageModels usedThe common neighbors algorithmSkills usedCQLDatabases usedNeo4jContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+  
+Previous articleAdvanced AI for Trading AutomationNext articleAI agent development and Deployment in Jina AI
+Previous articleAdvanced AI for Trading Automation
+Previous articleAdvanced AI for Trading Automation
+Next articleAI agent development and Deployment in Jina AI
+Next articleAI agent development and Deployment in Jina AI
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

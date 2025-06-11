@@ -1,0 +1,560 @@
+Title: An ETL Solution for Currency Data to Google Big Query | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  An ETL Solution for Currency Data to Google Big Query
+
+
+
+
+
+Our Success StoriesIT
+
+An ETL Solution for Currency Data to Google Big Query
+
+By Ajay Bidyarthy -   September 16, 2022  8648 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveFetch currency data from Pure-clear API and store it to Google cloud BigQuery.Create a Google cloud function to automate the above process.Project Description We have given a pure-clear API and a google cloud account. We need to fetch currency data from that pure-clear API using python and need to store fetched data in Google Cloud Bigquery.We also need to automate the above process like the process runs on a daily basis and update the currency data on Bigquery.Our SolutionWe have created a python program that can fetch pure-clear API data. The API data was in JSON format but we needed table format so we used python package pandas. We converted json data to tabular format using pandas. After that, we connected python code to google cloud using google’s authentication module and then stored data frame (table) directly to BigQuery using the “.to_gbq” method. We also need to run the above process daily to update new data in BigQuery. For this Google cloud provides a “Cloud function” tool. In this, we can create a function and set up their running process. So we created a function and attached the above code to that function and set up a cloud function to run daily. Project DeliverablesA Google cloud function that runs daily and updates data on Google BigQueryTools usedCloud function, BigQuery of Google Cloud, Google Colab notebook, Python programming, PandasLanguage/techniques usedPython language and pandas moduleSkills usedPython programming, Data handling, Google CloudDatabases usedGoogle Cloud BigQueryWeb Cloud Servers usedGoogle Cloud ServerWhat are the technical Challenges Faced during Project ExecutionConnecting google cloud to python code is challenging because Its credentials should be in a specified format otherwise it shows an authentication error.How the Technical Challenges were SolvedTo tackle this challenge we created a dictionary format (key-value pair) and stored all the authentication variables in the dictionary as a key value pair. Then we used google’s authentication library “google.auth” and passed a dictionary to the service_account method and stored it in different variables so we can store data from pandas dataframe to Google BigQuery.Project Snapshots  
+
+ 
+
+  
+Previous articleETL and MLOps Infrastructure for Blockchain AnalyticsNext articleDesign and develop solution to anomaly detection classification problems Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  An ETL Solution for Currency Data to Google Big Query
+
+
+
+
+
+Our Success StoriesIT
+
+An ETL Solution for Currency Data to Google Big Query
+
+By Ajay Bidyarthy -   September 16, 2022  8648 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveFetch currency data from Pure-clear API and store it to Google cloud BigQuery.Create a Google cloud function to automate the above process.Project Description We have given a pure-clear API and a google cloud account. We need to fetch currency data from that pure-clear API using python and need to store fetched data in Google Cloud Bigquery.We also need to automate the above process like the process runs on a daily basis and update the currency data on Bigquery.Our SolutionWe have created a python program that can fetch pure-clear API data. The API data was in JSON format but we needed table format so we used python package pandas. We converted json data to tabular format using pandas. After that, we connected python code to google cloud using google’s authentication module and then stored data frame (table) directly to BigQuery using the “.to_gbq” method. We also need to run the above process daily to update new data in BigQuery. For this Google cloud provides a “Cloud function” tool. In this, we can create a function and set up their running process. So we created a function and attached the above code to that function and set up a cloud function to run daily. Project DeliverablesA Google cloud function that runs daily and updates data on Google BigQueryTools usedCloud function, BigQuery of Google Cloud, Google Colab notebook, Python programming, PandasLanguage/techniques usedPython language and pandas moduleSkills usedPython programming, Data handling, Google CloudDatabases usedGoogle Cloud BigQueryWeb Cloud Servers usedGoogle Cloud ServerWhat are the technical Challenges Faced during Project ExecutionConnecting google cloud to python code is challenging because Its credentials should be in a specified format otherwise it shows an authentication error.How the Technical Challenges were SolvedTo tackle this challenge we created a dictionary format (key-value pair) and stored all the authentication variables in the dictionary as a key value pair. Then we used google’s authentication library “google.auth” and passed a dictionary to the service_account method and stored it in different variables so we can store data from pandas dataframe to Google BigQuery.Project Snapshots  
+
+ 
+
+  
+Previous articleETL and MLOps Infrastructure for Blockchain AnalyticsNext articleDesign and develop solution to anomaly detection classification problems Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+An ETL Solution for Currency Data to Google Big Query
+
+By Ajay Bidyarthy -   September 16, 2022  8648 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveFetch currency data from Pure-clear API and store it to Google cloud BigQuery.Create a Google cloud function to automate the above process.Project Description We have given a pure-clear API and a google cloud account. We need to fetch currency data from that pure-clear API using python and need to store fetched data in Google Cloud Bigquery.We also need to automate the above process like the process runs on a daily basis and update the currency data on Bigquery.Our SolutionWe have created a python program that can fetch pure-clear API data. The API data was in JSON format but we needed table format so we used python package pandas. We converted json data to tabular format using pandas. After that, we connected python code to google cloud using google’s authentication module and then stored data frame (table) directly to BigQuery using the “.to_gbq” method. We also need to run the above process daily to update new data in BigQuery. For this Google cloud provides a “Cloud function” tool. In this, we can create a function and set up their running process. So we created a function and attached the above code to that function and set up a cloud function to run daily. Project DeliverablesA Google cloud function that runs daily and updates data on Google BigQueryTools usedCloud function, BigQuery of Google Cloud, Google Colab notebook, Python programming, PandasLanguage/techniques usedPython language and pandas moduleSkills usedPython programming, Data handling, Google CloudDatabases usedGoogle Cloud BigQueryWeb Cloud Servers usedGoogle Cloud ServerWhat are the technical Challenges Faced during Project ExecutionConnecting google cloud to python code is challenging because Its credentials should be in a specified format otherwise it shows an authentication error.How the Technical Challenges were SolvedTo tackle this challenge we created a dictionary format (key-value pair) and stored all the authentication variables in the dictionary as a key value pair. Then we used google’s authentication library “google.auth” and passed a dictionary to the service_account method and stored it in different variables so we can store data from pandas dataframe to Google BigQuery.Project Snapshots  
+
+ 
+
+  
+Previous articleETL and MLOps Infrastructure for Blockchain AnalyticsNext articleDesign and develop solution to anomaly detection classification problems Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+An ETL Solution for Currency Data to Google Big Query
+
+By Ajay Bidyarthy -   September 16, 2022  8648 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveFetch currency data from Pure-clear API and store it to Google cloud BigQuery.Create a Google cloud function to automate the above process.Project Description We have given a pure-clear API and a google cloud account. We need to fetch currency data from that pure-clear API using python and need to store fetched data in Google Cloud Bigquery.We also need to automate the above process like the process runs on a daily basis and update the currency data on Bigquery.Our SolutionWe have created a python program that can fetch pure-clear API data. The API data was in JSON format but we needed table format so we used python package pandas. We converted json data to tabular format using pandas. After that, we connected python code to google cloud using google’s authentication module and then stored data frame (table) directly to BigQuery using the “.to_gbq” method. We also need to run the above process daily to update new data in BigQuery. For this Google cloud provides a “Cloud function” tool. In this, we can create a function and set up their running process. So we created a function and attached the above code to that function and set up a cloud function to run daily. Project DeliverablesA Google cloud function that runs daily and updates data on Google BigQueryTools usedCloud function, BigQuery of Google Cloud, Google Colab notebook, Python programming, PandasLanguage/techniques usedPython language and pandas moduleSkills usedPython programming, Data handling, Google CloudDatabases usedGoogle Cloud BigQueryWeb Cloud Servers usedGoogle Cloud ServerWhat are the technical Challenges Faced during Project ExecutionConnecting google cloud to python code is challenging because Its credentials should be in a specified format otherwise it shows an authentication error.How the Technical Challenges were SolvedTo tackle this challenge we created a dictionary format (key-value pair) and stored all the authentication variables in the dictionary as a key value pair. Then we used google’s authentication library “google.auth” and passed a dictionary to the service_account method and stored it in different variables so we can store data from pandas dataframe to Google BigQuery.Project Snapshots  
+
+ 
+
+  
+Previous articleETL and MLOps Infrastructure for Blockchain AnalyticsNext articleDesign and develop solution to anomaly detection classification problems Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesIT
+
+An ETL Solution for Currency Data to Google Big Query
+
+By Ajay Bidyarthy -   September 16, 2022  8648 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveFetch currency data from Pure-clear API and store it to Google cloud BigQuery.Create a Google cloud function to automate the above process.Project Description We have given a pure-clear API and a google cloud account. We need to fetch currency data from that pure-clear API using python and need to store fetched data in Google Cloud Bigquery.We also need to automate the above process like the process runs on a daily basis and update the currency data on Bigquery.Our SolutionWe have created a python program that can fetch pure-clear API data. The API data was in JSON format but we needed table format so we used python package pandas. We converted json data to tabular format using pandas. After that, we connected python code to google cloud using google’s authentication module and then stored data frame (table) directly to BigQuery using the “.to_gbq” method. We also need to run the above process daily to update new data in BigQuery. For this Google cloud provides a “Cloud function” tool. In this, we can create a function and set up their running process. So we created a function and attached the above code to that function and set up a cloud function to run daily. Project DeliverablesA Google cloud function that runs daily and updates data on Google BigQueryTools usedCloud function, BigQuery of Google Cloud, Google Colab notebook, Python programming, PandasLanguage/techniques usedPython language and pandas moduleSkills usedPython programming, Data handling, Google CloudDatabases usedGoogle Cloud BigQueryWeb Cloud Servers usedGoogle Cloud ServerWhat are the technical Challenges Faced during Project ExecutionConnecting google cloud to python code is challenging because Its credentials should be in a specified format otherwise it shows an authentication error.How the Technical Challenges were SolvedTo tackle this challenge we created a dictionary format (key-value pair) and stored all the authentication variables in the dictionary as a key value pair. Then we used google’s authentication library “google.auth” and passed a dictionary to the service_account method and stored it in different variables so we can store data from pandas dataframe to Google BigQuery.Project Snapshots  
+
+ 
+
+  
+Previous articleETL and MLOps Infrastructure for Blockchain AnalyticsNext articleDesign and develop solution to anomaly detection classification problems Ajay Bidyarthy  
+
+
+Our Success StoriesIT
+
+An ETL Solution for Currency Data to Google Big Query
+
+By Ajay Bidyarthy -   September 16, 2022  8648 
+
+
+By Ajay Bidyarthy -  
+8648
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT ConsultingServices: Software, ConsultingOrganization Size: 100+Project ObjectiveFetch currency data from Pure-clear API and store it to Google cloud BigQuery.Create a Google cloud function to automate the above process.Project Description We have given a pure-clear API and a google cloud account. We need to fetch currency data from that pure-clear API using python and need to store fetched data in Google Cloud Bigquery.We also need to automate the above process like the process runs on a daily basis and update the currency data on Bigquery.Our SolutionWe have created a python program that can fetch pure-clear API data. The API data was in JSON format but we needed table format so we used python package pandas. We converted json data to tabular format using pandas. After that, we connected python code to google cloud using google’s authentication module and then stored data frame (table) directly to BigQuery using the “.to_gbq” method. We also need to run the above process daily to update new data in BigQuery. For this Google cloud provides a “Cloud function” tool. In this, we can create a function and set up their running process. So we created a function and attached the above code to that function and set up a cloud function to run daily. Project DeliverablesA Google cloud function that runs daily and updates data on Google BigQueryTools usedCloud function, BigQuery of Google Cloud, Google Colab notebook, Python programming, PandasLanguage/techniques usedPython language and pandas moduleSkills usedPython programming, Data handling, Google CloudDatabases usedGoogle Cloud BigQueryWeb Cloud Servers usedGoogle Cloud ServerWhat are the technical Challenges Faced during Project ExecutionConnecting google cloud to python code is challenging because Its credentials should be in a specified format otherwise it shows an authentication error.How the Technical Challenges were SolvedTo tackle this challenge we created a dictionary format (key-value pair) and stored all the authentication variables in the dictionary as a key value pair. Then we used google’s authentication library “google.auth” and passed a dictionary to the service_account method and stored it in different variables so we can store data from pandas dataframe to Google BigQuery.Project Snapshots  
+
+
+  
+Previous articleETL and MLOps Infrastructure for Blockchain AnalyticsNext articleDesign and develop solution to anomaly detection classification problems
+Previous articleETL and MLOps Infrastructure for Blockchain Analytics
+Previous articleETL and MLOps Infrastructure for Blockchain Analytics
+Next articleDesign and develop solution to anomaly detection classification problems
+Next articleDesign and develop solution to anomaly detection classification problems
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

@@ -1,0 +1,572 @@
+Title: Car Detection in Satellite Images | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Car Detection in Satellite Images
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsProduction & manufacturingRetail & Supply Chain
+
+Car Detection in Satellite Images
+
+By Ajay Bidyarthy -   July 21, 2023  8878 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to detect cars in satellite images and highlight them using a bounding box.Project DescriptionThe client, Steffen Schneider, approached us with a requirement to develop a Python project that dealt in the field of computer vision. The main aim of the project was to detect cars present in a satellite image and highlight them using a bounding box. To achieve this, we decided to use the Darknet model and train it on Yolov4 dataset of cars in satellite images.Our Solution We used Google Colab for coding and training the Darknet model. Kaggle was used to download the Yolov4 dataset of cars in satellite images. We preprocessed the dataset and trained the model on it. Once the model was trained, we tested it on sample satellite images and it worked perfectly fine. Finally, we created a script that detected the cars in an image and highlighted them using a bounding box.Project DeliverablesThe final deliverable was a ipython Notebook presented on Google Colab.Tools usedGoogle Colab, Kaggle, Slack(For Communication)Language/techniques usedPythonModels usedDarknet(CV Model)Skills usedPython programming, AI/ML.What are the technical Challenges Faced during Project ExecutionThe main challenge we faced was related to the pre-processing of the Yolov4 dataset of cars in satellite images. The dataset was large and had to be cleaned and formatted before it could be used for training the model.How the Technical Challenges were SolvedWe used Python programming skills and developed a script that automated the pre-processing of the dataset. This saved us a lot of time and allowed us to focus on training the model.Business ImpactThe project was a success and the client was very happy with the final product. The car detection model worked perfectly fine on sample satellite images and could be used for further development of an application that could detect cars in real-time.Project website urlhttps://colab.research.google.com/drive/1AoeHdZdpi0lWLf3X2G800J0VT_7wJtnEProject Video
+
+Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleBuilding a Physics-Informed Neural Network for Circuit EvaluationNext articleUsing Graph Technology to Create Single Customer View. Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Car Detection in Satellite Images
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsProduction & manufacturingRetail & Supply Chain
+
+Car Detection in Satellite Images
+
+By Ajay Bidyarthy -   July 21, 2023  8878 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to detect cars in satellite images and highlight them using a bounding box.Project DescriptionThe client, Steffen Schneider, approached us with a requirement to develop a Python project that dealt in the field of computer vision. The main aim of the project was to detect cars present in a satellite image and highlight them using a bounding box. To achieve this, we decided to use the Darknet model and train it on Yolov4 dataset of cars in satellite images.Our Solution We used Google Colab for coding and training the Darknet model. Kaggle was used to download the Yolov4 dataset of cars in satellite images. We preprocessed the dataset and trained the model on it. Once the model was trained, we tested it on sample satellite images and it worked perfectly fine. Finally, we created a script that detected the cars in an image and highlighted them using a bounding box.Project DeliverablesThe final deliverable was a ipython Notebook presented on Google Colab.Tools usedGoogle Colab, Kaggle, Slack(For Communication)Language/techniques usedPythonModels usedDarknet(CV Model)Skills usedPython programming, AI/ML.What are the technical Challenges Faced during Project ExecutionThe main challenge we faced was related to the pre-processing of the Yolov4 dataset of cars in satellite images. The dataset was large and had to be cleaned and formatted before it could be used for training the model.How the Technical Challenges were SolvedWe used Python programming skills and developed a script that automated the pre-processing of the dataset. This saved us a lot of time and allowed us to focus on training the model.Business ImpactThe project was a success and the client was very happy with the final product. The car detection model worked perfectly fine on sample satellite images and could be used for further development of an application that could detect cars in real-time.Project website urlhttps://colab.research.google.com/drive/1AoeHdZdpi0lWLf3X2G800J0VT_7wJtnEProject Video
+
+Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleBuilding a Physics-Informed Neural Network for Circuit EvaluationNext articleUsing Graph Technology to Create Single Customer View. Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsProduction & manufacturingRetail & Supply Chain
+
+Car Detection in Satellite Images
+
+By Ajay Bidyarthy -   July 21, 2023  8878 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to detect cars in satellite images and highlight them using a bounding box.Project DescriptionThe client, Steffen Schneider, approached us with a requirement to develop a Python project that dealt in the field of computer vision. The main aim of the project was to detect cars present in a satellite image and highlight them using a bounding box. To achieve this, we decided to use the Darknet model and train it on Yolov4 dataset of cars in satellite images.Our Solution We used Google Colab for coding and training the Darknet model. Kaggle was used to download the Yolov4 dataset of cars in satellite images. We preprocessed the dataset and trained the model on it. Once the model was trained, we tested it on sample satellite images and it worked perfectly fine. Finally, we created a script that detected the cars in an image and highlighted them using a bounding box.Project DeliverablesThe final deliverable was a ipython Notebook presented on Google Colab.Tools usedGoogle Colab, Kaggle, Slack(For Communication)Language/techniques usedPythonModels usedDarknet(CV Model)Skills usedPython programming, AI/ML.What are the technical Challenges Faced during Project ExecutionThe main challenge we faced was related to the pre-processing of the Yolov4 dataset of cars in satellite images. The dataset was large and had to be cleaned and formatted before it could be used for training the model.How the Technical Challenges were SolvedWe used Python programming skills and developed a script that automated the pre-processing of the dataset. This saved us a lot of time and allowed us to focus on training the model.Business ImpactThe project was a success and the client was very happy with the final product. The car detection model worked perfectly fine on sample satellite images and could be used for further development of an application that could detect cars in real-time.Project website urlhttps://colab.research.google.com/drive/1AoeHdZdpi0lWLf3X2G800J0VT_7wJtnEProject Video
+
+Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleBuilding a Physics-Informed Neural Network for Circuit EvaluationNext articleUsing Graph Technology to Create Single Customer View. Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesFast Moving Consumer GoodsProduction & manufacturingRetail & Supply Chain
+
+Car Detection in Satellite Images
+
+By Ajay Bidyarthy -   July 21, 2023  8878 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to detect cars in satellite images and highlight them using a bounding box.Project DescriptionThe client, Steffen Schneider, approached us with a requirement to develop a Python project that dealt in the field of computer vision. The main aim of the project was to detect cars present in a satellite image and highlight them using a bounding box. To achieve this, we decided to use the Darknet model and train it on Yolov4 dataset of cars in satellite images.Our Solution We used Google Colab for coding and training the Darknet model. Kaggle was used to download the Yolov4 dataset of cars in satellite images. We preprocessed the dataset and trained the model on it. Once the model was trained, we tested it on sample satellite images and it worked perfectly fine. Finally, we created a script that detected the cars in an image and highlighted them using a bounding box.Project DeliverablesThe final deliverable was a ipython Notebook presented on Google Colab.Tools usedGoogle Colab, Kaggle, Slack(For Communication)Language/techniques usedPythonModels usedDarknet(CV Model)Skills usedPython programming, AI/ML.What are the technical Challenges Faced during Project ExecutionThe main challenge we faced was related to the pre-processing of the Yolov4 dataset of cars in satellite images. The dataset was large and had to be cleaned and formatted before it could be used for training the model.How the Technical Challenges were SolvedWe used Python programming skills and developed a script that automated the pre-processing of the dataset. This saved us a lot of time and allowed us to focus on training the model.Business ImpactThe project was a success and the client was very happy with the final product. The car detection model worked perfectly fine on sample satellite images and could be used for further development of an application that could detect cars in real-time.Project website urlhttps://colab.research.google.com/drive/1AoeHdZdpi0lWLf3X2G800J0VT_7wJtnEProject Video
+
+Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleBuilding a Physics-Informed Neural Network for Circuit EvaluationNext articleUsing Graph Technology to Create Single Customer View. Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesFast Moving Consumer GoodsProduction & manufacturingRetail & Supply Chain
+
+Car Detection in Satellite Images
+
+By Ajay Bidyarthy -   July 21, 2023  8878 
+
+
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to detect cars in satellite images and highlight them using a bounding box.Project DescriptionThe client, Steffen Schneider, approached us with a requirement to develop a Python project that dealt in the field of computer vision. The main aim of the project was to detect cars present in a satellite image and highlight them using a bounding box. To achieve this, we decided to use the Darknet model and train it on Yolov4 dataset of cars in satellite images.Our Solution We used Google Colab for coding and training the Darknet model. Kaggle was used to download the Yolov4 dataset of cars in satellite images. We preprocessed the dataset and trained the model on it. Once the model was trained, we tested it on sample satellite images and it worked perfectly fine. Finally, we created a script that detected the cars in an image and highlighted them using a bounding box.Project DeliverablesThe final deliverable was a ipython Notebook presented on Google Colab.Tools usedGoogle Colab, Kaggle, Slack(For Communication)Language/techniques usedPythonModels usedDarknet(CV Model)Skills usedPython programming, AI/ML.What are the technical Challenges Faced during Project ExecutionThe main challenge we faced was related to the pre-processing of the Yolov4 dataset of cars in satellite images. The dataset was large and had to be cleaned and formatted before it could be used for training the model.How the Technical Challenges were SolvedWe used Python programming skills and developed a script that automated the pre-processing of the dataset. This saved us a lot of time and allowed us to focus on training the model.Business ImpactThe project was a success and the client was very happy with the final product. The car detection model worked perfectly fine on sample satellite images and could be used for further development of an application that could detect cars in real-time.Project website urlhttps://colab.research.google.com/drive/1AoeHdZdpi0lWLf3X2G800J0VT_7wJtnEProject Video
+
+Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+ 
+
+  
+Previous articleBuilding a Physics-Informed Neural Network for Circuit EvaluationNext articleUsing Graph Technology to Create Single Customer View. Ajay Bidyarthy  
+
+
+Our Success StoriesFast Moving Consumer GoodsProduction & manufacturingRetail & Supply Chain
+
+Car Detection in Satellite Images
+
+By Ajay Bidyarthy -   July 21, 2023  8878 
+
+
+By Ajay Bidyarthy -  
+8878
+
+
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveThe objective of this project was to detect cars in satellite images and highlight them using a bounding box.Project DescriptionThe client, Steffen Schneider, approached us with a requirement to develop a Python project that dealt in the field of computer vision. The main aim of the project was to detect cars present in a satellite image and highlight them using a bounding box. To achieve this, we decided to use the Darknet model and train it on Yolov4 dataset of cars in satellite images.Our Solution We used Google Colab for coding and training the Darknet model. Kaggle was used to download the Yolov4 dataset of cars in satellite images. We preprocessed the dataset and trained the model on it. Once the model was trained, we tested it on sample satellite images and it worked perfectly fine. Finally, we created a script that detected the cars in an image and highlighted them using a bounding box.Project DeliverablesThe final deliverable was a ipython Notebook presented on Google Colab.Tools usedGoogle Colab, Kaggle, Slack(For Communication)Language/techniques usedPythonModels usedDarknet(CV Model)Skills usedPython programming, AI/ML.What are the technical Challenges Faced during Project ExecutionThe main challenge we faced was related to the pre-processing of the Yolov4 dataset of cars in satellite images. The dataset was large and had to be cleaned and formatted before it could be used for training the model.How the Technical Challenges were SolvedWe used Python programming skills and developed a script that automated the pre-processing of the dataset. This saved us a lot of time and allowed us to focus on training the model.Business ImpactThe project was a success and the client was very happy with the final product. The car detection model worked perfectly fine on sample satellite images and could be used for further development of an application that could detect cars in real-time.Project website urlhttps://colab.research.google.com/drive/1AoeHdZdpi0lWLf3X2G800J0VT_7wJtnEProject Video
+
+Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+  
+Previous articleBuilding a Physics-Informed Neural Network for Circuit EvaluationNext articleUsing Graph Technology to Create Single Customer View.
+Previous articleBuilding a Physics-Informed Neural Network for Circuit Evaluation
+Previous articleBuilding a Physics-Informed Neural Network for Circuit Evaluation
+Next articleUsing Graph Technology to Create Single Customer View.
+Next articleUsing Graph Technology to Create Single Customer View.
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

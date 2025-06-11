@@ -1,0 +1,560 @@
+Title: Making a robust way to sync data from airtables to mongoDB using python – ETL Solution | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Making a robust way to sync data from airtables to mongoDB using...
+
+
+
+
+
+Our Success StoriesIT
+
+Making a robust way to sync data from airtables to mongoDB using python – ETL Solution
+
+By Ajay Bidyarthy -   May 13, 2022  10647 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionEquilo is a social impact start-up focused on gender equality and social inclusion. We need to link data in Airtable (1 million+ records spread across 20+ bases) to MongoDB (v3.x.x).Most of the data is backend data for our app, in which case the flow is only AT to MDB.Need to create a code that can calculate a scores by pulling from indicators in many different bases and putting result in new database.Our SolutionUsed Python and MongoDB module along with Airtable API to fetch all the data from airtables and push them to the database. Stayed in touch with the client through slack and asana completing daily tasks and applying a cronjob for the program to run on a scheduled time.Project DeliverablesPython code for sync into their staging server and then to production.Tools usedVScode MongoDBAirtable APISlackAsanaGithubLanguage/techniques usedPython  MongoDbSQLSkills usedData extractionData handlingData storageComputational data queriesDatabases usedAirtablesMongoDBWeb Cloud Servers usedAirtableWhat are the technical Challenges Faced during Project ExecutionMain challenge faced was regarding the new concept of Airtables and syncing up the data into mongodb in a very complex schema as proposed by the client. Dissimilar columns in mongoDB and Airtables for 100s of tables took lot of time.Also insufficient information provided by client while coding and the previous versions codes that had been written only to discover them on a later stage caused a lot of problem.Not proper code management which could help next coders like me to complete the remaining stuff quickly.How the Technical Challenges were SolvedThese issues were solved by lot of self study and evaluation and then asking the exact question to client which they would then answer. For eg: whereabouts of the previous codes and people who run that code.Business ImpactHelped them immensely making their backend to frontend integration seamless.Sped up their product development by 20% to calculate various different scores and visualize them on the frontend.Project SnapshotsProject website urlhttps://www.equilo.io/ 
+
+ 
+
+  
+Previous articleGoogle Local Service Ads LSA API To Google BigQuery to Google Data StudioNext articleOptimize the data scraper program to easily accommodate large files and solve OOM errors Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Making a robust way to sync data from airtables to mongoDB using...
+
+
+
+
+
+Our Success StoriesIT
+
+Making a robust way to sync data from airtables to mongoDB using python – ETL Solution
+
+By Ajay Bidyarthy -   May 13, 2022  10647 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionEquilo is a social impact start-up focused on gender equality and social inclusion. We need to link data in Airtable (1 million+ records spread across 20+ bases) to MongoDB (v3.x.x).Most of the data is backend data for our app, in which case the flow is only AT to MDB.Need to create a code that can calculate a scores by pulling from indicators in many different bases and putting result in new database.Our SolutionUsed Python and MongoDB module along with Airtable API to fetch all the data from airtables and push them to the database. Stayed in touch with the client through slack and asana completing daily tasks and applying a cronjob for the program to run on a scheduled time.Project DeliverablesPython code for sync into their staging server and then to production.Tools usedVScode MongoDBAirtable APISlackAsanaGithubLanguage/techniques usedPython  MongoDbSQLSkills usedData extractionData handlingData storageComputational data queriesDatabases usedAirtablesMongoDBWeb Cloud Servers usedAirtableWhat are the technical Challenges Faced during Project ExecutionMain challenge faced was regarding the new concept of Airtables and syncing up the data into mongodb in a very complex schema as proposed by the client. Dissimilar columns in mongoDB and Airtables for 100s of tables took lot of time.Also insufficient information provided by client while coding and the previous versions codes that had been written only to discover them on a later stage caused a lot of problem.Not proper code management which could help next coders like me to complete the remaining stuff quickly.How the Technical Challenges were SolvedThese issues were solved by lot of self study and evaluation and then asking the exact question to client which they would then answer. For eg: whereabouts of the previous codes and people who run that code.Business ImpactHelped them immensely making their backend to frontend integration seamless.Sped up their product development by 20% to calculate various different scores and visualize them on the frontend.Project SnapshotsProject website urlhttps://www.equilo.io/ 
+
+ 
+
+  
+Previous articleGoogle Local Service Ads LSA API To Google BigQuery to Google Data StudioNext articleOptimize the data scraper program to easily accommodate large files and solve OOM errors Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Making a robust way to sync data from airtables to mongoDB using python – ETL Solution
+
+By Ajay Bidyarthy -   May 13, 2022  10647 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionEquilo is a social impact start-up focused on gender equality and social inclusion. We need to link data in Airtable (1 million+ records spread across 20+ bases) to MongoDB (v3.x.x).Most of the data is backend data for our app, in which case the flow is only AT to MDB.Need to create a code that can calculate a scores by pulling from indicators in many different bases and putting result in new database.Our SolutionUsed Python and MongoDB module along with Airtable API to fetch all the data from airtables and push them to the database. Stayed in touch with the client through slack and asana completing daily tasks and applying a cronjob for the program to run on a scheduled time.Project DeliverablesPython code for sync into their staging server and then to production.Tools usedVScode MongoDBAirtable APISlackAsanaGithubLanguage/techniques usedPython  MongoDbSQLSkills usedData extractionData handlingData storageComputational data queriesDatabases usedAirtablesMongoDBWeb Cloud Servers usedAirtableWhat are the technical Challenges Faced during Project ExecutionMain challenge faced was regarding the new concept of Airtables and syncing up the data into mongodb in a very complex schema as proposed by the client. Dissimilar columns in mongoDB and Airtables for 100s of tables took lot of time.Also insufficient information provided by client while coding and the previous versions codes that had been written only to discover them on a later stage caused a lot of problem.Not proper code management which could help next coders like me to complete the remaining stuff quickly.How the Technical Challenges were SolvedThese issues were solved by lot of self study and evaluation and then asking the exact question to client which they would then answer. For eg: whereabouts of the previous codes and people who run that code.Business ImpactHelped them immensely making their backend to frontend integration seamless.Sped up their product development by 20% to calculate various different scores and visualize them on the frontend.Project SnapshotsProject website urlhttps://www.equilo.io/ 
+
+ 
+
+  
+Previous articleGoogle Local Service Ads LSA API To Google BigQuery to Google Data StudioNext articleOptimize the data scraper program to easily accommodate large files and solve OOM errors Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Making a robust way to sync data from airtables to mongoDB using python – ETL Solution
+
+By Ajay Bidyarthy -   May 13, 2022  10647 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionEquilo is a social impact start-up focused on gender equality and social inclusion. We need to link data in Airtable (1 million+ records spread across 20+ bases) to MongoDB (v3.x.x).Most of the data is backend data for our app, in which case the flow is only AT to MDB.Need to create a code that can calculate a scores by pulling from indicators in many different bases and putting result in new database.Our SolutionUsed Python and MongoDB module along with Airtable API to fetch all the data from airtables and push them to the database. Stayed in touch with the client through slack and asana completing daily tasks and applying a cronjob for the program to run on a scheduled time.Project DeliverablesPython code for sync into their staging server and then to production.Tools usedVScode MongoDBAirtable APISlackAsanaGithubLanguage/techniques usedPython  MongoDbSQLSkills usedData extractionData handlingData storageComputational data queriesDatabases usedAirtablesMongoDBWeb Cloud Servers usedAirtableWhat are the technical Challenges Faced during Project ExecutionMain challenge faced was regarding the new concept of Airtables and syncing up the data into mongodb in a very complex schema as proposed by the client. Dissimilar columns in mongoDB and Airtables for 100s of tables took lot of time.Also insufficient information provided by client while coding and the previous versions codes that had been written only to discover them on a later stage caused a lot of problem.Not proper code management which could help next coders like me to complete the remaining stuff quickly.How the Technical Challenges were SolvedThese issues were solved by lot of self study and evaluation and then asking the exact question to client which they would then answer. For eg: whereabouts of the previous codes and people who run that code.Business ImpactHelped them immensely making their backend to frontend integration seamless.Sped up their product development by 20% to calculate various different scores and visualize them on the frontend.Project SnapshotsProject website urlhttps://www.equilo.io/ 
+
+ 
+
+  
+Previous articleGoogle Local Service Ads LSA API To Google BigQuery to Google Data StudioNext articleOptimize the data scraper program to easily accommodate large files and solve OOM errors Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesIT
+
+Making a robust way to sync data from airtables to mongoDB using python – ETL Solution
+
+By Ajay Bidyarthy -   May 13, 2022  10647 
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionEquilo is a social impact start-up focused on gender equality and social inclusion. We need to link data in Airtable (1 million+ records spread across 20+ bases) to MongoDB (v3.x.x).Most of the data is backend data for our app, in which case the flow is only AT to MDB.Need to create a code that can calculate a scores by pulling from indicators in many different bases and putting result in new database.Our SolutionUsed Python and MongoDB module along with Airtable API to fetch all the data from airtables and push them to the database. Stayed in touch with the client through slack and asana completing daily tasks and applying a cronjob for the program to run on a scheduled time.Project DeliverablesPython code for sync into their staging server and then to production.Tools usedVScode MongoDBAirtable APISlackAsanaGithubLanguage/techniques usedPython  MongoDbSQLSkills usedData extractionData handlingData storageComputational data queriesDatabases usedAirtablesMongoDBWeb Cloud Servers usedAirtableWhat are the technical Challenges Faced during Project ExecutionMain challenge faced was regarding the new concept of Airtables and syncing up the data into mongodb in a very complex schema as proposed by the client. Dissimilar columns in mongoDB and Airtables for 100s of tables took lot of time.Also insufficient information provided by client while coding and the previous versions codes that had been written only to discover them on a later stage caused a lot of problem.Not proper code management which could help next coders like me to complete the remaining stuff quickly.How the Technical Challenges were SolvedThese issues were solved by lot of self study and evaluation and then asking the exact question to client which they would then answer. For eg: whereabouts of the previous codes and people who run that code.Business ImpactHelped them immensely making their backend to frontend integration seamless.Sped up their product development by 20% to calculate various different scores and visualize them on the frontend.Project SnapshotsProject website urlhttps://www.equilo.io/ 
+
+ 
+
+  
+Previous articleGoogle Local Service Ads LSA API To Google BigQuery to Google Data StudioNext articleOptimize the data scraper program to easily accommodate large files and solve OOM errors Ajay Bidyarthy  
+
+
+Our Success StoriesIT
+
+Making a robust way to sync data from airtables to mongoDB using python – ETL Solution
+
+By Ajay Bidyarthy -   May 13, 2022  10647 
+
+
+By Ajay Bidyarthy -  
+10647
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionEquilo is a social impact start-up focused on gender equality and social inclusion. We need to link data in Airtable (1 million+ records spread across 20+ bases) to MongoDB (v3.x.x).Most of the data is backend data for our app, in which case the flow is only AT to MDB.Need to create a code that can calculate a scores by pulling from indicators in many different bases and putting result in new database.Our SolutionUsed Python and MongoDB module along with Airtable API to fetch all the data from airtables and push them to the database. Stayed in touch with the client through slack and asana completing daily tasks and applying a cronjob for the program to run on a scheduled time.Project DeliverablesPython code for sync into their staging server and then to production.Tools usedVScode MongoDBAirtable APISlackAsanaGithubLanguage/techniques usedPython  MongoDbSQLSkills usedData extractionData handlingData storageComputational data queriesDatabases usedAirtablesMongoDBWeb Cloud Servers usedAirtableWhat are the technical Challenges Faced during Project ExecutionMain challenge faced was regarding the new concept of Airtables and syncing up the data into mongodb in a very complex schema as proposed by the client. Dissimilar columns in mongoDB and Airtables for 100s of tables took lot of time.Also insufficient information provided by client while coding and the previous versions codes that had been written only to discover them on a later stage caused a lot of problem.Not proper code management which could help next coders like me to complete the remaining stuff quickly.How the Technical Challenges were SolvedThese issues were solved by lot of self study and evaluation and then asking the exact question to client which they would then answer. For eg: whereabouts of the previous codes and people who run that code.Business ImpactHelped them immensely making their backend to frontend integration seamless.Sped up their product development by 20% to calculate various different scores and visualize them on the frontend.Project SnapshotsProject website urlhttps://www.equilo.io/ 
+
+
+  
+Previous articleGoogle Local Service Ads LSA API To Google BigQuery to Google Data StudioNext articleOptimize the data scraper program to easily accommodate large files and solve OOM errors
+Previous articleGoogle Local Service Ads LSA API To Google BigQuery to Google Data Studio
+Previous articleGoogle Local Service Ads LSA API To Google BigQuery to Google Data Studio
+Next articleOptimize the data scraper program to easily accommodate large files and solve OOM errors
+Next articleOptimize the data scraper program to easily accommodate large files and solve OOM errors
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

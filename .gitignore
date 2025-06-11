@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+output/
+.nltk_data/
+.DS_Store
+.env 

@@ -1,0 +1,572 @@
+Title: Web Data Connector | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Web Data Connector
+
+
+
+
+
+Our Success StoriesIT
+
+Web Data Connector
+
+By Ajay Bidyarthy -   July 13, 2022  8884 
+
+
+
+
+
+Client BackgroundClient: A Leading Marketing Tech Firm in AustraliaIndustry Type: MarketingServices: Marketing SolutionsOrganization Size: 50+Project ObjectiveTo make a software code that takes data from a source and ingests it into a database present on a server. The scripts should automatically execute after regular intervals of time. Project DescriptionThe client had several data sources that were updated with new data regularly. The client wanted software that triggers itself automatically and takes data from those data sources and ingests it into a database that is hosted on a Linode server. Also, the date parameters in the query should be changed dynamically using the current date. Further, we had to assist in setting up the Tableau BI tool on the client’s PC and connect the Postgres database to the tableau. Our SolutionWe setup a linux server on linode.Install Postgres on this linux server.Create a database and create a new user. Grant this new user all privileges on the database.Create a table within the database. This table has columns with datatypes as specified by the client.Write a python script that makes GET request to the client specified data source and store the response in json format.Inside the python script itself, establish  a connection to our postgres database using the pscopg2 module and user credentials.Ingest the data into postgres using INSERT query in python script.Write code to get the today’s date using the datetime module. Using this, calculate yesterday’s date. Now we can use these as parameters inside our query to the data source.Move these python files to our server.Install and setup Cron on our server. Add the task to run specified python files at regular intervals to Cron.Repeat steps 4 to 11 for every new data source.Project DeliverablesPython ScriptWorking linode server with cron installedTableau installation and connection to postgresProject DocumentationTools usedLinode serverVS Code Language/techniques usedPython BashPSQL.Skills usedPython programmingPostgres SQL Linux scriptingDatabases usedPostgresWeb Cloud Servers usedLinodeWhat are the technical Challenges Faced during Project ExecutionAvoiding duplicates was a challenge. Since Client was living in Australia all the timezone (on server and in code) were changed to AEDT. How the Technical Challenges were SolvedUsed uniqueid Column to check for duplicates. Used pytz module to change timezones.Business ImpactThis solution helps in maintaining a copy of all data sources inside our Postgres database. Also, the data is 24/7 available. Since data inside the Postgres is updated regularly, graphs in the tableau are also up to date.Project SnapshotsProject website urlhttps://github.com/X360pro/Web-connector-for-tableu
+
+ 
+
+ 
+
+  
+Previous articleAn app for updating the email id of the user and stripe refund tool using retoolNext articleData integration and big data performance using Elasticsearch Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Web Data Connector
+
+
+
+
+
+Our Success StoriesIT
+
+Web Data Connector
+
+By Ajay Bidyarthy -   July 13, 2022  8884 
+
+
+
+
+
+Client BackgroundClient: A Leading Marketing Tech Firm in AustraliaIndustry Type: MarketingServices: Marketing SolutionsOrganization Size: 50+Project ObjectiveTo make a software code that takes data from a source and ingests it into a database present on a server. The scripts should automatically execute after regular intervals of time. Project DescriptionThe client had several data sources that were updated with new data regularly. The client wanted software that triggers itself automatically and takes data from those data sources and ingests it into a database that is hosted on a Linode server. Also, the date parameters in the query should be changed dynamically using the current date. Further, we had to assist in setting up the Tableau BI tool on the client’s PC and connect the Postgres database to the tableau. Our SolutionWe setup a linux server on linode.Install Postgres on this linux server.Create a database and create a new user. Grant this new user all privileges on the database.Create a table within the database. This table has columns with datatypes as specified by the client.Write a python script that makes GET request to the client specified data source and store the response in json format.Inside the python script itself, establish  a connection to our postgres database using the pscopg2 module and user credentials.Ingest the data into postgres using INSERT query in python script.Write code to get the today’s date using the datetime module. Using this, calculate yesterday’s date. Now we can use these as parameters inside our query to the data source.Move these python files to our server.Install and setup Cron on our server. Add the task to run specified python files at regular intervals to Cron.Repeat steps 4 to 11 for every new data source.Project DeliverablesPython ScriptWorking linode server with cron installedTableau installation and connection to postgresProject DocumentationTools usedLinode serverVS Code Language/techniques usedPython BashPSQL.Skills usedPython programmingPostgres SQL Linux scriptingDatabases usedPostgresWeb Cloud Servers usedLinodeWhat are the technical Challenges Faced during Project ExecutionAvoiding duplicates was a challenge. Since Client was living in Australia all the timezone (on server and in code) were changed to AEDT. How the Technical Challenges were SolvedUsed uniqueid Column to check for duplicates. Used pytz module to change timezones.Business ImpactThis solution helps in maintaining a copy of all data sources inside our Postgres database. Also, the data is 24/7 available. Since data inside the Postgres is updated regularly, graphs in the tableau are also up to date.Project SnapshotsProject website urlhttps://github.com/X360pro/Web-connector-for-tableu
+
+ 
+
+ 
+
+  
+Previous articleAn app for updating the email id of the user and stripe refund tool using retoolNext articleData integration and big data performance using Elasticsearch Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Web Data Connector
+
+By Ajay Bidyarthy -   July 13, 2022  8884 
+
+
+
+
+
+Client BackgroundClient: A Leading Marketing Tech Firm in AustraliaIndustry Type: MarketingServices: Marketing SolutionsOrganization Size: 50+Project ObjectiveTo make a software code that takes data from a source and ingests it into a database present on a server. The scripts should automatically execute after regular intervals of time. Project DescriptionThe client had several data sources that were updated with new data regularly. The client wanted software that triggers itself automatically and takes data from those data sources and ingests it into a database that is hosted on a Linode server. Also, the date parameters in the query should be changed dynamically using the current date. Further, we had to assist in setting up the Tableau BI tool on the client’s PC and connect the Postgres database to the tableau. Our SolutionWe setup a linux server on linode.Install Postgres on this linux server.Create a database and create a new user. Grant this new user all privileges on the database.Create a table within the database. This table has columns with datatypes as specified by the client.Write a python script that makes GET request to the client specified data source and store the response in json format.Inside the python script itself, establish  a connection to our postgres database using the pscopg2 module and user credentials.Ingest the data into postgres using INSERT query in python script.Write code to get the today’s date using the datetime module. Using this, calculate yesterday’s date. Now we can use these as parameters inside our query to the data source.Move these python files to our server.Install and setup Cron on our server. Add the task to run specified python files at regular intervals to Cron.Repeat steps 4 to 11 for every new data source.Project DeliverablesPython ScriptWorking linode server with cron installedTableau installation and connection to postgresProject DocumentationTools usedLinode serverVS Code Language/techniques usedPython BashPSQL.Skills usedPython programmingPostgres SQL Linux scriptingDatabases usedPostgresWeb Cloud Servers usedLinodeWhat are the technical Challenges Faced during Project ExecutionAvoiding duplicates was a challenge. Since Client was living in Australia all the timezone (on server and in code) were changed to AEDT. How the Technical Challenges were SolvedUsed uniqueid Column to check for duplicates. Used pytz module to change timezones.Business ImpactThis solution helps in maintaining a copy of all data sources inside our Postgres database. Also, the data is 24/7 available. Since data inside the Postgres is updated regularly, graphs in the tableau are also up to date.Project SnapshotsProject website urlhttps://github.com/X360pro/Web-connector-for-tableu
+
+ 
+
+ 
+
+  
+Previous articleAn app for updating the email id of the user and stripe refund tool using retoolNext articleData integration and big data performance using Elasticsearch Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesIT
+
+Web Data Connector
+
+By Ajay Bidyarthy -   July 13, 2022  8884 
+
+
+
+
+
+Client BackgroundClient: A Leading Marketing Tech Firm in AustraliaIndustry Type: MarketingServices: Marketing SolutionsOrganization Size: 50+Project ObjectiveTo make a software code that takes data from a source and ingests it into a database present on a server. The scripts should automatically execute after regular intervals of time. Project DescriptionThe client had several data sources that were updated with new data regularly. The client wanted software that triggers itself automatically and takes data from those data sources and ingests it into a database that is hosted on a Linode server. Also, the date parameters in the query should be changed dynamically using the current date. Further, we had to assist in setting up the Tableau BI tool on the client’s PC and connect the Postgres database to the tableau. Our SolutionWe setup a linux server on linode.Install Postgres on this linux server.Create a database and create a new user. Grant this new user all privileges on the database.Create a table within the database. This table has columns with datatypes as specified by the client.Write a python script that makes GET request to the client specified data source and store the response in json format.Inside the python script itself, establish  a connection to our postgres database using the pscopg2 module and user credentials.Ingest the data into postgres using INSERT query in python script.Write code to get the today’s date using the datetime module. Using this, calculate yesterday’s date. Now we can use these as parameters inside our query to the data source.Move these python files to our server.Install and setup Cron on our server. Add the task to run specified python files at regular intervals to Cron.Repeat steps 4 to 11 for every new data source.Project DeliverablesPython ScriptWorking linode server with cron installedTableau installation and connection to postgresProject DocumentationTools usedLinode serverVS Code Language/techniques usedPython BashPSQL.Skills usedPython programmingPostgres SQL Linux scriptingDatabases usedPostgresWeb Cloud Servers usedLinodeWhat are the technical Challenges Faced during Project ExecutionAvoiding duplicates was a challenge. Since Client was living in Australia all the timezone (on server and in code) were changed to AEDT. How the Technical Challenges were SolvedUsed uniqueid Column to check for duplicates. Used pytz module to change timezones.Business ImpactThis solution helps in maintaining a copy of all data sources inside our Postgres database. Also, the data is 24/7 available. Since data inside the Postgres is updated regularly, graphs in the tableau are also up to date.Project SnapshotsProject website urlhttps://github.com/X360pro/Web-connector-for-tableu
+
+ 
+
+ 
+
+  
+Previous articleAn app for updating the email id of the user and stripe refund tool using retoolNext articleData integration and big data performance using Elasticsearch Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesIT
+
+Web Data Connector
+
+By Ajay Bidyarthy -   July 13, 2022  8884 
+
+
+
+
+
+Client BackgroundClient: A Leading Marketing Tech Firm in AustraliaIndustry Type: MarketingServices: Marketing SolutionsOrganization Size: 50+Project ObjectiveTo make a software code that takes data from a source and ingests it into a database present on a server. The scripts should automatically execute after regular intervals of time. Project DescriptionThe client had several data sources that were updated with new data regularly. The client wanted software that triggers itself automatically and takes data from those data sources and ingests it into a database that is hosted on a Linode server. Also, the date parameters in the query should be changed dynamically using the current date. Further, we had to assist in setting up the Tableau BI tool on the client’s PC and connect the Postgres database to the tableau. Our SolutionWe setup a linux server on linode.Install Postgres on this linux server.Create a database and create a new user. Grant this new user all privileges on the database.Create a table within the database. This table has columns with datatypes as specified by the client.Write a python script that makes GET request to the client specified data source and store the response in json format.Inside the python script itself, establish  a connection to our postgres database using the pscopg2 module and user credentials.Ingest the data into postgres using INSERT query in python script.Write code to get the today’s date using the datetime module. Using this, calculate yesterday’s date. Now we can use these as parameters inside our query to the data source.Move these python files to our server.Install and setup Cron on our server. Add the task to run specified python files at regular intervals to Cron.Repeat steps 4 to 11 for every new data source.Project DeliverablesPython ScriptWorking linode server with cron installedTableau installation and connection to postgresProject DocumentationTools usedLinode serverVS Code Language/techniques usedPython BashPSQL.Skills usedPython programmingPostgres SQL Linux scriptingDatabases usedPostgresWeb Cloud Servers usedLinodeWhat are the technical Challenges Faced during Project ExecutionAvoiding duplicates was a challenge. Since Client was living in Australia all the timezone (on server and in code) were changed to AEDT. How the Technical Challenges were SolvedUsed uniqueid Column to check for duplicates. Used pytz module to change timezones.Business ImpactThis solution helps in maintaining a copy of all data sources inside our Postgres database. Also, the data is 24/7 available. Since data inside the Postgres is updated regularly, graphs in the tableau are also up to date.Project SnapshotsProject website urlhttps://github.com/X360pro/Web-connector-for-tableu
+
+ 
+
+ 
+
+  
+Previous articleAn app for updating the email id of the user and stripe refund tool using retoolNext articleData integration and big data performance using Elasticsearch Ajay Bidyarthy  
+
+
+Our Success StoriesIT
+
+Web Data Connector
+
+By Ajay Bidyarthy -   July 13, 2022  8884 
+
+
+By Ajay Bidyarthy -  
+8884
+
+
+
+Client BackgroundClient: A Leading Marketing Tech Firm in AustraliaIndustry Type: MarketingServices: Marketing SolutionsOrganization Size: 50+Project ObjectiveTo make a software code that takes data from a source and ingests it into a database present on a server. The scripts should automatically execute after regular intervals of time. Project DescriptionThe client had several data sources that were updated with new data regularly. The client wanted software that triggers itself automatically and takes data from those data sources and ingests it into a database that is hosted on a Linode server. Also, the date parameters in the query should be changed dynamically using the current date. Further, we had to assist in setting up the Tableau BI tool on the client’s PC and connect the Postgres database to the tableau. Our SolutionWe setup a linux server on linode.Install Postgres on this linux server.Create a database and create a new user. Grant this new user all privileges on the database.Create a table within the database. This table has columns with datatypes as specified by the client.Write a python script that makes GET request to the client specified data source and store the response in json format.Inside the python script itself, establish  a connection to our postgres database using the pscopg2 module and user credentials.Ingest the data into postgres using INSERT query in python script.Write code to get the today’s date using the datetime module. Using this, calculate yesterday’s date. Now we can use these as parameters inside our query to the data source.Move these python files to our server.Install and setup Cron on our server. Add the task to run specified python files at regular intervals to Cron.Repeat steps 4 to 11 for every new data source.Project DeliverablesPython ScriptWorking linode server with cron installedTableau installation and connection to postgresProject DocumentationTools usedLinode serverVS Code Language/techniques usedPython BashPSQL.Skills usedPython programmingPostgres SQL Linux scriptingDatabases usedPostgresWeb Cloud Servers usedLinodeWhat are the technical Challenges Faced during Project ExecutionAvoiding duplicates was a challenge. Since Client was living in Australia all the timezone (on server and in code) were changed to AEDT. How the Technical Challenges were SolvedUsed uniqueid Column to check for duplicates. Used pytz module to change timezones.Business ImpactThis solution helps in maintaining a copy of all data sources inside our Postgres database. Also, the data is 24/7 available. Since data inside the Postgres is updated regularly, graphs in the tableau are also up to date.Project SnapshotsProject website urlhttps://github.com/X360pro/Web-connector-for-tableu
+
+ 
+
+
+  
+Previous articleAn app for updating the email id of the user and stripe refund tool using retoolNext articleData integration and big data performance using Elasticsearch
+Previous articleAn app for updating the email id of the user and stripe refund tool using retool
+Previous articleAn app for updating the email id of the user and stripe refund tool using retool
+Next articleData integration and big data performance using Elasticsearch
+Next articleData integration and big data performance using Elasticsearch
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube

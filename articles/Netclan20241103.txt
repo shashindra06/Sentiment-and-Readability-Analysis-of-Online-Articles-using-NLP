@@ -1,0 +1,668 @@
+Title: Auvik, Connectwise integration in Grafana | Blackcoffer Insights
+
+Our Success Stories
+
+Banking Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle & eCommerce
+Production & manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+ 
+
+
+
+
+
+
+Our Success Stories  
+
+Transforming Real Estate Investments with an Automated Stack shares Platform
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Empowering Careers: The Hirekingdom
+
+
+March 13, 2025 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+
+
+October 24, 2024 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Facial Recognition Attendance System
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI audio and text conversational bot using livekit
+
+
+November 30, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+AI Receptionist | Voice Call Center | AI Lawyer | AI Sales Representative | AI Representative | AI Doctor | AI Coach | AI...
+
+
+November 21, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Face Recognition with Deepfills Framework – Deepface
+
+
+October 18, 2024 
+
+
+
+
+
+
+
+What We Do  
+
+Development of EA Robot for Automated Trading
+
+
+September 15, 2024 
+
+
+
+
+
+
+
+Utilities  
+
+The Ultimate Collection of Multimedia Tools for Video Editing & Screen Recording (2024 Edition)
+
+
+March 22, 2025 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.
+
+
+August 24, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+
+
+August 18, 2023 
+
+
+
+
+
+
+
+How To  
+
+AI tools for mechanical engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Civil engineering AI Tools and Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+AI tools and software for Electrical Engineering, categorized based on their applications
+
+
+March 24, 2025 
+
+
+
+
+
+
+
+How To  
+
+Chemical engineering AI Tools & AI Software
+
+
+March 24, 2025 
+
+
+
+
+
+
+Home  Our Success Stories  Auvik, Connectwise integration in Grafana
+
+
+
+
+
+Our Success StoriesITProduction & manufacturing
+
+Auvik, Connectwise integration in Grafana
+
+By Ajay Bidyarthy -   July 13, 2022  9155 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project ObjectiveGet statistics such as uptime,  availability, cpu throughput etc. from Auvik and Connectwise and make a dashboard from it in Grafana.Project DescriptionUnlike many technologies for which plugins are readily available in Grafana, there are none for auvik and Connectwise. So our task was to device a solution through which all the data from Auvik and Connectwise can be fed to Grafana. This data then would be used to plot graphs in Grafana.Our Solution
+Setup Postgres on linux
+Create appropriate databases, tables and users in it.
+Use python to get data from Auvik and Connectwise and perform necessary preprocesing.
+In the same python file, Connect to our postgres database.
+Ingest this data into postgres database.
+Setup Grafana.
+Connect Grafana to postgres using the postgres plugin.
+Query our postgres database in Grafana to get desired results.
+Plot multiple graphs according to client’s requirement and make a dashboard from it
+Project Deliverables
+Setup Postgres
+Setup Postrges in Grafana
+Write Python code to get data from Auvik and Connectwise into Postrges
+Plot graphs into Grafana according to client’s requirement
+Make dashboards for all the graphs
+Tools usedGrafanaPostgresVs CodeAWSPostmanLanguage/techniques usedPythonbashSkills usedPythonnetworkingData visualisationDatabases usedPostgresWeb Cloud Servers usedAmazon Web Services (AWS)What are the technical Challenges Faced during Project ExecutionSince, the data received from Auvik was in Json fromat, our first approach was to use Grafana’s built-in Json plugin. But this wasn’t working since, the data received from Auvik was multi-dimensional when the Json plugin required One dimensional data. How the Technical Challenges were SolvedThe above challenge was addressed by transforming the multi- dimensional data into one dimensional when it was store in a python variable. This transformed data was then inserted into Postgres.Project SnapshotsProject website urlhttps://github.com/AjayBidyarthy/Henry-PardoProject Video
+https://www.youtube.com/watch?v=7CcbdfjkBzc&ab_channel=Blackcoffer
+ 
+
+ 
+
+  
+Previous articleData integration and big data performance using ElasticsearchNext articlePortfolio: Website, Dashboard, SaaS Applications, Web Apps Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+Home  Our Success Stories  Auvik, Connectwise integration in Grafana
+
+
+
+
+
+Our Success StoriesITProduction & manufacturing
+
+Auvik, Connectwise integration in Grafana
+
+By Ajay Bidyarthy -   July 13, 2022  9155 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project ObjectiveGet statistics such as uptime,  availability, cpu throughput etc. from Auvik and Connectwise and make a dashboard from it in Grafana.Project DescriptionUnlike many technologies for which plugins are readily available in Grafana, there are none for auvik and Connectwise. So our task was to device a solution through which all the data from Auvik and Connectwise can be fed to Grafana. This data then would be used to plot graphs in Grafana.Our Solution
+Setup Postgres on linux
+Create appropriate databases, tables and users in it.
+Use python to get data from Auvik and Connectwise and perform necessary preprocesing.
+In the same python file, Connect to our postgres database.
+Ingest this data into postgres database.
+Setup Grafana.
+Connect Grafana to postgres using the postgres plugin.
+Query our postgres database in Grafana to get desired results.
+Plot multiple graphs according to client’s requirement and make a dashboard from it
+Project Deliverables
+Setup Postgres
+Setup Postrges in Grafana
+Write Python code to get data from Auvik and Connectwise into Postrges
+Plot graphs into Grafana according to client’s requirement
+Make dashboards for all the graphs
+Tools usedGrafanaPostgresVs CodeAWSPostmanLanguage/techniques usedPythonbashSkills usedPythonnetworkingData visualisationDatabases usedPostgresWeb Cloud Servers usedAmazon Web Services (AWS)What are the technical Challenges Faced during Project ExecutionSince, the data received from Auvik was in Json fromat, our first approach was to use Grafana’s built-in Json plugin. But this wasn’t working since, the data received from Auvik was multi-dimensional when the Json plugin required One dimensional data. How the Technical Challenges were SolvedThe above challenge was addressed by transforming the multi- dimensional data into one dimensional when it was store in a python variable. This transformed data was then inserted into Postgres.Project SnapshotsProject website urlhttps://github.com/AjayBidyarthy/Henry-PardoProject Video
+https://www.youtube.com/watch?v=7CcbdfjkBzc&ab_channel=Blackcoffer
+ 
+
+ 
+
+  
+Previous articleData integration and big data performance using ElasticsearchNext articlePortfolio: Website, Dashboard, SaaS Applications, Web Apps Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Our Success StoriesITProduction & manufacturing
+
+Auvik, Connectwise integration in Grafana
+
+By Ajay Bidyarthy -   July 13, 2022  9155 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project ObjectiveGet statistics such as uptime,  availability, cpu throughput etc. from Auvik and Connectwise and make a dashboard from it in Grafana.Project DescriptionUnlike many technologies for which plugins are readily available in Grafana, there are none for auvik and Connectwise. So our task was to device a solution through which all the data from Auvik and Connectwise can be fed to Grafana. This data then would be used to plot graphs in Grafana.Our Solution
+Setup Postgres on linux
+Create appropriate databases, tables and users in it.
+Use python to get data from Auvik and Connectwise and perform necessary preprocesing.
+In the same python file, Connect to our postgres database.
+Ingest this data into postgres database.
+Setup Grafana.
+Connect Grafana to postgres using the postgres plugin.
+Query our postgres database in Grafana to get desired results.
+Plot multiple graphs according to client’s requirement and make a dashboard from it
+Project Deliverables
+Setup Postgres
+Setup Postrges in Grafana
+Write Python code to get data from Auvik and Connectwise into Postrges
+Plot graphs into Grafana according to client’s requirement
+Make dashboards for all the graphs
+Tools usedGrafanaPostgresVs CodeAWSPostmanLanguage/techniques usedPythonbashSkills usedPythonnetworkingData visualisationDatabases usedPostgresWeb Cloud Servers usedAmazon Web Services (AWS)What are the technical Challenges Faced during Project ExecutionSince, the data received from Auvik was in Json fromat, our first approach was to use Grafana’s built-in Json plugin. But this wasn’t working since, the data received from Auvik was multi-dimensional when the Json plugin required One dimensional data. How the Technical Challenges were SolvedThe above challenge was addressed by transforming the multi- dimensional data into one dimensional when it was store in a python variable. This transformed data was then inserted into Postgres.Project SnapshotsProject website urlhttps://github.com/AjayBidyarthy/Henry-PardoProject Video
+https://www.youtube.com/watch?v=7CcbdfjkBzc&ab_channel=Blackcoffer
+ 
+
+ 
+
+  
+Previous articleData integration and big data performance using ElasticsearchNext articlePortfolio: Website, Dashboard, SaaS Applications, Web Apps Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+
+
+Our Success StoriesITProduction & manufacturing
+
+Auvik, Connectwise integration in Grafana
+
+By Ajay Bidyarthy -   July 13, 2022  9155 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project ObjectiveGet statistics such as uptime,  availability, cpu throughput etc. from Auvik and Connectwise and make a dashboard from it in Grafana.Project DescriptionUnlike many technologies for which plugins are readily available in Grafana, there are none for auvik and Connectwise. So our task was to device a solution through which all the data from Auvik and Connectwise can be fed to Grafana. This data then would be used to plot graphs in Grafana.Our Solution
+Setup Postgres on linux
+Create appropriate databases, tables and users in it.
+Use python to get data from Auvik and Connectwise and perform necessary preprocesing.
+In the same python file, Connect to our postgres database.
+Ingest this data into postgres database.
+Setup Grafana.
+Connect Grafana to postgres using the postgres plugin.
+Query our postgres database in Grafana to get desired results.
+Plot multiple graphs according to client’s requirement and make a dashboard from it
+Project Deliverables
+Setup Postgres
+Setup Postrges in Grafana
+Write Python code to get data from Auvik and Connectwise into Postrges
+Plot graphs into Grafana according to client’s requirement
+Make dashboards for all the graphs
+Tools usedGrafanaPostgresVs CodeAWSPostmanLanguage/techniques usedPythonbashSkills usedPythonnetworkingData visualisationDatabases usedPostgresWeb Cloud Servers usedAmazon Web Services (AWS)What are the technical Challenges Faced during Project ExecutionSince, the data received from Auvik was in Json fromat, our first approach was to use Grafana’s built-in Json plugin. But this wasn’t working since, the data received from Auvik was multi-dimensional when the Json plugin required One dimensional data. How the Technical Challenges were SolvedThe above challenge was addressed by transforming the multi- dimensional data into one dimensional when it was store in a python variable. This transformed data was then inserted into Postgres.Project SnapshotsProject website urlhttps://github.com/AjayBidyarthy/Henry-PardoProject Video
+https://www.youtube.com/watch?v=7CcbdfjkBzc&ab_channel=Blackcoffer
+ 
+
+ 
+
+  
+Previous articleData integration and big data performance using ElasticsearchNext articlePortfolio: Website, Dashboard, SaaS Applications, Web Apps Ajay Bidyarthy  
+ 
+
+
+ 
+
+
+
+Our Success StoriesITProduction & manufacturing
+
+Auvik, Connectwise integration in Grafana
+
+By Ajay Bidyarthy -   July 13, 2022  9155 
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project ObjectiveGet statistics such as uptime,  availability, cpu throughput etc. from Auvik and Connectwise and make a dashboard from it in Grafana.Project DescriptionUnlike many technologies for which plugins are readily available in Grafana, there are none for auvik and Connectwise. So our task was to device a solution through which all the data from Auvik and Connectwise can be fed to Grafana. This data then would be used to plot graphs in Grafana.Our Solution
+Setup Postgres on linux
+Create appropriate databases, tables and users in it.
+Use python to get data from Auvik and Connectwise and perform necessary preprocesing.
+In the same python file, Connect to our postgres database.
+Ingest this data into postgres database.
+Setup Grafana.
+Connect Grafana to postgres using the postgres plugin.
+Query our postgres database in Grafana to get desired results.
+Plot multiple graphs according to client’s requirement and make a dashboard from it
+Project Deliverables
+Setup Postgres
+Setup Postrges in Grafana
+Write Python code to get data from Auvik and Connectwise into Postrges
+Plot graphs into Grafana according to client’s requirement
+Make dashboards for all the graphs
+Tools usedGrafanaPostgresVs CodeAWSPostmanLanguage/techniques usedPythonbashSkills usedPythonnetworkingData visualisationDatabases usedPostgresWeb Cloud Servers usedAmazon Web Services (AWS)What are the technical Challenges Faced during Project ExecutionSince, the data received from Auvik was in Json fromat, our first approach was to use Grafana’s built-in Json plugin. But this wasn’t working since, the data received from Auvik was multi-dimensional when the Json plugin required One dimensional data. How the Technical Challenges were SolvedThe above challenge was addressed by transforming the multi- dimensional data into one dimensional when it was store in a python variable. This transformed data was then inserted into Postgres.Project SnapshotsProject website urlhttps://github.com/AjayBidyarthy/Henry-PardoProject Video
+https://www.youtube.com/watch?v=7CcbdfjkBzc&ab_channel=Blackcoffer
+ 
+
+ 
+
+  
+Previous articleData integration and big data performance using ElasticsearchNext articlePortfolio: Website, Dashboard, SaaS Applications, Web Apps Ajay Bidyarthy  
+
+
+Our Success StoriesITProduction & manufacturing
+
+Auvik, Connectwise integration in Grafana
+
+By Ajay Bidyarthy -   July 13, 2022  9155 
+
+
+By Ajay Bidyarthy -  
+9155
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project ObjectiveGet statistics such as uptime,  availability, cpu throughput etc. from Auvik and Connectwise and make a dashboard from it in Grafana.Project DescriptionUnlike many technologies for which plugins are readily available in Grafana, there are none for auvik and Connectwise. So our task was to device a solution through which all the data from Auvik and Connectwise can be fed to Grafana. This data then would be used to plot graphs in Grafana.Our Solution
+Setup Postgres on linux
+Create appropriate databases, tables and users in it.
+Use python to get data from Auvik and Connectwise and perform necessary preprocesing.
+In the same python file, Connect to our postgres database.
+Ingest this data into postgres database.
+Setup Grafana.
+Connect Grafana to postgres using the postgres plugin.
+Query our postgres database in Grafana to get desired results.
+Plot multiple graphs according to client’s requirement and make a dashboard from it
+Project Deliverables
+Setup Postgres
+Setup Postrges in Grafana
+Write Python code to get data from Auvik and Connectwise into Postrges
+Plot graphs into Grafana according to client’s requirement
+Make dashboards for all the graphs
+Tools usedGrafanaPostgresVs CodeAWSPostmanLanguage/techniques usedPythonbashSkills usedPythonnetworkingData visualisationDatabases usedPostgresWeb Cloud Servers usedAmazon Web Services (AWS)What are the technical Challenges Faced during Project ExecutionSince, the data received from Auvik was in Json fromat, our first approach was to use Grafana’s built-in Json plugin. But this wasn’t working since, the data received from Auvik was multi-dimensional when the Json plugin required One dimensional data. How the Technical Challenges were SolvedThe above challenge was addressed by transforming the multi- dimensional data into one dimensional when it was store in a python variable. This transformed data was then inserted into Postgres.Project SnapshotsProject website urlhttps://github.com/AjayBidyarthy/Henry-PardoProject Video
+https://www.youtube.com/watch?v=7CcbdfjkBzc&ab_channel=Blackcoffer
+ 
+
+
+  
+Previous articleData integration and big data performance using ElasticsearchNext articlePortfolio: Website, Dashboard, SaaS Applications, Web Apps
+Previous articleData integration and big data performance using Elasticsearch
+Previous articleData integration and big data performance using Elasticsearch
+Next articlePortfolio: Website, Dashboard, SaaS Applications, Web Apps
+Next articlePortfolio: Website, Dashboard, SaaS Applications, Web Apps
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Review: Penalty Shoot Out de Evoplay en Casinos Online para México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Disparo al Gol: Todo sobre el “Penalty Shoot Out” de Evoplay y los Casinos con Retiro Inmediato en México
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ 
+
+Penal Shoot Out de Evoplay: Un Juego que Captura la Emoción del Fútbol en Casinos Mexicanos
+
+
+June 7, 2025 
+
+
+
+
+
+
+
+ABOUT US
+
+
+FOLLOW US
+
+
+FacebookLinkedinTwitterYoutube
